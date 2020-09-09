@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Academic</title>
+    <link>/category/teaching/</link>
+      <atom:link href="/category/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Aug 2016 00:05:23 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Teaching</title>
+      <link>/category/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Everything is fucked &amp;#8230;</title>
+      <link>/post/2016-08-12-everything-is-fucked/</link>
+      <pubDate>Fri, 12 Aug 2016 00:05:23 -0700</pubDate>
+      <guid>/post/2016-08-12-everything-is-fucked/</guid>
+      <description>&lt;p&gt;This syllabus of an (obviously) awesome class has a ton of good reads:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hardsci.wordpress.com/2016/08/11/everything-is-fucked-the-syllabus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything is fucked: The syllabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Sanjay Srivastava&lt;/p&gt;
+&lt;p&gt;I would have two additions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://webcom.upmf-grenoble.fr/LIP/DMuller/resources/documents/HCAetal-IP-PPS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A multi lab replication project on ego-depletion&lt;/a&gt; (Hagger &amp;amp; Chatzisarantis, 2016)&lt;/li&gt;
+&lt;li&gt;And the [response](doi: 10.1177/1745691616652878) from Roy Baumeister and Kathleen D. Vohs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It’s a really good statement of how f… up things are (in addition to all the other good examples above) …&lt;/p&gt;
+&lt;p class=&#34;p1&#34;&gt;
+  “A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.” &amp;#8211; Max Planck
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The exams package</title>
+      <link>/post/2016-06-11-the-exams-package/</link>
+      <pubDate>Sat, 11 Jun 2016 02:09:52 -0700</pubDate>
+      <guid>/post/2016-06-11-the-exams-package/</guid>
+      <description>&lt;p&gt;I gave the R package 
+&lt;a href=&#34;https://cran.r-project.org/web/packages/exams/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exams&lt;/a&gt; a shot for my decision making lecture. Here is what it does:&lt;/p&gt;
+&lt;p&gt;“Automatic generation of exams based on exercises in Sweave (R/LaTeX) or R/Markdown format, including multiple-choice questions and arithmetic problems. Exams can be produced in various formats, including PDF, HTML, Moodle XML, QTI 1.2 (for OLAT/OpenOLAT), QTI 2.1, ARSnova, and TCExam. In addition to fully customizable PDF exams, a standardized PDF format is provided that can be printed, scanned, and automatically evaluated.”&lt;/p&gt;
+&lt;p&gt;After some fiddling and help from one of the authors (the incredible nice 
+&lt;a href=&#34;https://www.uibk.ac.at/statistics/personal/zeileis/index.html.en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Achim Zeileis&lt;/a&gt;, Uni Innsbruck)  I got the following setup going:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pool of ~ 100 questions in .Rmd format (all multiple choice, 3-6 answer options) grouped into lectures&lt;/li&gt;
+&lt;li&gt;sampling out of the pool (e.g., 5 questions out of each lecture)&lt;/li&gt;
+&lt;li&gt;random order of questions in each version of the exam (while keeping the lecture order, which I think is useful to give student more structure to work from)&lt;/li&gt;
+&lt;li&gt;random order of the answers for each question&lt;/li&gt;
+&lt;li&gt;exam with the correct answers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-444&#34; src=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2016/06/Screen-Shot-2016-06-11-at-11.00.22-203x300.png&#34; alt=&#34;Screen Shot 2016-06-11 at 11.00.22&#34; width=&#34;203&#34; height=&#34;300&#34; srcset=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-11-at-11.00.22-203x300.png 203w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-11-at-11.00.22-338x500.png 338w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-11-at-11.00.22.png 386w&#34; sizes=&#34;(max-width: 203px) 100vw, 203px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;There are three parts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;questions[] defining the answers to a question&lt;/li&gt;
+&lt;li&gt;solutions[] defining the correct answers&lt;/li&gt;
+&lt;li&gt;in LaTeX the actual question&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All of this information goes into an .Rmd file.&lt;/p&gt;
+&lt;p&gt;Once this is done one has to define the questions to be included (the pool) and set the details for the selection process:&lt;/p&gt;
+&lt;pre&gt;sol &amp;lt;- exams2pdf(myexam, 
+n = 2, 
+nsamp = 5, 
+dir = odir, 
+ template = c(&#34;my_exam&#34;, &#34;solution&#34;), 
+ encoding = &#39;UTF-8&#39;,
+ header = list(Date = &#34;10.06.2016&#34;)
+)&lt;/pre&gt;
+&lt;p&gt;This code would give me 2 exams with a sample of 5 questions out of each block of questions.&lt;/p&gt;
+&lt;p&gt;Pretty awesome (after some setup work).&lt;/p&gt;
+&lt;p&gt;Thanks Achim et al. !!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

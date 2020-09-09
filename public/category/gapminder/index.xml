@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gapminder | Academic</title>
+    <link>/category/gapminder/</link>
+      <atom:link href="/category/gapminder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gapminder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 May 2012 00:05:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gapminder</title>
+      <link>/category/gapminder/</link>
+    </image>
+    
+    <item>
+      <title>Religion and # of babies &amp;#8230;</title>
+      <link>/post/2012-05-24-religion-and-of-babies/</link>
+      <pubDate>Thu, 24 May 2012 00:05:00 -0700</pubDate>
+      <guid>/post/2012-05-24-religion-and-of-babies/</guid>
+      <description>&lt;p&gt;Religion seems to have little influence on the # of babies per woman – who might have thought …&lt;br&gt;
+
+&lt;a href=&#34;http://www.ted.com/talks/hans_rosling_religions_and_babies.html?utm_source=newsletter_weekly_2012-05-22&amp;amp;utm_campaign=newsletter_weekly&amp;amp;utm_medium=email&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is another excellent talk of Hans Rösling on the topic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

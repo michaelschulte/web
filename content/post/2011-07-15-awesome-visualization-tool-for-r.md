@@ -1,0 +1,13 @@
+---
+id: 176
+title: awesome visualization tool for R
+date: 2011-07-15T04:07:04-07:00
+author: Michael
+layout: post
+guid: http://www.schulte-mecklenbeck.com/?p=176
+permalink: /2011/07/awesome-visualization-tool-for-r/
+categories:
+  - Google
+  - R
+---
+<http://cran.r-project.org/web/packages/googleVis/> enables chart generation similar to the ones instroduced by [Hans Roesling](http://en.wikipedia.org/wiki/Hans_Rosling) in his [TED talk](http://en.wikipedia.org/wiki/Hans_Rosling) on poverty &#8211; extremly cool 🙂

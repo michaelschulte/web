@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RRR | Academic</title>
+    <link>/category/rrr/</link>
+      <atom:link href="/category/rrr/index.xml" rel="self" type="application/rss+xml" />
+    <description>RRR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2017 14:23:40 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>RRR</title>
+      <link>/category/rrr/</link>
+    </image>
+    
+    <item>
+      <title>Professor priming &amp;#8211; or not</title>
+      <link>/post/2017-11-13-professor-priming-or-not/</link>
+      <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
+      <guid>/post/2017-11-13-professor-priming-or-not/</guid>
+      <description>&lt;div class=&#34;page&#34; title=&#34;Page 2&#34;&gt;
+  &lt;div class=&#34;section&#34;&gt;
+    &lt;div class=&#34;layoutArea&#34;&gt;
+      &lt;div class=&#34;column&#34;&gt;
+        &lt;p&gt;
+          This was my first contribution to a &lt;a href=&#34;https://www.psychologicalscience.org/publications/replication-dijksterhuis-van-knippenberg&#34;&gt;Registered Replication Report&lt;/a&gt; (RRR). Being one of 40 participating labs was an interesting exercise &amp;#8211; it might seem straightforward to run the same study in different labs, but we learned that such small things as ü, ä and ö can generate a huge amount of problems and work (read &lt;a href=&#34;https://en.wikipedia.org/wiki/UTF-8&#34;&gt;this&lt;/a&gt; if you are into these kind of things).
+        &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;p&amp;gt;
+      Here is one of the central results:
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      &amp;lt;img class=&amp;quot;aligncenter size-full wp-image-579&amp;quot; src=&amp;quot;http://www.schulte-mecklenbeck.com/wp-content/uploads//2017/11/Screen-Shot-2017-11-13-at-22.19.39.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;718&amp;quot; height=&amp;quot;609&amp;quot; srcset=&amp;quot;http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39.png 718w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39-300x254.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39-589x500.png 589w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39-500x424.png 500w&amp;quot; sizes=&amp;quot;(max-width: 718px) 100vw, 718px&amp;quot; /&amp;gt;
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      So overall not a lot of action &amp;amp;#8230; our lab was actually the one with larges effect size (in the predicted direction).
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      Here is the abstract of the whole paper and here the &amp;lt;a href=&amp;quot;https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf&amp;quot;&amp;gt;Commentary by Ap Dijksterhuis&amp;lt;/a&amp;gt; naturally, he sees things a bit different &amp;amp;#8230;
+    &amp;lt;/p&amp;gt;
+  &amp;lt;/div&amp;gt;
+  
+  &amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+    &amp;lt;p&amp;gt;
+      Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
+    &amp;lt;/p&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

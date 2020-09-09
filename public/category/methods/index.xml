@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methods | Academic</title>
+    <link>/category/methods/</link>
+      <atom:link href="/category/methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>Methods</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2017 12:20:52 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Methods</title>
+      <link>/category/methods/</link>
+    </image>
+    
+    <item>
+      <title>Eye-Tracking with N &gt; 1</title>
+      <link>/post/2017-03-13-eye-tracking-with-n-1/</link>
+      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
+      <guid>/post/2017-03-13-eye-tracking-with-n-1/</guid>
+      <description>&lt;p&gt;This is one of the fastest papers I have ever written. It was a great collaboration with 
+&lt;a href=&#34;http://www.uib.eu/personal/ABjI1MDg3Mw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tomás Lejarraga&lt;/a&gt; from the Universitat de les Illes Balears. Why was it great? Because it is one of the rare cases (at least in my academic life) where all people involved in a project contribute equally and quickly. Often, the weight of a contribution lies with one person which slows down things – with Tomás this was different – we were often sitting in front of a computer writing together (have never done this before, thought it would not work). Surprisingly this collaborative writing worked out very well and we had the skeleton of the paper within an afternoon. This was followed by many hours of tuning and tacking turns – but in principle we wrote the most important parts together – which was pretty cool.&lt;/p&gt;
+&lt;p&gt;Even cooler – you can do eye-tracking in groups, using our code.&lt;/p&gt;
+&lt;p&gt;Here is the [
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Lejarraga2016.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;] and abstract:&lt;/p&gt;
+&lt;p&gt;The recent introduction of inexpensive eye-trackers has opened up a wealth of opportunities for researchers to study attention in interactive tasks. No software package was previously available to help researchers exploit those opportunities. We created “the pyeTribe”, a software package that offers, among others, the following features: First, a communication platform between many eye-trackers to allow simultaneous recording of multiple participants. Second, the simultaneous calibration of multiple eye-trackers without the experimenter’s supervision. Third, data collection restricted to periods of interest, thus reducing the volume of data and easing analysis. We used a standard economic game (the public goods game) to examine data quality and demonstrate the potential of our software package. Moreover, we conducted a modeling analysis, which illustrates how combining process and behavioral data can improve models of human decision making behavior in social situations. Our software is open source and can thus be used and improved by others.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Paper on pychodiagnosis and eye-tracking</title>
+      <link>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</link>
+      <pubDate>Tue, 10 Nov 2015 03:39:33 -0700</pubDate>
+      <guid>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</guid>
+      <description>&lt;p&gt;Cilia Witteman and Nanon Spaanjaars (my dutch connection) worked together on a piece on whether psychodiagnosticians improve over time (they don’t) in their ability to classify symptoms to DSM categories. This turned out to be a pretty cool paper combining eye-tracking data with a practical, and hopefully, relevant question.&lt;/p&gt;
+&lt;p&gt;Schulte-Mecklenbeck, M., Spaanjaars, N.L., &amp;amp; Witteman, C.L.M. (in press). 
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Schulte-Mecklenbeck_et_al2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The (in)visibility of psychodiagnosticians’ expertise&lt;/a&gt;. &lt;em&gt;Journal of Behavioral Decision Making&lt;/em&gt;. http://dx.doi.org/10.1002/bdm.1925&lt;/p&gt;
+&lt;div class=&#34;page&#34; title=&#34;Page 1&#34;&gt;
+  &lt;div class=&#34;layoutArea&#34;&gt;
+    &lt;div class=&#34;column&#34;&gt;
+      &lt;p&gt;
+        &lt;strong&gt;Abstract&lt;/strong&gt;
+      &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  &amp;lt;p&amp;gt;
+    This study investigates decision making in mental health care. Specifically, it compares the diagnostic decision outcomes (i.e., the quality of diagnoses) and the diagnostic decision process (i.e., pre-decisional information acquisition patterns) of novice and experienced clinical psychologists. Participants’ eye movements were recorded while they completed diagnostic tasks, classifying mental disorders. In line with previous research, our findings indicate that diagnosticians’ performance is not related to their clinical experience. Eye-tracking data pro- vide corroborative evidence for this result from the process perspective: experience does not predict changes in cue inspection patterns. For future research into expertise in this domain, it is advisable to track individual differences between clinicians rather than study differences on the group level.
+  &amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why anybody should learn/use R &amp;#8230;</title>
+      <link>/post/2011-08-02-why-anybody-should-learnuse-r/</link>
+      <pubDate>Tue, 02 Aug 2011 06:36:14 -0700</pubDate>
+      <guid>/post/2011-08-02-why-anybody-should-learnuse-r/</guid>
+      <description>&lt;p&gt;I had a discussion the other day on the re-appearing topic why one should learn R …&lt;br&gt;
+I took the list below from the 
+&lt;a href=&#34;http://www.r-bloggers.com/10-reasons-why-a-grad-student-should-use-r/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Bloggers&lt;/a&gt; which argues why grad students should learn R:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;R is free, and lets grad students escape the burdens of commercial license costs.&lt;/li&gt;
+&lt;li&gt;R has really good online documentation; and the community is unparalleled.  &lt;/li&gt;
+&lt;li&gt;The command-line interface is perfect for learning by doing. &lt;/li&gt;
+&lt;li&gt;R is on the cutting edge, and expanding rapidly.&lt;/li&gt;
+&lt;li&gt;The R programming language is intuitive.  &lt;/li&gt;
+&lt;li&gt;R creates stunning visuals. &lt;/li&gt;
+&lt;li&gt;R and LaTeX work together — seamlessly. &lt;/li&gt;
+&lt;li&gt;R is used by practitioners in a plethora of academic disciplines. &lt;/li&gt;
+&lt;li&gt;R makes you think.  &lt;/li&gt;
+&lt;li&gt;There’s always more than one way to accomplish something.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a great list – I would add that from the perspective of an university it makes sense to save a lot of money in not having to buy licenses. And reproducability is great with R because the code is always written in a text-file and not bound by software versions (as in other three or four letter (feel free to combine from: [A, P, S]) packages).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychology as a reproducible Science</title>
+      <link>/post/2011-03-15-psychology-as-a-reproducible-science/</link>
+      <pubDate>Tue, 15 Mar 2011 13:30:49 -0700</pubDate>
+      <guid>/post/2011-03-15-psychology-as-a-reproducible-science/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Is Psychology ready for reproducible research?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Today the typical research process in psychology looks generally like this: we collect data; analyze them in many ways; write a draft article based on some of the results; submit the draft to a journal; maybe produce a revision following the suggestions of the reviewers and editors; and hopefully live long enough to actually see it published. All of these steps are closed to the public except for the last one – the publication of the (often substantially) revised version of the paper. Journal editors and reviewers evaluate the written work submitted to them, they trust that the analyses described in the submission are done in a principled and correct way. Editors and reviewers are the only external part of this process who will have an active influence on what analyses are done. After the publication of an article the public has the opportunity to write comments or ask the authors for the actual datasets for re-analysis. Often however, getting access to data from published papers is hard, if not often impossible (Savage &amp;amp; Vickers, 2009; Wicherts, Borsboom, Kats, &amp;amp; Molenaar, 2006).  Unfortunately only the gist of the analyses are described in the paper and neither exact verification nor innovative additional analyses are possible.&lt;/p&gt;
+&lt;p&gt;What could be a solution for this problem? An example from computer science provides a concept called “literate programming” which was advocated by one of the field’s grandmasters, Donald Knuth, in 1984. Knuth suggested that documentation (comments in the code) should be just as important as the actual code itself. This idea was reflected nearly 20 years later when Schwab et al. (2000) formulated a concept that “replication by other scientists” is a central aim and guardian for intellectual quality; they coined the term “reproducible research” for such a process.&lt;/p&gt;
+&lt;p&gt;Let’s move the research process to a more open, reproducible structure, in which scientific peers have the ability to evaluate not only the final publication but also the data and the analyses.&lt;br&gt;
+Ideally, research papers would have code for analyses which are commented in detail and are submitted in tandem with drafts as well as the original datasets. Anybody, not only a restricted group of select reviewers and editors, could reproduce all the steps of the analysis and follow the logic of arguments on not only the conceptual level but at an analytic level as well. This openness facilities easy reanalysis of data also. Meta-analysis could be done more frequently and with greater resolution as the actual data are available. Moreover, this configuration would allow us collectively to estimate effects in the population and not restrict our attention to independent small samples (see Henrich, Heine, &amp;amp; Norenzayan, 2010 for a discussion of this topic).&lt;/p&gt;
+&lt;p&gt;What do we need to achieve this? From a policy perspective, journals would have to add the requirement for data and code submission together with the draft of each empirical paper. Some journals already provide the option to do that (e.g., Behavior Research Methods) in the supplemental material section on a voluntary base, some require the submission of all necessary material to replicate the reported results (e.g., Econometrica), however most do not offer such a possibility (it is of course possible to provide such materials through private or university web sites, but this is a haphazard and decentralized arrangement).&lt;/p&gt;
+&lt;p&gt;Tools are a second important part of facilitating this openness. Three open source (free of cost) components could provide the bases for reproducible research:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (&lt;a href=&#34;http://www.R-project.org&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, &lt;a href=&#34;http://www.latex-project.org/)&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The power of these different tools comes from the combination of their being open source, their widespread adoption (across a wide range of fields in sciences), and the fully transparent means by which data analysis is conducted and reported.  It levels the playing field and means that anybody with an Internet connection and a computer can take part in evolving scientific progress.&lt;/p&gt;
+&lt;p&gt;John Godfrey Saxe famously said that: “Laws, like sausages, cease to inspire respect in proportion as we know how they are made.” We should strive that this is not true for psychology as a science.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R goes cloud</title>
+      <link>/post/2010-04-16-r-goes-cloud/</link>
+      <pubDate>Fri, 16 Apr 2010 23:24:03 -0700</pubDate>
+      <guid>/post/2010-04-16-r-goes-cloud/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.stat.ucla.edu/~jeroen/cv.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeroen Ooms&lt;/a&gt; did for R what Google did for editing documents online. He created several software packages that help running R with a nice frontend over the Internet.&lt;br&gt;
+I first learned about Jeroen’s website through his 
+&lt;a href=&#34;http://www.stat.ucla.edu/~jeroen/ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;implementation of ggplot2&lt;/a&gt; – this page is useful to generate graphs with the powerful ggplot2 package without R knowledge, however it is even more helpful to learn ggplot2 code with the View-code panel function which displays the underlying R code. If you are into random effect models another package connected to 
+&lt;a href=&#34;http://www.stat.ucla.edu/~jeroen/lme4.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lme4&lt;/a&gt; will guide you step by step through model building.&lt;br&gt;
+I think this is a great step forward for R and cloud computing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How WEIRD subjects can be overcome &amp;#8230; a comment on Henrich et al.</title>
+      <link>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</link>
+      <pubDate>Sat, 12 Dec 2009 06:11:14 -0700</pubDate>
+      <guid>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</guid>
+      <description>&lt;p&gt;Joe 
+&lt;a href=&#34;http://www.psych.ubc.ca/~henrich/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Henrich&lt;/a&gt; published a target article in BBS talking about how economics and psychology base their research on WEIRD (Western, Educated, Industrialized, Rich and Democratic) subjects.&lt;/p&gt;
+&lt;p&gt;Here is the whole abstract:&lt;br&gt;
+—&lt;br&gt;
+Behavioral scientists routinely publish broad claims about human psychology and behavior in the world’s top journals based on samples drawn entirely from Western, Educated, Industrialized, Rich and Democratic (WEIRD) societies. Researchers—often implicitly—assume that either there is little variation across human populations, or that these “standard subjects” are as representative of the species as any other population. Are these assumptions justified? Here, our review of the comparative database from across the behavioral sciences suggests both that there is substantial variability in experimental results across populations and that WEIRD subjects are particularly unusual compared with the rest of the species—frequent outliers. The domains reviewed include visual perception, fairness, cooperation, spatial reasoning, categorization and inferential induction, moral reasoning, reasoning styles, self-concepts and related motivations, and the heritability of IQ. The findings suggest that members of WEIRD societies, including young children, are among the least representative populations one could find for generalizing about humans. Many of these findings involve domains that are associated with fundamental aspects of psychology, motivation, and behavior—hence, there are no obvious a priori grounds for claiming that a particular behavioral phenomenon is universal based on sampling from a single subpopulation. Overall, these empirical patterns suggests that we need to be less cavalier in addressing questions of human nature on the basis of data drawn from this particularly thin, and rather unusual, slice of humanity. We close by proposing ways to structurally re-organize the behavioral sciences to best tackle these challenges.&lt;br&gt;
+—&lt;/p&gt;
+&lt;p&gt;I would like to make three suggestions that could help to overcome the era of WEIRD subjects and generate more reliable and representative data. These suggestions will mainly touch contrasts 2, 3 and 4 elaborated by Henrich, Heine and Norezayan. While my suggestions tackle these contrasts from a technical and experimental perspective they do not provide a general solution for the first contrast on industrialized versus small scale societies. Here are my suggestions: 1) replications in multiple labs, 2) internet based experimentation and 3) drawing representative samples from a population.&lt;br&gt;
+The first suggestion, replication in multiple labs, foremost touches aspects like replication, multiple populations and open data access. For a publication in a journal a replication of an experiment in a different lab would be obligatory. The replication would then be published with the original, e.g., in the form of a comment. This would ensure that other research labs in other states or countries are involved and very different parts of the population could be sampled. Also results of experiments would be freely available to the public and the data sharing problem in Psychology, as described in the target article, but also in other fields like Medicine (Savage &amp;amp; Vieckers, 2009) would be a problem of the past. Of course such a step would be closely linked with certain standards on the one hand in building experiments and on the other hand in storing data. While a standard way to build experiments seems unlikely there are many methods available in computer science to store data in a reusable, for example through the usage of XML (Extensible Markup Language).&lt;br&gt;
+The second suggestion is based on the drawing of representative samples from the population. As described in the target article, research often suffers from a restriction to extreme subgroups from the population, from which generalized results are drawn. However, there is published work that overcomes these restrictions. As an example I would like to use the Hertwig, Zangerl, Biedert and Margraf (2008) paper on probabilistic numeracy. The authors based their study on a random-quote sample from the Swiss population including indicators as language, area where participant is living, gender and age. To fulfill all the necessary criteria 1000 participants were recruited using telephone interviews. Such studies are certainly more expensive and somewhat restricted to simpler experimental setups (Hertwig et al., used telephone interviews based on questionnaires).&lt;br&gt;
+The third suggestion adds additional data collection in a second location: the Internet. The emphasis in the last sentence should be set on ‘add’. Data collection solely Internet based is of course possible, already often performed and published in high impact journals. Online experimentation is technically much less demanding than ten years ago due to the availability of ready made solutions for questionnaires or even experiments. The point I would like to make here should not be built on a separation of lab and online based experiments. My suggestion combines these two research locations and enables a researcher to profit from the many benefits arising. A possible scenario could include running an experiment in the laboratory first to guarantee, among other things, high control on the situation in order to show an effect with a small, restricted sample. In a second step the experiment is transferred to the Web and run online, admittedly giving away some of the control but providing the large benefit of having access to a diverse, large samples of participants from different populations easily. As an example I would like to point to a recent blog and related experiments started by Paolacci and Warglien (2009) at the University of Venice, Italy. These researchers started replicating well known experiments from the decision making literature like framing, anchoring or the conjunction fallacy with a service called the Mechanical Turk provided by Amazon. This service is based on the idea of crowdsourcing (outsourcing a task to a large group of people) and lets a researcher have easy access to a large group of motivated participants.&lt;br&gt;
+Some final words on the combination and possible restrictions of the three suggestions. What would a combination of all three suggestions look like? It would be a replication of experiments, using representative samples of different populations in online experiments. This seems useful from a data quality, logistics and prize point of view. However, several issues were left untouched in my discussion, such as the question of independence of the second lab for replication studies, the restriction of representative samples to one country (as opposed to multiple comparisons as routinely found in, e.g., anthropological studies), the differences between online and lab based experimentation or the instances where equipment needed for an experiments (e.g., eye trackers or fMRI) does not allow for online experimentation. Keeping that in mind the above suggestions draw an idealized picture of how to run experiments and re-use the collected data, nevertheless I would argue that such steps could help to reduce the percentage of WEIRD subjects in research substantially.&lt;/p&gt;
+&lt;p&gt;References&lt;br&gt;
+
+&lt;a href=&#34;http://www.psycho.unibas.ch/index_html?content=person&amp;amp;detail=cv&amp;amp;abteilung=Angewandte&amp;amp;person=Hertwig&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hertwig&lt;/a&gt;, R., Zangerl, M.A., Biedert, E., &amp;amp; Margraf, J. (2008). The Public’s Probabilistic Numeracy: How Tasks, Education and Exposure to Games of Chance Shape It. Journal of Behavioral Decision Making, 21, 457-570.&lt;/p&gt;
+&lt;p&gt;Paolacci, G., &amp;amp; Warglien, M. (2009). 
+&lt;a href=&#34;http://experimentalturk.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Experimental turk: A blog on social science experiments on Amazon Mechanical Turk&lt;/a&gt;. Accessed on November 17th 2009:&lt;/p&gt;
+&lt;p&gt;Savage, C.J., &amp;amp; Vickers, A.J. (2009). Empirical Study of Data Sharing by Authors Publishing in PLoS Journals. PLoS ONE 4(9): e7078.doi:10.1371/journal.pone.0007078&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

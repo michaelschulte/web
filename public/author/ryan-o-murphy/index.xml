@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan O Murphy | Academic</title>
+    <link>/author/ryan-o-murphy/</link>
+      <atom:link href="/author/ryan-o-murphy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan O Murphy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ryan O Murphy</title>
+      <link>/author/ryan-o-murphy/</link>
+    </image>
+    
+    <item>
+      <title>Prospect Theory Reflects Selective Allocation of Attention</title>
+      <link>/publication/pachur-2017-author/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/pachur-2017-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashlight as a process tracing method</title>
+      <link>/publication/schulte-2012-flashlight/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <guid>/publication/schulte-2012-flashlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flashlight--Recording information acquisition online</title>
+      <link>/publication/schulte-2011-flashlight/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <guid>/publication/schulte-2011-flashlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A handbook of process tracing methods for decision research: A critical review and user’s guide</title>
+      <link>/publication/figner-2010-handbook/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <guid>/publication/figner-2010-handbook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

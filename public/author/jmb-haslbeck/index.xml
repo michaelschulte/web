@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JMB Haslbeck | Academic</title>
+    <link>/author/jmb-haslbeck/</link>
+      <atom:link href="/author/jmb-haslbeck/index.xml" rel="self" type="application/rss+xml" />
+    <description>JMB Haslbeck</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>JMB Haslbeck</title>
+      <link>/author/jmb-haslbeck/</link>
+    </image>
+    
+    <item>
+      <title>Mouse-tracking: A practical guide to implementation and analysis</title>
+      <link>/publication/kieslich-2019-mouse/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/kieslich-2019-mouse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

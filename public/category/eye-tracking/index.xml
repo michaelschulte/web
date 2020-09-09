@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eye tracking | Academic</title>
+    <link>/category/eye-tracking/</link>
+      <atom:link href="/category/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eye tracking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2017 12:20:52 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Eye tracking</title>
+      <link>/category/eye-tracking/</link>
+    </image>
+    
+    <item>
+      <title>Eye-Tracking with N &gt; 1</title>
+      <link>/post/2017-03-13-eye-tracking-with-n-1/</link>
+      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
+      <guid>/post/2017-03-13-eye-tracking-with-n-1/</guid>
+      <description>&lt;p&gt;This is one of the fastest papers I have ever written. It was a great collaboration with 
+&lt;a href=&#34;http://www.uib.eu/personal/ABjI1MDg3Mw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tomás Lejarraga&lt;/a&gt; from the Universitat de les Illes Balears. Why was it great? Because it is one of the rare cases (at least in my academic life) where all people involved in a project contribute equally and quickly. Often, the weight of a contribution lies with one person which slows down things – with Tomás this was different – we were often sitting in front of a computer writing together (have never done this before, thought it would not work). Surprisingly this collaborative writing worked out very well and we had the skeleton of the paper within an afternoon. This was followed by many hours of tuning and tacking turns – but in principle we wrote the most important parts together – which was pretty cool.&lt;/p&gt;
+&lt;p&gt;Even cooler – you can do eye-tracking in groups, using our code.&lt;/p&gt;
+&lt;p&gt;Here is the [
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Lejarraga2016.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;] and abstract:&lt;/p&gt;
+&lt;p&gt;The recent introduction of inexpensive eye-trackers has opened up a wealth of opportunities for researchers to study attention in interactive tasks. No software package was previously available to help researchers exploit those opportunities. We created “the pyeTribe”, a software package that offers, among others, the following features: First, a communication platform between many eye-trackers to allow simultaneous recording of multiple participants. Second, the simultaneous calibration of multiple eye-trackers without the experimenter’s supervision. Third, data collection restricted to periods of interest, thus reducing the volume of data and easing analysis. We used a standard economic game (the public goods game) to examine data quality and demonstrate the potential of our software package. Moreover, we conducted a modeling analysis, which illustrates how combining process and behavioral data can improve models of human decision making behavior in social situations. Our software is open source and can thus be used and improved by others.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Paper on pychodiagnosis and eye-tracking</title>
+      <link>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</link>
+      <pubDate>Tue, 10 Nov 2015 03:39:33 -0700</pubDate>
+      <guid>/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/</guid>
+      <description>&lt;p&gt;Cilia Witteman and Nanon Spaanjaars (my dutch connection) worked together on a piece on whether psychodiagnosticians improve over time (they don’t) in their ability to classify symptoms to DSM categories. This turned out to be a pretty cool paper combining eye-tracking data with a practical, and hopefully, relevant question.&lt;/p&gt;
+&lt;p&gt;Schulte-Mecklenbeck, M., Spaanjaars, N.L., &amp;amp; Witteman, C.L.M. (in press). 
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Schulte-Mecklenbeck_et_al2015.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The (in)visibility of psychodiagnosticians’ expertise&lt;/a&gt;. &lt;em&gt;Journal of Behavioral Decision Making&lt;/em&gt;. http://dx.doi.org/10.1002/bdm.1925&lt;/p&gt;
+&lt;div class=&#34;page&#34; title=&#34;Page 1&#34;&gt;
+  &lt;div class=&#34;layoutArea&#34;&gt;
+    &lt;div class=&#34;column&#34;&gt;
+      &lt;p&gt;
+        &lt;strong&gt;Abstract&lt;/strong&gt;
+      &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  &amp;lt;p&amp;gt;
+    This study investigates decision making in mental health care. Specifically, it compares the diagnostic decision outcomes (i.e., the quality of diagnoses) and the diagnostic decision process (i.e., pre-decisional information acquisition patterns) of novice and experienced clinical psychologists. Participants’ eye movements were recorded while they completed diagnostic tasks, classifying mental disorders. In line with previous research, our findings indicate that diagnosticians’ performance is not related to their clinical experience. Eye-tracking data pro- vide corroborative evidence for this result from the process perspective: experience does not predict changes in cue inspection patterns. For future research into expertise in this domain, it is advisable to track individual differences between clinicians rather than study differences on the group level.
+  &amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josef Perner | Academic</title>
+    <link>/author/josef-perner/</link>
+      <atom:link href="/author/josef-perner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josef Perner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Josef Perner</title>
+      <link>/author/josef-perner/</link>
+    </image>
+    
+    <item>
+      <title>Framing decisions: Hypothetical and real</title>
+      <link>/publication/kuhberger-2002-framing/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      <guid>/publication/kuhberger-2002-framing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of framing, reflection, probability, and payoff on risk preference in choice tasks</title>
+      <link>/publication/kuhberger-1999-effects/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      <guid>/publication/kuhberger-1999-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choice or no choice: is the langer effect evidence against simulation?</title>
+      <link>/publication/kuhberger-1995-choice/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0100</pubDate>
+      <guid>/publication/kuhberger-1995-choice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

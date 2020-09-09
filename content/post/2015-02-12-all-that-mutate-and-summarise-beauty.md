@@ -1,0 +1,25 @@
+---
+id: 389
+title: all that mutate() and summarise() beauty
+date: 2015-02-12T01:44:10-07:00
+author: Michael
+layout: post
+guid: http://www.schulte-mecklenbeck.com/?p=389
+permalink: /2015/02/all-that-mutate-and-summarise-beauty/
+categories:
+  - R
+  - Statistics
+---
+The friendly people from RStudio recently started a [webinar series](http://www.rstudio.com/resources/webinars/) with talks on the following topics (among others):
+
+Data wrangling with R and RStudio  
+The Grammar and Graphics of Data Science (both dplyr happiness)  
+RStudio and Shiny
+
+&#8230; and many more.
+
+Our friend [Dr. Nathaniel D. Philipps](http://nathanieldphillips.com/) also started a cool [R course](http://nathanieldphillips.com/r-course/) with videos, shiny apps and many other new goodies.
+
+&nbsp;
+
+&nbsp;

@@ -1,0 +1,14 @@
+---
+id: 644
+title: BernR Meetup
+date: 2018-12-10T06:05:56-07:00
+author: Michael
+layout: post
+guid: http://www.schulte-mecklenbeck.com/?p=644
+permalink: /2018/12/bernr-meetup/
+categories:
+  - Meetup
+  - R
+  - Statistics
+---
+Today (Dec 10th 2018) we will meet for the first BernR Meetup (<https://www.meetup.com/Bern-R/>) &#8211; hope to learn new things and get to know cool R people. More to follow soon ..

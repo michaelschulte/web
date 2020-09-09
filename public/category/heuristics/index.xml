@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heuristics | Academic</title>
+    <link>/category/heuristics/</link>
+      <atom:link href="/category/heuristics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heuristics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Mar 2008 12:55:58 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Heuristics</title>
+      <link>/category/heuristics/</link>
+    </image>
+    
+    <item>
+      <title>Priority Heuristic comment</title>
+      <link>/post/2008-03-17-priority-heuristic-comment/</link>
+      <pubDate>Mon, 17 Mar 2008 12:55:58 -0700</pubDate>
+      <guid>/post/2008-03-17-priority-heuristic-comment/</guid>
+      <description>&lt;p&gt;We (Johnson, Schulte-Mecklenbeck, &amp;amp; Willemsen, 2008) have got a new paper out that comments on the Priority Heuristic as described in Brandstaetter, Gigerenzer and Hertwig, 2006.&lt;/p&gt;
+&lt;p&gt;Resolution of debates in cognition usually comes from the introduction of constraints in the form of new data about either the process or representation. Decision research, in contrast, has relied predominantly on testing models by examining their fit to choices. The authors examine a recently proposed choice strategy, the priority heuristic, which provides a novel account of how people make risky choices. The authors identify a number of properties that the priority heuristic should have as a process model and illustrate how they may be tested. The results, along with prior research, suggest that although the priority heuristic captures some variability in the attention paid to outcomes, it fails to account for major characteristics of the data, particularly the frequent transitions between outcomes and their probabilities. The article concludes with a discussion of the properties that should be captured by process models of risky choice and the role of process data in theory development.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

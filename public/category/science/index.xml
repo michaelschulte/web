@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science | Academic</title>
+    <link>/category/science/</link>
+      <atom:link href="/category/science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2017 23:16:22 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Science</title>
+      <link>/category/science/</link>
+    </image>
+    
+    <item>
+      <title>LaTeX &lt;- pdfTeX, LuaTeX, XeTeX</title>
+      <link>/post/2017-04-30-latex/</link>
+      <pubDate>Sun, 30 Apr 2017 23:16:22 -0700</pubDate>
+      <guid>/post/2017-04-30-latex/</guid>
+      <description>&lt;p&gt;I have been using LaTeX (with pdfTeX) for 20+ years now – to be honest I never bothered to understand the differences between the different TeX engines – 
+&lt;a href=&#34;https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WQbPt1KB3UI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; is an excellent article by 
+&lt;a href=&#34;https://twitter.com/publishergeek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graham Douglas&lt;/a&gt; explaining the ins and outs of the TeX engine(s).&lt;/p&gt;
+&lt;p&gt;… the article also features 
+&lt;a href=&#34;https://www.overleaf.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt; a shared TeX environment … sweet!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everything you believe in is wrong &amp;#8211; or is it simply terrorism?</title>
+      <link>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</link>
+      <pubDate>Tue, 20 Sep 2016 00:15:15 -0700</pubDate>
+      <guid>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Replication_crisis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;replication crisis&lt;/a&gt; has many interesting effects on how people (and scientists) think about Psychology (and, of course, other fields) … Here is a nice summary of 
+&lt;a href=&#34;https://digest.bps.org.uk/2016/09/16/ten-famous-psychology-findings-that-its-been-difficult-to-replicate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;effects that are hard to replicate&lt;/a&gt;. Among them ‘classics’ like the power pose or the big brother eyes.&lt;/p&gt;
+&lt;p&gt;A lot is happening because of these new insights in terms of research (e.g., replication studies) and communication (e.g., 
+&lt;a href=&#34;https://de.wikipedia.org/wiki/Fritz_Strack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fritz Strack&lt;/a&gt; on 
+&lt;a href=&#34;https://www.facebook.com/groups/psychmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;And then this: 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Susan_Fiske&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Susan Fiske&lt;/a&gt; in an 
+&lt;a href=&#34;https://www.facebook.com/photo.php?fbid=311301635895040&amp;amp;set=pcb.309090142801248&amp;amp;type=3&amp;amp;theater&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;upcoming piece&lt;/a&gt; in the APS Observer … I am really struggling with this rhetoric – 
+&lt;a href=&#34;http://daniellakens.blogspot.ch/2016/09/why-scientific-criticism-sometimes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Lakens to the rescue&lt;/a&gt; 🙂&lt;/p&gt;
+&lt;p&gt;Ah – and of course 
+&lt;a href=&#34;http://andrewgelman.com/2016/09/20/methodological-terrorism/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gelman&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everything is fucked &amp;#8230;</title>
+      <link>/post/2016-08-12-everything-is-fucked/</link>
+      <pubDate>Fri, 12 Aug 2016 00:05:23 -0700</pubDate>
+      <guid>/post/2016-08-12-everything-is-fucked/</guid>
+      <description>&lt;p&gt;This syllabus of an (obviously) awesome class has a ton of good reads:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hardsci.wordpress.com/2016/08/11/everything-is-fucked-the-syllabus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything is fucked: The syllabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Sanjay Srivastava&lt;/p&gt;
+&lt;p&gt;I would have two additions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://webcom.upmf-grenoble.fr/LIP/DMuller/resources/documents/HCAetal-IP-PPS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A multi lab replication project on ego-depletion&lt;/a&gt; (Hagger &amp;amp; Chatzisarantis, 2016)&lt;/li&gt;
+&lt;li&gt;And the [response](doi: 10.1177/1745691616652878) from Roy Baumeister and Kathleen D. Vohs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It’s a really good statement of how f… up things are (in addition to all the other good examples above) …&lt;/p&gt;
+&lt;p class=&#34;p1&#34;&gt;
+  “A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.” &amp;#8211; Max Planck
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where you end up, having a PhD</title>
+      <link>/post/2010-08-18-where-you-end-up-having-a-phd/</link>
+      <pubDate>Wed, 18 Aug 2010 06:20:29 -0700</pubDate>
+      <guid>/post/2010-08-18-where-you-end-up-having-a-phd/</guid>
+      <description>&lt;p&gt;The illustrated guide from Kindergarten to PhD …&lt;br&gt;
+&lt;a href=&#34;http://matt.might.net/articles/phd-school-in-pictures/&#34;&gt;http://matt.might.net/articles/phd-school-in-pictures/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accepting to fail (in the name of science)</title>
+      <link>/post/2009-12-22-accepting-to-fail-in-the-name-of-science/</link>
+      <pubDate>Tue, 22 Dec 2009 05:00:24 -0700</pubDate>
+      <guid>/post/2009-12-22-accepting-to-fail-in-the-name-of-science/</guid>
+      <description>&lt;p&gt;Very interesting 
+&lt;a href=&#34;http://www.wired.com/magazine/2009/12/fail_accept_defeat/all/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;article in WIRED&lt;/a&gt; on accepting failure and how ignoring it changes the way scientists make progress (or not).&lt;/p&gt;
+&lt;p&gt;Good theme for new years resolutions …&lt;/p&gt;
+&lt;p&gt;In the meantime: Happy Holidays!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How WEIRD subjects can be overcome &amp;#8230; a comment on Henrich et al.</title>
+      <link>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</link>
+      <pubDate>Sat, 12 Dec 2009 06:11:14 -0700</pubDate>
+      <guid>/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/</guid>
+      <description>&lt;p&gt;Joe 
+&lt;a href=&#34;http://www.psych.ubc.ca/~henrich/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Henrich&lt;/a&gt; published a target article in BBS talking about how economics and psychology base their research on WEIRD (Western, Educated, Industrialized, Rich and Democratic) subjects.&lt;/p&gt;
+&lt;p&gt;Here is the whole abstract:&lt;br&gt;
+—&lt;br&gt;
+Behavioral scientists routinely publish broad claims about human psychology and behavior in the world’s top journals based on samples drawn entirely from Western, Educated, Industrialized, Rich and Democratic (WEIRD) societies. Researchers—often implicitly—assume that either there is little variation across human populations, or that these “standard subjects” are as representative of the species as any other population. Are these assumptions justified? Here, our review of the comparative database from across the behavioral sciences suggests both that there is substantial variability in experimental results across populations and that WEIRD subjects are particularly unusual compared with the rest of the species—frequent outliers. The domains reviewed include visual perception, fairness, cooperation, spatial reasoning, categorization and inferential induction, moral reasoning, reasoning styles, self-concepts and related motivations, and the heritability of IQ. The findings suggest that members of WEIRD societies, including young children, are among the least representative populations one could find for generalizing about humans. Many of these findings involve domains that are associated with fundamental aspects of psychology, motivation, and behavior—hence, there are no obvious a priori grounds for claiming that a particular behavioral phenomenon is universal based on sampling from a single subpopulation. Overall, these empirical patterns suggests that we need to be less cavalier in addressing questions of human nature on the basis of data drawn from this particularly thin, and rather unusual, slice of humanity. We close by proposing ways to structurally re-organize the behavioral sciences to best tackle these challenges.&lt;br&gt;
+—&lt;/p&gt;
+&lt;p&gt;I would like to make three suggestions that could help to overcome the era of WEIRD subjects and generate more reliable and representative data. These suggestions will mainly touch contrasts 2, 3 and 4 elaborated by Henrich, Heine and Norezayan. While my suggestions tackle these contrasts from a technical and experimental perspective they do not provide a general solution for the first contrast on industrialized versus small scale societies. Here are my suggestions: 1) replications in multiple labs, 2) internet based experimentation and 3) drawing representative samples from a population.&lt;br&gt;
+The first suggestion, replication in multiple labs, foremost touches aspects like replication, multiple populations and open data access. For a publication in a journal a replication of an experiment in a different lab would be obligatory. The replication would then be published with the original, e.g., in the form of a comment. This would ensure that other research labs in other states or countries are involved and very different parts of the population could be sampled. Also results of experiments would be freely available to the public and the data sharing problem in Psychology, as described in the target article, but also in other fields like Medicine (Savage &amp;amp; Vieckers, 2009) would be a problem of the past. Of course such a step would be closely linked with certain standards on the one hand in building experiments and on the other hand in storing data. While a standard way to build experiments seems unlikely there are many methods available in computer science to store data in a reusable, for example through the usage of XML (Extensible Markup Language).&lt;br&gt;
+The second suggestion is based on the drawing of representative samples from the population. As described in the target article, research often suffers from a restriction to extreme subgroups from the population, from which generalized results are drawn. However, there is published work that overcomes these restrictions. As an example I would like to use the Hertwig, Zangerl, Biedert and Margraf (2008) paper on probabilistic numeracy. The authors based their study on a random-quote sample from the Swiss population including indicators as language, area where participant is living, gender and age. To fulfill all the necessary criteria 1000 participants were recruited using telephone interviews. Such studies are certainly more expensive and somewhat restricted to simpler experimental setups (Hertwig et al., used telephone interviews based on questionnaires).&lt;br&gt;
+The third suggestion adds additional data collection in a second location: the Internet. The emphasis in the last sentence should be set on ‘add’. Data collection solely Internet based is of course possible, already often performed and published in high impact journals. Online experimentation is technically much less demanding than ten years ago due to the availability of ready made solutions for questionnaires or even experiments. The point I would like to make here should not be built on a separation of lab and online based experiments. My suggestion combines these two research locations and enables a researcher to profit from the many benefits arising. A possible scenario could include running an experiment in the laboratory first to guarantee, among other things, high control on the situation in order to show an effect with a small, restricted sample. In a second step the experiment is transferred to the Web and run online, admittedly giving away some of the control but providing the large benefit of having access to a diverse, large samples of participants from different populations easily. As an example I would like to point to a recent blog and related experiments started by Paolacci and Warglien (2009) at the University of Venice, Italy. These researchers started replicating well known experiments from the decision making literature like framing, anchoring or the conjunction fallacy with a service called the Mechanical Turk provided by Amazon. This service is based on the idea of crowdsourcing (outsourcing a task to a large group of people) and lets a researcher have easy access to a large group of motivated participants.&lt;br&gt;
+Some final words on the combination and possible restrictions of the three suggestions. What would a combination of all three suggestions look like? It would be a replication of experiments, using representative samples of different populations in online experiments. This seems useful from a data quality, logistics and prize point of view. However, several issues were left untouched in my discussion, such as the question of independence of the second lab for replication studies, the restriction of representative samples to one country (as opposed to multiple comparisons as routinely found in, e.g., anthropological studies), the differences between online and lab based experimentation or the instances where equipment needed for an experiments (e.g., eye trackers or fMRI) does not allow for online experimentation. Keeping that in mind the above suggestions draw an idealized picture of how to run experiments and re-use the collected data, nevertheless I would argue that such steps could help to reduce the percentage of WEIRD subjects in research substantially.&lt;/p&gt;
+&lt;p&gt;References&lt;br&gt;
+
+&lt;a href=&#34;http://www.psycho.unibas.ch/index_html?content=person&amp;amp;detail=cv&amp;amp;abteilung=Angewandte&amp;amp;person=Hertwig&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hertwig&lt;/a&gt;, R., Zangerl, M.A., Biedert, E., &amp;amp; Margraf, J. (2008). The Public’s Probabilistic Numeracy: How Tasks, Education and Exposure to Games of Chance Shape It. Journal of Behavioral Decision Making, 21, 457-570.&lt;/p&gt;
+&lt;p&gt;Paolacci, G., &amp;amp; Warglien, M. (2009). 
+&lt;a href=&#34;http://experimentalturk.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Experimental turk: A blog on social science experiments on Amazon Mechanical Turk&lt;/a&gt;. Accessed on November 17th 2009:&lt;/p&gt;
+&lt;p&gt;Savage, C.J., &amp;amp; Vickers, A.J. (2009). Empirical Study of Data Sharing by Authors Publishing in PLoS Journals. PLoS ONE 4(9): e7078.doi:10.1371/journal.pone.0007078&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>double, triple or even sextuple blind?</title>
+      <link>/post/2009-06-14-double-triple-or-even-sextuple-blind/</link>
+      <pubDate>Sun, 14 Jun 2009 03:21:01 -0700</pubDate>
+      <guid>/post/2009-06-14-double-triple-or-even-sextuple-blind/</guid>
+      <description>&lt;p&gt;There is an interesting discussion on how the scientific review process should be handled going on at 
+&lt;a href=&#34;http://orgtheory.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;orgtheory.net&lt;/a&gt; blog. The point is that the obvious shortcomings in the current review system (the authors know who the editor is (and vice versa), the reviewer knows (or can easily infer) who the author is …) can be handle through triple blind reviews: authors, reviewers AND editors are included (anonymous upload to a webpage (id through a code), quatruple blind reviews: no one know who the editor of the journal is, quintimple blind: after publication of a paper the authors name is kept secret for some years or, and that’s the actual kicker: sextuple blind: there is no journal name any more – just the paper and the users decide whether it is worth citing or not …&lt;br&gt;
+In a more detailed way you can find this approach explained 
+&lt;a href=&#34;http://orgtheory.wordpress.com/2007/01/23/a-modest-proposal-triple-blind-review/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

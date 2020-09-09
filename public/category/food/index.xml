@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food | Academic</title>
+    <link>/category/food/</link>
+      <atom:link href="/category/food/index.xml" rel="self" type="application/rss+xml" />
+    <description>Food</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Feb 2015 06:35:25 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Food</title>
+      <link>/category/food/</link>
+    </image>
+    
+    <item>
+      <title>Schnitz(e)ljagd</title>
+      <link>/post/2015-02-20-schnitzeljagd/</link>
+      <pubDate>Fri, 20 Feb 2015 06:35:25 -0700</pubDate>
+      <guid>/post/2015-02-20-schnitzeljagd/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.google.de/maps/@54.4616678,19.4255899,5z/data=!4m2!6m1!1szTqNmXl-WpAY.k4YAxe992B7I&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find the Schnitz(e)l&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+---
+id: 430
+title: Sublime autocompletion
+date: 2016-01-28T08:47:44-07:00
+author: Michael
+layout: post
+guid: http://www.schulte-mecklenbeck.com/?p=430
+permalink: /2016/01/sublime-autocompletion/
+categories:
+  - LaTeX
+---
+They say about [Sublime](http://www.sublimetext.com/): &#8220;The text editor you will fall in love with&#8221;
+
+hmm &#8211; kind of did that.
+
+One reason being that when coding LaTeX in Sublime there is an awesome autocompletion feature:
+
+Type &#8216;enum&#8217; and you get:
+
+<img class="alignleft size-medium wp-image-431" src="http://www.schulte-mecklenbeck.com/wp-content/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png" alt="Screen Shot 2016-01-28 at 16.45.37" width="300" height="104" srcset="http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.37-500x173.png 500w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.37.png 730w" sizes="(max-width: 300px) 100vw, 300px" /> 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Shift + Enter within an itemize adds a new \item
+
+<img class="alignleft size-medium wp-image-432" src="http://www.schulte-mecklenbeck.com/wp-content/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png" alt="Screen Shot 2016-01-28 at 16.45.46" width="300" height="99" srcset="http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.46-500x165.png 500w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.46.png 716w" sizes="(max-width: 300px) 100vw, 300px" /> 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+AFK to cry &#8230; tears of joy 🙂
+
+[Everything stolen from here](http://tex.stackexchange.com/questions/222845/how-to-use-the-autocompletion-of-enumerate-in-latexing-sublime-text)

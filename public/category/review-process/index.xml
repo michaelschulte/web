@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>review process | Academic</title>
+    <link>/category/review-process/</link>
+      <atom:link href="/category/review-process/index.xml" rel="self" type="application/rss+xml" />
+    <description>review process</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2009 03:21:01 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>review process</title>
+      <link>/category/review-process/</link>
+    </image>
+    
+    <item>
+      <title>double, triple or even sextuple blind?</title>
+      <link>/post/2009-06-14-double-triple-or-even-sextuple-blind/</link>
+      <pubDate>Sun, 14 Jun 2009 03:21:01 -0700</pubDate>
+      <guid>/post/2009-06-14-double-triple-or-even-sextuple-blind/</guid>
+      <description>&lt;p&gt;There is an interesting discussion on how the scientific review process should be handled going on at 
+&lt;a href=&#34;http://orgtheory.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;orgtheory.net&lt;/a&gt; blog. The point is that the obvious shortcomings in the current review system (the authors know who the editor is (and vice versa), the reviewer knows (or can easily infer) who the author is …) can be handle through triple blind reviews: authors, reviewers AND editors are included (anonymous upload to a webpage (id through a code), quatruple blind reviews: no one know who the editor of the journal is, quintimple blind: after publication of a paper the authors name is kept secret for some years or, and that’s the actual kicker: sextuple blind: there is no journal name any more – just the paper and the users decide whether it is worth citing or not …&lt;br&gt;
+In a more detailed way you can find this approach explained 
+&lt;a href=&#34;http://orgtheory.wordpress.com/2007/01/23/a-modest-proposal-triple-blind-review/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

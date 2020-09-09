@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johnny van Doorn | Academic</title>
+    <link>/author/johnny-van-doorn/</link>
+      <atom:link href="/author/johnny-van-doorn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johnny van Doorn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Johnny van Doorn</title>
+      <link>/author/johnny-van-doorn/</link>
+    </image>
+    
+    <item>
+      <title>8 Easy Steps to Open Science: An Annotated Reading List</title>
+      <link>/publication/cruwell-88/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/cruwell-88/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

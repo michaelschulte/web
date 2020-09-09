@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food Choice | Academic</title>
+    <link>/category/food-choice/</link>
+      <atom:link href="/category/food-choice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Food Choice</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Aug 2014 14:26:12 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Food Choice</title>
+      <link>/category/food-choice/</link>
+    </image>
+    
+    <item>
+      <title>Die Zeit Wissen &amp;#8230; schreibt über Essensentscheidungen</title>
+      <link>/post/2014-08-22-die-zeit-wissen-schreibt-uber-essensentscheidungen/</link>
+      <pubDate>Fri, 22 Aug 2014 14:26:12 -0700</pubDate>
+      <guid>/post/2014-08-22-die-zeit-wissen-schreibt-uber-essensentscheidungen/</guid>
+      <description>&lt;p&gt;Mal was Längeres zu unseren Lieblingsthemen: Essen und Entscheidungsforschung … Enjoy!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2014/08/2014-08-19_DieZeitWissen-wie-sie-beim-essen-die-richtigen-entscheidungen-treffen.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2014-08-19_DieZeitWissen-wie-sie-beim-essen-die-richtigen-entscheidungen-treffen&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper on food choice and simple heuristics</title>
+      <link>/post/2013-08-16-new-paper-on-food-choice-and-simple-heuristics/</link>
+      <pubDate>Fri, 16 Aug 2013 06:57:52 -0700</pubDate>
+      <guid>/post/2013-08-16-new-paper-on-food-choice-and-simple-heuristics/</guid>
+      <description>&lt;p&gt;We got a new paper out on how people (consumers) use simple rules to make food choices. This is work in collaboration with the Nestlé Research Center in Lausanne.&lt;br&gt;
+Here is the reference:&lt;/p&gt;
+&lt;p class=&#34;p1&#34;&gt;
+  Schulte-Mecklenbeck, M., Sohn, M., Bellis, E., Martin, N., &amp; Hertwig, R. (2013). &lt;a href=&#34;http://www.schulte-mecklenbeck.com/pubs/Schulte2013.pdf&#34;&gt;A Lack of Appetite for Information and Computation: Simple Heuristics in Food Choice&lt;/a&gt;. &lt;i&gt;Appetite&lt;/i&gt;, &lt;i&gt;71&lt;/i&gt;, 242–251.
+&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;The predominant, but largely untested, assumption in research on food choice is that people obey the classic commandments of rational behavior: they carefully look up every piece of relevant information, weight each piece according to subjective importance, and then combine them into a judgment or choice. In real world situations, however, the available time, motivation, and computational resources may simply not suffice to keep these commandments. Indeed, there is a large body of research suggesting that human choice is often better accommodated by heuristics—simple rules that enable decision making on the basis of a few, but important, pieces of information. We investigated the prevalence of such heuristics in a computerized experiment that engaged participants in a series of choices between two lunch dishes. Employing MouselabWeb, a process-tracing technique, we found that simple heuristics described an overwhelmingly large proportion of choices, whereas strategies traditionally deemed rational were barely apparent in our data. Replicating previous findings, we also observed that visual stimulus segments received a much larger proportion of attention than any nutritional values did. Our results suggest that, consistent with human behavior in other domains, people make their food choices on the basis of simple and informationally frugal heuristics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Replication | Academic</title>
+    <link>/category/replication/</link>
+      <atom:link href="/category/replication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Replication</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jul 2018 21:16:40 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Replication</title>
+      <link>/category/replication/</link>
+    </image>
+    
+    <item>
+      <title>A letter to the black goat</title>
+      <link>/post/2018-07-30-a-letter-to-the-black-goat/</link>
+      <pubDate>Mon, 30 Jul 2018 21:16:40 -0700</pubDate>
+      <guid>/post/2018-07-30-a-letter-to-the-black-goat/</guid>
+      <description>&lt;p&gt;I wrote this letter to 
+&lt;a href=&#34;http://www.theblackgoatpodcast.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the black goat&lt;/a&gt; podcast … will update here if I hear back from them …&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Dear goaters (is this a good way to address the three of you?),&lt;/p&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  I attended SIPS some weeks ago (first timer). I was unsure what to expect but got a lot of bang for my buck (which is great) &amp;#8211; as a side note I would recommend first timers to try to go there with a concrete project or question or problem, I think there is a good chance to find people with similar issues interested in collaborations.
+&lt;/div&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  Here is an observation I would be interested to hear your thoughts on: in the SIPS world everything seems to be really straight forward &amp;#8211; we want to &amp;#8216;unfuck psych science&amp;#8217; (Lindsay, 2018), we want to pre-reg studies, upload data, learn R, comment on code, accelerate science, ‘do it right this time’, collaborate, respect, be inclusive (I really learned a lot in that regard listening to your podcast and talking to people at SIPS) …
+&lt;/div&gt;
+&lt;div&gt;
+  All of that is great. I subscribe to all of these points.
+&lt;/div&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  Here is the twist &amp;#8211; people @SIPS talk about &amp;#8216;a movement’  (something that seems very American to me), maybe a movement is needed; people @SIPS talk about ‘a revolution’ &amp;#8211; again, great! obviously there is a need to rattle the cage and accelerate things beyond ‘paradigm shifts at funerals’ (Planck?)
+&lt;/div&gt;
+&lt;div&gt;
+  BUT
+&lt;/div&gt;
+&lt;div&gt;
+  What happens if you go ‘Outside the SIPS Bubble&amp;#8217; (OSIPSB)?
+&lt;/div&gt;
+&lt;div&gt;
+  I have no data (other than my own experiences) but I wonder whether the world (psychology, other sciences) is actually that ready, that willing and open to adopt to these new standards and to actually make a paradigm shift in how we do science. I work at a business school (consumer psych and JDM) there is a lot of finger pointing going on toward psychology (I have a similar feeling that within psychology there is a lot of finger pointing toward social psych) &amp;#8211; &amp;#8216;this is clearly a problem of psychologists but not of us [economists, consumer psychologists, business, accounting researchers &amp;#8230;]’.
+&lt;/div&gt;
+&lt;div&gt;
+  Another OSIPSB experience I had was talking to an Action Editor of the Journal of Consumer Psychology (JCR) last year &amp;#8211; we got into a heated debate about the most basic issues, eg, sharing data, pre-reg studies …
+&lt;/div&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  Is this an observation you share? What would be good steps to address these issues? Should we talk about this within SIPS to get a better balance between enthusiasm and real world requirements (eg hiring decisions are still made mostly by senior faculty, assuming my observation hold, less interested in replication than ’new and exciting effects’ (quote anonymous senior AE of JCR).
+&lt;/div&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  Thanks for your thoughts!
+&lt;/div&gt;
+&lt;div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Professor priming &amp;#8211; or not</title>
+      <link>/post/2017-11-13-professor-priming-or-not/</link>
+      <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
+      <guid>/post/2017-11-13-professor-priming-or-not/</guid>
+      <description>&lt;div class=&#34;page&#34; title=&#34;Page 2&#34;&gt;
+  &lt;div class=&#34;section&#34;&gt;
+    &lt;div class=&#34;layoutArea&#34;&gt;
+      &lt;div class=&#34;column&#34;&gt;
+        &lt;p&gt;
+          This was my first contribution to a &lt;a href=&#34;https://www.psychologicalscience.org/publications/replication-dijksterhuis-van-knippenberg&#34;&gt;Registered Replication Report&lt;/a&gt; (RRR). Being one of 40 participating labs was an interesting exercise &amp;#8211; it might seem straightforward to run the same study in different labs, but we learned that such small things as ü, ä and ö can generate a huge amount of problems and work (read &lt;a href=&#34;https://en.wikipedia.org/wiki/UTF-8&#34;&gt;this&lt;/a&gt; if you are into these kind of things).
+        &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;p&amp;gt;
+      Here is one of the central results:
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      &amp;lt;img class=&amp;quot;aligncenter size-full wp-image-579&amp;quot; src=&amp;quot;http://www.schulte-mecklenbeck.com/wp-content/uploads//2017/11/Screen-Shot-2017-11-13-at-22.19.39.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;718&amp;quot; height=&amp;quot;609&amp;quot; srcset=&amp;quot;http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39.png 718w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39-300x254.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39-589x500.png 589w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-13-at-22.19.39-500x424.png 500w&amp;quot; sizes=&amp;quot;(max-width: 718px) 100vw, 718px&amp;quot; /&amp;gt;
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      So overall not a lot of action &amp;amp;#8230; our lab was actually the one with larges effect size (in the predicted direction).
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      Here is the abstract of the whole paper and here the &amp;lt;a href=&amp;quot;https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf&amp;quot;&amp;gt;Commentary by Ap Dijksterhuis&amp;lt;/a&amp;gt; naturally, he sees things a bit different &amp;amp;#8230;
+    &amp;lt;/p&amp;gt;
+  &amp;lt;/div&amp;gt;
+  
+  &amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+    &amp;lt;p&amp;gt;
+      Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
+    &amp;lt;/p&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>The root of the problem</title>
+      <link>/post/2017-11-13-the-root-of-the-problem/</link>
+      <pubDate>Mon, 13 Nov 2017 05:44:06 -0700</pubDate>
+      <guid>/post/2017-11-13-the-root-of-the-problem/</guid>
+      <description>&lt;p&gt;One of the root causes of where we are (as a science) in psychology and many other disciplines in terms of reproducibility of key (and other) results could not be better summed up than by the man himself Daryl Bem (2002):&lt;/p&gt;
+&lt;p&gt;“If a datum suggests a new hypothesis, try to find additional evidence for it elsewhere in the data. If you see dim traces of interesting patterns, try to reorganize the data to bring them into bolder relief. If there are participants you don’t like, or trials, observers, or interviewers who gave you anomalous results, drop them (temporarily). Go on a fishing expedition for something — anything — interesting. ”&lt;/p&gt;
+&lt;p&gt;‘Go on a fishing expidition’ – why should there come anything good from such advise? Bem goes on …&lt;/p&gt;
+&lt;p&gt;“No, this is not immoral (SIC!). The rules of scientific and statistical inference that we overlearn in graduate school apply to the “Context of Justification.” They tell us what we can conclude in the articles we write for public consumption, and they give our readers criteria for deciding whether or not to believe us. But in the “Context of Discovery,” there are no formal rules, only heuristics or strategies.”&lt;/p&gt;
+&lt;p&gt;I disagree with this statement, because the idea of finding something through torturing the data (until they confess) is a hug source of false positive results. We find an effect and falsely conclude that something is there when in fact there is nothing. I found the above quote when reading 
+&lt;a href=&#34;https://psyarxiv.com/4tg9c/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this paper&lt;/a&gt; by Zwaan, Etz, Lucas &amp;amp; Donnellan (2017) – a target article for 
+&lt;a href=&#34;https://www.cambridge.org/core/journals/behavioral-and-brain-sciences&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBS&lt;/a&gt; which presents six common arguments against replication and a set of really good responses for such discussions.&lt;/p&gt;
+&lt;p&gt;Here are the six ‘concerns’ the authors discuss:&lt;/p&gt;
+&lt;div class=&#34;page&#34; title=&#34;Page 14&#34;&gt;
+  &lt;div class=&#34;section&#34;&gt;
+    &lt;div class=&#34;layoutArea&#34;&gt;
+      &lt;div class=&#34;column&#34;&gt;
+        &lt;p&gt;
+          Concern I: Context Is Too Variable&lt;br /&gt; Concern II: The Theoretical Value of Direct Replications is Limited&lt;br /&gt; Concern III: Direct Replications Are Not Feasible in Certain Domains&lt;br /&gt; Concern IV: Replications are a Distraction&lt;br /&gt; Concern V: Replications Affect Reputations&lt;br /&gt; Concern VI: There is no Standard Method to Evaluate Replication Results
+        &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    &amp;lt;p&amp;gt;
+      Both are really good reads &amp;amp;#8211; for very different reasons.
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      &amp;amp;nbsp;
+    &amp;lt;/p&amp;gt;
+    
+    &amp;lt;p&amp;gt;
+      &amp;amp;#8212;
+    &amp;lt;/p&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Bern, D. (2002). Writing the empirical journal article. In Darley, J. M., Zanna, M. P., &amp;amp; Roediger III, H. L. (Eds) (2002). &lt;em&gt;The Compleat Academic: A Career Guide&lt;/em&gt;. Washington, DC: American Psychological Association.&lt;/p&gt;
+&lt;p&gt;Zwaan, R. A., Etz, A., Lucas, R. E., &amp;amp; Donnellan, B. (2017, November 1). Making Replication Mainstream. Retrieved from 
+&lt;a href=&#34;https://psyarxiv.com/4tg9c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;psyarxiv.com/4tg9c&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everything you believe in is wrong &amp;#8211; or is it simply terrorism?</title>
+      <link>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</link>
+      <pubDate>Tue, 20 Sep 2016 00:15:15 -0700</pubDate>
+      <guid>/post/2016-09-20-everything-you-believe-in-is-wrong-or-is-it-simply-terrorism/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Replication_crisis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;replication crisis&lt;/a&gt; has many interesting effects on how people (and scientists) think about Psychology (and, of course, other fields) … Here is a nice summary of 
+&lt;a href=&#34;https://digest.bps.org.uk/2016/09/16/ten-famous-psychology-findings-that-its-been-difficult-to-replicate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;effects that are hard to replicate&lt;/a&gt;. Among them ‘classics’ like the power pose or the big brother eyes.&lt;/p&gt;
+&lt;p&gt;A lot is happening because of these new insights in terms of research (e.g., replication studies) and communication (e.g., 
+&lt;a href=&#34;https://de.wikipedia.org/wiki/Fritz_Strack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fritz Strack&lt;/a&gt; on 
+&lt;a href=&#34;https://www.facebook.com/groups/psychmap/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;And then this: 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Susan_Fiske&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Susan Fiske&lt;/a&gt; in an 
+&lt;a href=&#34;https://www.facebook.com/photo.php?fbid=311301635895040&amp;amp;set=pcb.309090142801248&amp;amp;type=3&amp;amp;theater&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;upcoming piece&lt;/a&gt; in the APS Observer … I am really struggling with this rhetoric – 
+&lt;a href=&#34;http://daniellakens.blogspot.ch/2016/09/why-scientific-criticism-sometimes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daniel Lakens to the rescue&lt;/a&gt; 🙂&lt;/p&gt;
+&lt;p&gt;Ah – and of course 
+&lt;a href=&#34;http://andrewgelman.com/2016/09/20/methodological-terrorism/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gelman&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Everything is fucked &amp;#8230;</title>
+      <link>/post/2016-08-12-everything-is-fucked/</link>
+      <pubDate>Fri, 12 Aug 2016 00:05:23 -0700</pubDate>
+      <guid>/post/2016-08-12-everything-is-fucked/</guid>
+      <description>&lt;p&gt;This syllabus of an (obviously) awesome class has a ton of good reads:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hardsci.wordpress.com/2016/08/11/everything-is-fucked-the-syllabus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything is fucked: The syllabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by Sanjay Srivastava&lt;/p&gt;
+&lt;p&gt;I would have two additions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://webcom.upmf-grenoble.fr/LIP/DMuller/resources/documents/HCAetal-IP-PPS.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A multi lab replication project on ego-depletion&lt;/a&gt; (Hagger &amp;amp; Chatzisarantis, 2016)&lt;/li&gt;
+&lt;li&gt;And the [response](doi: 10.1177/1745691616652878) from Roy Baumeister and Kathleen D. Vohs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It’s a really good statement of how f… up things are (in addition to all the other good examples above) …&lt;/p&gt;
+&lt;p class=&#34;p1&#34;&gt;
+  “A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.” &amp;#8211; Max Planck
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XAMPP | Academic</title>
+    <link>/category/xampp/</link>
+      <atom:link href="/category/xampp/index.xml" rel="self" type="application/rss+xml" />
+    <description>XAMPP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2009 12:50:56 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>XAMPP</title>
+      <link>/category/xampp/</link>
+    </image>
+    
+    <item>
+      <title>XAMPP activating mysql</title>
+      <link>/post/2009-06-17-xampp-activating-mysql/</link>
+      <pubDate>Wed, 17 Jun 2009 12:50:56 -0700</pubDate>
+      <guid>/post/2009-06-17-xampp-activating-mysql/</guid>
+      <description>&lt;p&gt;Here is the problem: I want to have a server (Apache, MySQL) on my local machine (for the current purpose it was a Windows machine) to do some developing, testing or a demo. Getting 
+&lt;a href=&#34;http://www.apachefriends.org/en/xampp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XAMPP&lt;/a&gt; at 
+&lt;a href=&#34;http://sourceforge.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sourceforge&lt;/a&gt; is straight forward, installing it works like a charm.&lt;/p&gt;
+&lt;p&gt;BUT&lt;/p&gt;
+&lt;p&gt;A problem coming back from time to time is the following: the MySQL daemon does not start.&lt;br&gt;
+Hmmmm&lt;/p&gt;
+&lt;p&gt;Here are some steps that helped me:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;make sure to deactivate any services related to MySQL and Apache&lt;/li&gt;
+&lt;li&gt;shutdown XAMPP&lt;/li&gt;
+&lt;li&gt;to be sure I restart the machine&lt;/li&gt;
+&lt;li&gt;do not start XAMPP with the .bat file but use the MySQL and Apache batch scripts – these open a command window which you should not close as long as you use XAMPP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Through these steps everything worked fine …&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google | Academic</title>
+    <link>/category/google/</link>
+      <atom:link href="/category/google/index.xml" rel="self" type="application/rss+xml" />
+    <description>Google</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Sep 2012 22:59:18 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Google</title>
+      <link>/category/google/</link>
+    </image>
+    
+    <item>
+      <title>R Style Guide</title>
+      <link>/post/2012-09-21-r-style-guide/</link>
+      <pubDate>Fri, 21 Sep 2012 22:59:18 -0700</pubDate>
+      <guid>/post/2012-09-21-r-style-guide/</guid>
+      <description>&lt;p&gt;This is mainly a note to self:&lt;/p&gt;
+&lt;p&gt;There are several style guides for R out there. I particularly like the one from 
+&lt;a href=&#34;https://google.github.io/styleguide/Rguide.xml&#34; title=&#34;Google R Style Guide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google&lt;/a&gt; and the somewhat lighter 
+&lt;a href=&#34;http://stat405.had.co.nz/r-style.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;version of Hadley&lt;/a&gt; (ggplot god).&lt;/p&gt;
+&lt;p&gt;All of that style guide thinking started after a question on &amp;lt;stackoverflow.com&amp;gt; about R workflow … How do we organize large R projects. Hadley (again) is favoring an Load-Clean-Func-Do approach which looks somewhat like that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;load.R # load data&lt;/li&gt;
+&lt;li&gt;clean.R # clean up crap&lt;/li&gt;
+&lt;li&gt;func.R # add functions&lt;/li&gt;
+&lt;li&gt;do.R # do the work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I kind of started doing something along these lines, with splitting files into load/clean (still together, could go separate …), cleaning, graphing (which does not make a lot of sense in an extra file) and large junks of analysis … got to redo some directories now …&lt;/p&gt;
+&lt;p&gt;Other cool links from today’s follow-this-link trip: &lt;a href=&#34;http://www.getskeleton.com/&#34;&gt;http://www.getskeleton.com/&lt;/a&gt; and &lt;a href=&#34;http://subtlepatterns.com/&#34;&gt;http://subtlepatterns.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Religion and # of babies &amp;#8230;</title>
+      <link>/post/2012-05-24-religion-and-of-babies/</link>
+      <pubDate>Thu, 24 May 2012 00:05:00 -0700</pubDate>
+      <guid>/post/2012-05-24-religion-and-of-babies/</guid>
+      <description>&lt;p&gt;Religion seems to have little influence on the # of babies per woman – who might have thought …&lt;br&gt;
+
+&lt;a href=&#34;http://www.ted.com/talks/hans_rosling_religions_and_babies.html?utm_source=newsletter_weekly_2012-05-22&amp;amp;utm_campaign=newsletter_weekly&amp;amp;utm_medium=email&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is another excellent talk of Hans Rösling on the topic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>awesome visualization tool for R</title>
+      <link>/post/2011-07-15-awesome-visualization-tool-for-r/</link>
+      <pubDate>Fri, 15 Jul 2011 04:07:04 -0700</pubDate>
+      <guid>/post/2011-07-15-awesome-visualization-tool-for-r/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/googleVis/&#34;&gt;http://cran.r-project.org/web/packages/googleVis/&lt;/a&gt; enables chart generation similar to the ones instroduced by 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Hans_Rosling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans Roesling&lt;/a&gt; in his 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Hans_Rosling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED talk&lt;/a&gt; on poverty – extremly cool 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

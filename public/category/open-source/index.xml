@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source | Academic</title>
+    <link>/category/open-source/</link>
+      <atom:link href="/category/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Source</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Mar 2017 12:20:52 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Open Source</title>
+      <link>/category/open-source/</link>
+    </image>
+    
+    <item>
+      <title>Eye-Tracking with N &gt; 1</title>
+      <link>/post/2017-03-13-eye-tracking-with-n-1/</link>
+      <pubDate>Mon, 13 Mar 2017 12:20:52 -0700</pubDate>
+      <guid>/post/2017-03-13-eye-tracking-with-n-1/</guid>
+      <description>&lt;p&gt;This is one of the fastest papers I have ever written. It was a great collaboration with 
+&lt;a href=&#34;http://www.uib.eu/personal/ABjI1MDg3Mw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tomás Lejarraga&lt;/a&gt; from the Universitat de les Illes Balears. Why was it great? Because it is one of the rare cases (at least in my academic life) where all people involved in a project contribute equally and quickly. Often, the weight of a contribution lies with one person which slows down things – with Tomás this was different – we were often sitting in front of a computer writing together (have never done this before, thought it would not work). Surprisingly this collaborative writing worked out very well and we had the skeleton of the paper within an afternoon. This was followed by many hours of tuning and tacking turns – but in principle we wrote the most important parts together – which was pretty cool.&lt;/p&gt;
+&lt;p&gt;Even cooler – you can do eye-tracking in groups, using our code.&lt;/p&gt;
+&lt;p&gt;Here is the [
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Lejarraga2016.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF&lt;/a&gt;] and abstract:&lt;/p&gt;
+&lt;p&gt;The recent introduction of inexpensive eye-trackers has opened up a wealth of opportunities for researchers to study attention in interactive tasks. No software package was previously available to help researchers exploit those opportunities. We created “the pyeTribe”, a software package that offers, among others, the following features: First, a communication platform between many eye-trackers to allow simultaneous recording of multiple participants. Second, the simultaneous calibration of multiple eye-trackers without the experimenter’s supervision. Third, data collection restricted to periods of interest, thus reducing the volume of data and easing analysis. We used a standard economic game (the public goods game) to examine data quality and demonstrate the potential of our software package. Moreover, we conducted a modeling analysis, which illustrates how combining process and behavioral data can improve models of human decision making behavior in social situations. Our software is open source and can thus be used and improved by others.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Moving an idea into business</title>
+      <link>/post/2015-02-07-moving-an-idea-into-business/</link>
+      <pubDate>Sat, 07 Feb 2015 15:15:17 -0700</pubDate>
+      <guid>/post/2015-02-07-moving-an-idea-into-business/</guid>
+      <description>&lt;p&gt;Recently 
+&lt;a href=&#34;http://vlab.ethz.ch/ROM/DBGT/Homepage.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ryan Murphy&lt;/a&gt; and myself realised that a startup here in Berlin features ideas of our 2011 
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/pubs/Schulte2011.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flashlight paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Well, the guys at 
+&lt;a href=&#34;http://www.attensee.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;attensee.com&lt;/a&gt; did a great job taking the idea we had much further we ever thought one would be able to take it …&lt;/p&gt;
+&lt;p&gt;Here is a feature I totally love – a live heat map of what you are looking at … awesome!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;www.attensee.com&#34;&gt;&lt;img class=&#34;alignleft size-medium wp-image-381&#34; src=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2015/02/Screen-Shot-2015-02-07-at-23.11.47-300x200.png&#34; alt=&#34;Screen Shot 2015-02-07 at 23.11.47&#34; width=&#34;300&#34; height=&#34;200&#34; srcset=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-07-at-23.11.47-300x200.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-07-at-23.11.47-749x500.png 749w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-07-at-23.11.47-500x334.png 500w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2015/02/Screen-Shot-2015-02-07-at-23.11.47.png 1008w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Limesurvey randomizing</title>
+      <link>/post/2013-06-03-limesurvey-randomizing/</link>
+      <pubDate>Mon, 03 Jun 2013 12:55:47 -0700</pubDate>
+      <guid>/post/2013-06-03-limesurvey-randomizing/</guid>
+      <description>&lt;p&gt;It is kind of an odd problem.&lt;br&gt;
+For the following pretty straight forward question: How do I randomise questions within a group in 
+&lt;a href=&#34;http://www.limesurvey.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Limesurvey&lt;/a&gt;? It seems to be really hard to find an answer.&lt;/p&gt;
+&lt;p&gt;With the help of Jonas I figured out that there is a randomisation option hidden in the ‘Advanced Settings’ section of a question. What you have to do is provide the same number (this is important) for each question in a group that you want to randomise. Limesurvey will then take care of the rest. It did not seem to work if I named the variable with a string, eg, ‘group1’ but only numeric counters work fine.&lt;/p&gt;
+&lt;p&gt;Thanks Jonas! (I would not have finished at all) …&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-03-at-9.37.52-PM1.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img class=&#34;alignleft size-medium wp-image-269&#34; src=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-03-at-9.37.52-PM1-300x101.png&#34; alt=&#34;Screen Shot 2013-06-03 at 9.37.52 PM&#34; width=&#34;300&#34; height=&#34;101&#34; srcset=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-03-at-9.37.52-PM1-300x101.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-03-at-9.37.52-PM1-500x169.png 500w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-03-at-9.37.52-PM1.png 624w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Religion and # of babies &amp;#8230;</title>
+      <link>/post/2012-05-24-religion-and-of-babies/</link>
+      <pubDate>Thu, 24 May 2012 00:05:00 -0700</pubDate>
+      <guid>/post/2012-05-24-religion-and-of-babies/</guid>
+      <description>&lt;p&gt;Religion seems to have little influence on the # of babies per woman – who might have thought …&lt;br&gt;
+
+&lt;a href=&#34;http://www.ted.com/talks/hans_rosling_religions_and_babies.html?utm_source=newsletter_weekly_2012-05-22&amp;amp;utm_campaign=newsletter_weekly&amp;amp;utm_medium=email&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here&lt;/a&gt; is another excellent talk of Hans Rösling on the topic.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sustainable research</title>
+      <link>/post/2011-04-10-sustainable-research/</link>
+      <pubDate>Sun, 10 Apr 2011 04:25:33 -0700</pubDate>
+      <guid>/post/2011-04-10-sustainable-research/</guid>
+      <description>&lt;p&gt;A sister blog with interesting contributions on what open source software researcher can use to work sustainable …&lt;/p&gt;
+&lt;div&gt;
+  &lt;p&gt;
+    &lt;a title=&#34;Sustainable Research&#34; href=&#34;http://www.surefoss.org/&#34;&gt;http://www.surefoss.org/&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

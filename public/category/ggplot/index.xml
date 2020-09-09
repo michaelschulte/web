@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ggplot | Academic</title>
+    <link>/category/ggplot/</link>
+      <atom:link href="/category/ggplot/index.xml" rel="self" type="application/rss+xml" />
+    <description>ggplot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Apr 2017 07:29:00 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>ggplot</title>
+      <link>/category/ggplot/</link>
+    </image>
+    
+    <item>
+      <title>Something about reverse inference</title>
+      <link>/post/2017-04-12-something-about-reverse-inference/</link>
+      <pubDate>Wed, 12 Apr 2017 07:29:00 -0700</pubDate>
+      <guid>/post/2017-04-12-something-about-reverse-inference/</guid>
+      <description>&lt;div class=&#34;page&#34; title=&#34;Page 1&#34;&gt;
+  &lt;div class=&#34;layoutArea&#34;&gt;
+    &lt;div class=&#34;column&#34;&gt;
+      &lt;p&gt;
+        Often, when we run process tracing studies (e.g., eye-tracking, mouse-tracking, thinking-aloud) we talk about cognitive processes (things we can&amp;#8217;t observe) in a way that they are actually and directly observable. This is pretty weird &amp;#8211; which becomes obvious when looking at the data from the paper below. In this paper we simply instruct participants to follow a strategy when making choices between risky gamble problems. Taking the example of fixation duration we see that there is surprisingly litte difference between calculating an expected value, using a heuristic (priority heuristic) and just making decisions without instructions (no instruction) &amp;#8230; maybe we should rethink our mapping of observation to cognitive processes a bit?
+      &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  &amp;lt;p&amp;gt;
+    Here is the paper:
+  &amp;lt;/p&amp;gt;
+  
+  &amp;lt;p&amp;gt;
+    Schulte-Mecklenbeck, M., Kühberger, A., Gagl, S., &amp;amp; Hutzler, F. (in press). Inducing thought processes: Bringing process measures and cognitive processes closer together. &amp;lt;em&amp;gt;Journal of Behavioral Decision Making&amp;lt;/em&amp;gt;. [ &amp;lt;a href=&amp;quot;http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Schulte-Mecklenbeck2017.pdf&amp;quot;&amp;gt;PDF&amp;lt;/a&amp;gt; ]
+  &amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+
+&amp;lt;p&amp;gt;
+  &amp;lt;img class=&amp;quot;aligncenter size-full wp-image-499&amp;quot; src=&amp;quot;http://www.schulte-mecklenbeck.com/wp-content/uploads//2017/04/fixduration.png&amp;quot; alt=&amp;quot;&amp;quot; width=&amp;quot;996&amp;quot; height=&amp;quot;582&amp;quot; srcset=&amp;quot;http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/04/fixduration.png 996w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/04/fixduration-300x175.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/04/fixduration-768x449.png 768w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/04/fixduration-856x500.png 856w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2017/04/fixduration-500x292.png 500w&amp;quot; sizes=&amp;quot;(max-width: 996px) 100vw, 996px&amp;quot; /&amp;gt;
+&amp;lt;/p&amp;gt;
+
+&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+  &amp;lt;p&amp;gt;
+    &amp;amp;nbsp;
+  &amp;lt;/p&amp;gt;
+  
+  &amp;lt;p&amp;gt;
+    Abstract:&amp;lt;br /&amp;gt; The challenge in inferring cognitive processes from observational data is to correctly align overt behavior with its covert cognitive process. To improve our understanding of the overt–covert mapping in the domain of decision making, we collected eye-movement data during decisions between gamble-problems. Participants were either free to choose or instructed to use a specific choice strategy (maximizing expected value or a choice heuristic). We found large differences in looking patterns between free and instructed choices. Looking patterns provided no support for the common assumption that attention is equally distributed between outcomes and probabilities, even when participants were instructed to maximize expected value. Eye-movement data are to some extent ambiguous with respect to underlying cognitive processes.
+  &amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

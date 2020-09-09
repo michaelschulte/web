@@ -1,0 +1,16 @@
+---
+id: 91
+title: Accepting to fail (in the name of science)
+date: 2009-12-22T05:00:24-07:00
+author: Michael
+layout: post
+guid: http://www.schulte-mecklenbeck.com/?p=91
+permalink: /2009/12/accepting-to-fail-in-the-name-of-science/
+categories:
+  - Science
+---
+Very interesting [article in WIRED](http://www.wired.com/magazine/2009/12/fail_accept_defeat/all/1) on accepting failure and how ignoring it changes the way scientists make progress (or not).
+
+Good theme for new years resolutions &#8230;
+
+In the meantime: Happy Holidays!

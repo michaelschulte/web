@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claudio Georgii | Academic</title>
+    <link>/author/claudio-georgii/</link>
+      <atom:link href="/author/claudio-georgii/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claudio Georgii</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Claudio Georgii</title>
+      <link>/author/claudio-georgii/</link>
+    </image>
+    
+    <item>
+      <title>The dynamics of self-control: within-participant modeling of binary food choices and underlying decision processes as a function of restrained eating</title>
+      <link>/publication/georgii-2019-dynamics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/georgii-2019-dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

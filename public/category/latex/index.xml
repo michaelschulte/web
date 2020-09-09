@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX | Academic</title>
+    <link>/category/latex/</link>
+      <atom:link href="/category/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTeX</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Apr 2017 23:16:22 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>LaTeX</title>
+      <link>/category/latex/</link>
+    </image>
+    
+    <item>
+      <title>LaTeX &lt;- pdfTeX, LuaTeX, XeTeX</title>
+      <link>/post/2017-04-30-latex/</link>
+      <pubDate>Sun, 30 Apr 2017 23:16:22 -0700</pubDate>
+      <guid>/post/2017-04-30-latex/</guid>
+      <description>&lt;p&gt;I have been using LaTeX (with pdfTeX) for 20+ years now – to be honest I never bothered to understand the differences between the different TeX engines – 
+&lt;a href=&#34;https://www.overleaf.com/blog/500-whats-in-a-name-a-guide-to-the-many-flavours-of-tex#.WQbPt1KB3UI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; is an excellent article by 
+&lt;a href=&#34;https://twitter.com/publishergeek&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graham Douglas&lt;/a&gt; explaining the ins and outs of the TeX engine(s).&lt;/p&gt;
+&lt;p&gt;… the article also features 
+&lt;a href=&#34;https://www.overleaf.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt; a shared TeX environment … sweet!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sublime autocompletion</title>
+      <link>/post/2016-01-28-sublime-autocompletion/</link>
+      <pubDate>Thu, 28 Jan 2016 08:47:44 -0700</pubDate>
+      <guid>/post/2016-01-28-sublime-autocompletion/</guid>
+      <description>&lt;p&gt;They say about 
+&lt;a href=&#34;http://www.sublimetext.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sublime&lt;/a&gt;: “The text editor you will fall in love with”&lt;/p&gt;
+&lt;p&gt;hmm – kind of did that.&lt;/p&gt;
+&lt;p&gt;One reason being that when coding LaTeX in Sublime there is an awesome autocompletion feature:&lt;/p&gt;
+&lt;p&gt;Type ‘enum’ and you get:&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-431&#34; src=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.37&#34; width=&#34;300&#34; height=&#34;104&#34; srcset=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.37-500x173.png 500w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.37.png 730w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Shift + Enter within an itemize adds a new \item&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-432&#34; src=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.46&#34; width=&#34;300&#34; height=&#34;99&#34; srcset=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.46-500x165.png 500w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-28-at-16.45.46.png 716w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;AFK to cry … tears of joy 🙂&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://tex.stackexchange.com/questions/222845/how-to-use-the-autocompletion-of-enumerate-in-latexing-sublime-text&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything stolen from here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychology as a reproducible Science</title>
+      <link>/post/2011-03-15-psychology-as-a-reproducible-science/</link>
+      <pubDate>Tue, 15 Mar 2011 13:30:49 -0700</pubDate>
+      <guid>/post/2011-03-15-psychology-as-a-reproducible-science/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Is Psychology ready for reproducible research?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Today the typical research process in psychology looks generally like this: we collect data; analyze them in many ways; write a draft article based on some of the results; submit the draft to a journal; maybe produce a revision following the suggestions of the reviewers and editors; and hopefully live long enough to actually see it published. All of these steps are closed to the public except for the last one – the publication of the (often substantially) revised version of the paper. Journal editors and reviewers evaluate the written work submitted to them, they trust that the analyses described in the submission are done in a principled and correct way. Editors and reviewers are the only external part of this process who will have an active influence on what analyses are done. After the publication of an article the public has the opportunity to write comments or ask the authors for the actual datasets for re-analysis. Often however, getting access to data from published papers is hard, if not often impossible (Savage &amp;amp; Vickers, 2009; Wicherts, Borsboom, Kats, &amp;amp; Molenaar, 2006).  Unfortunately only the gist of the analyses are described in the paper and neither exact verification nor innovative additional analyses are possible.&lt;/p&gt;
+&lt;p&gt;What could be a solution for this problem? An example from computer science provides a concept called “literate programming” which was advocated by one of the field’s grandmasters, Donald Knuth, in 1984. Knuth suggested that documentation (comments in the code) should be just as important as the actual code itself. This idea was reflected nearly 20 years later when Schwab et al. (2000) formulated a concept that “replication by other scientists” is a central aim and guardian for intellectual quality; they coined the term “reproducible research” for such a process.&lt;/p&gt;
+&lt;p&gt;Let’s move the research process to a more open, reproducible structure, in which scientific peers have the ability to evaluate not only the final publication but also the data and the analyses.&lt;br&gt;
+Ideally, research papers would have code for analyses which are commented in detail and are submitted in tandem with drafts as well as the original datasets. Anybody, not only a restricted group of select reviewers and editors, could reproduce all the steps of the analysis and follow the logic of arguments on not only the conceptual level but at an analytic level as well. This openness facilities easy reanalysis of data also. Meta-analysis could be done more frequently and with greater resolution as the actual data are available. Moreover, this configuration would allow us collectively to estimate effects in the population and not restrict our attention to independent small samples (see Henrich, Heine, &amp;amp; Norenzayan, 2010 for a discussion of this topic).&lt;/p&gt;
+&lt;p&gt;What do we need to achieve this? From a policy perspective, journals would have to add the requirement for data and code submission together with the draft of each empirical paper. Some journals already provide the option to do that (e.g., Behavior Research Methods) in the supplemental material section on a voluntary base, some require the submission of all necessary material to replicate the reported results (e.g., Econometrica), however most do not offer such a possibility (it is of course possible to provide such materials through private or university web sites, but this is a haphazard and decentralized arrangement).&lt;/p&gt;
+&lt;p&gt;Tools are a second important part of facilitating this openness. Three open source (free of cost) components could provide the bases for reproducible research:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (&lt;a href=&#34;http://www.R-project.org&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, &lt;a href=&#34;http://www.latex-project.org/)&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The power of these different tools comes from the combination of their being open source, their widespread adoption (across a wide range of fields in sciences), and the fully transparent means by which data analysis is conducted and reported.  It levels the playing field and means that anybody with an Internet connection and a computer can take part in evolving scientific progress.&lt;/p&gt;
+&lt;p&gt;John Godfrey Saxe famously said that: “Laws, like sausages, cease to inspire respect in proportion as we know how they are made.” We should strive that this is not true for psychology as a science.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>two good things come together</title>
+      <link>/post/2010-07-15-two-good-things-come-together/</link>
+      <pubDate>Thu, 15 Jul 2010 01:49:54 -0700</pubDate>
+      <guid>/post/2010-07-15-two-good-things-come-together/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://docs.latexlab.org/docs&#34;&gt;http://docs.latexlab.org/docs&lt;/a&gt;&lt;br&gt;
+LaTeX and Google Docs together in one nice (free)application – this is a brilliant idea, which gives you the power of LaTeX combined with the excellent collaboration possiblities of Google Docs – if I would have a button it would say “I like” …&lt;/p&gt;
+&lt;p&gt;Here is a screenshot from the project page – with LaTeX code on one side and the final output on the other …&lt;br&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://reactor.bloo.us/images/ll-screen-2.png&#34; title=&#34;Screenshot LaTeX and Google Docs&#34; class=&#34;alignnone&#34; width=&#34;300&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaTeX looks more scientific</title>
+      <link>/post/2010-03-18-latex-looks-more-scientific/</link>
+      <pubDate>Thu, 18 Mar 2010 06:42:04 -0700</pubDate>
+      <guid>/post/2010-03-18-latex-looks-more-scientific/</guid>
+      <description>&lt;p&gt;There are long discussions on the benefits of LaTeX over Word, but this statement from a (not too serious) 
+&lt;a href=&#34;http://www.stat.columbia.edu/~gelman/research/unpublished/zombies.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; of 
+&lt;a href=&#34;http://www.stat.columbia.edu/~gelman/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrew Gelman&lt;/a&gt; (a Professor of Statistics and Political Sciences at Columbia University) hits the spot: 
+&lt;a href=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-2.29.06-PM1.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-2.29.06-PM1-300x56.png&#34; alt=&#34;&#34; title=&#34;Screen shot 2010-03-18 at 2.29.06 PM&#34; width=&#34;300&#34; height=&#34;56&#34; class=&#34;alignleft size-medium wp-image-99&#34; srcset=&#34;http://www.schulte-mecklenbeck.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-2.29.06-PM1-300x56.png 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2010/03/Screen-shot-2010-03-18-at-2.29.06-PM1.png 674w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaTeX tips</title>
+      <link>/post/2009-06-25-latex-tips/</link>
+      <pubDate>Thu, 25 Jun 2009 11:13:33 -0700</pubDate>
+      <guid>/post/2009-06-25-latex-tips/</guid>
+      <description>&lt;p&gt;Two things are often bothering when one starts to work with LaTeX: in text referencing of literature and Umlaute (for our German speaking friends) ****&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Referencing:&lt;/strong&gt; Here is a list of 5 types of in text referencing. To get them to work in a LaTeX file you need to define a referencing style in your document (in the example I use APA – American Psychological Association), you can of course use any style you want!&lt;/p&gt;
+&lt;p&gt;In the header:&lt;/p&gt;
+&lt;p&gt;usepackage{apacite}&lt;br&gt;
+bibliographystyle{apacite}&lt;/p&gt;
+&lt;p&gt;In the actual text part the command on the left results in the reference on the right:&lt;/p&gt;
+&lt;p&gt;cite{Bortz1993} – (Bortz, 1993)&lt;br&gt;
+citeA{Bortz1993} – Bortz (1993)&lt;br&gt;
+citeNP{Campbell1959} – Campbell, 1959&lt;br&gt;
+citeauthor{Spiel2001} – Spiel citeyearNP{Bortz1993} – 1993&lt;/p&gt;
+&lt;p&gt;At the end of the document enter a reference to your .bib file, in the example below my file is called biblio.bib: bibliography{biblio}&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Umlaute&lt;/strong&gt;: In German there are several Umlaute that are not included in the standard english setup of a LaTeX installation. There are two ways to get them right: 1) given a standard LaTeX document use (again command on the left, result on the right): “a – ä “u – ü “o – ö) given that you actually want to write in German do the following:&lt;/p&gt;
+&lt;p&gt;usepackage[german]{babel}&lt;br&gt;
+usepackage[ansinew]{inputenc}&lt;/p&gt;
+&lt;p&gt;Two useful links:&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1) Wikipedia book on LaTeX&lt;/span&gt;&lt;span&gt;&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt; &lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt;http://en.wikibooks.org/wiki/LaTeX&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;2) A &lt;a href=&#34;http://www.uni-salzburg.at/portal/page?_pageid=138,456842&amp;_dad=portal&amp;_schema=PORTAL&#34;&gt;page&lt;/a&gt; at the University of Salzburg’s Psychology department (German!)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href=&#34;http://www.users.sbg.ac.at/~gdkleiter/&#34;&gt;Gernot Kleiter&lt;/a&gt; was the person who introduced me to LaTeX, decision making, good experimenting … actually, there should be a whole post about him …&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech | Academic</title>
+    <link>/category/tech/</link>
+      <atom:link href="/category/tech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tech</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2010 01:49:54 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tech</title>
+      <link>/category/tech/</link>
+    </image>
+    
+    <item>
+      <title>two good things come together</title>
+      <link>/post/2010-07-15-two-good-things-come-together/</link>
+      <pubDate>Thu, 15 Jul 2010 01:49:54 -0700</pubDate>
+      <guid>/post/2010-07-15-two-good-things-come-together/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://docs.latexlab.org/docs&#34;&gt;http://docs.latexlab.org/docs&lt;/a&gt;&lt;br&gt;
+LaTeX and Google Docs together in one nice (free)application – this is a brilliant idea, which gives you the power of LaTeX combined with the excellent collaboration possiblities of Google Docs – if I would have a button it would say “I like” …&lt;/p&gt;
+&lt;p&gt;Here is a screenshot from the project page – with LaTeX code on one side and the final output on the other …&lt;br&gt;
+&lt;img alt=&#34;&#34; src=&#34;http://reactor.bloo.us/images/ll-screen-2.png&#34; title=&#34;Screenshot LaTeX and Google Docs&#34; class=&#34;alignnone&#34; width=&#34;300&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R goes cloud</title>
+      <link>/post/2010-04-16-r-goes-cloud/</link>
+      <pubDate>Fri, 16 Apr 2010 23:24:03 -0700</pubDate>
+      <guid>/post/2010-04-16-r-goes-cloud/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.stat.ucla.edu/~jeroen/cv.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeroen Ooms&lt;/a&gt; did for R what Google did for editing documents online. He created several software packages that help running R with a nice frontend over the Internet.&lt;br&gt;
+I first learned about Jeroen’s website through his 
+&lt;a href=&#34;http://www.stat.ucla.edu/~jeroen/ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;implementation of ggplot2&lt;/a&gt; – this page is useful to generate graphs with the powerful ggplot2 package without R knowledge, however it is even more helpful to learn ggplot2 code with the View-code panel function which displays the underlying R code. If you are into random effect models another package connected to 
+&lt;a href=&#34;http://www.stat.ucla.edu/~jeroen/lme4.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lme4&lt;/a&gt; will guide you step by step through model building.&lt;br&gt;
+I think this is a great step forward for R and cloud computing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LaTeX tips</title>
+      <link>/post/2009-06-25-latex-tips/</link>
+      <pubDate>Thu, 25 Jun 2009 11:13:33 -0700</pubDate>
+      <guid>/post/2009-06-25-latex-tips/</guid>
+      <description>&lt;p&gt;Two things are often bothering when one starts to work with LaTeX: in text referencing of literature and Umlaute (for our German speaking friends) ****&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Referencing:&lt;/strong&gt; Here is a list of 5 types of in text referencing. To get them to work in a LaTeX file you need to define a referencing style in your document (in the example I use APA – American Psychological Association), you can of course use any style you want!&lt;/p&gt;
+&lt;p&gt;In the header:&lt;/p&gt;
+&lt;p&gt;usepackage{apacite}&lt;br&gt;
+bibliographystyle{apacite}&lt;/p&gt;
+&lt;p&gt;In the actual text part the command on the left results in the reference on the right:&lt;/p&gt;
+&lt;p&gt;cite{Bortz1993} – (Bortz, 1993)&lt;br&gt;
+citeA{Bortz1993} – Bortz (1993)&lt;br&gt;
+citeNP{Campbell1959} – Campbell, 1959&lt;br&gt;
+citeauthor{Spiel2001} – Spiel citeyearNP{Bortz1993} – 1993&lt;/p&gt;
+&lt;p&gt;At the end of the document enter a reference to your .bib file, in the example below my file is called biblio.bib: bibliography{biblio}&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Umlaute&lt;/strong&gt;: In German there are several Umlaute that are not included in the standard english setup of a LaTeX installation. There are two ways to get them right: 1) given a standard LaTeX document use (again command on the left, result on the right): “a – ä “u – ü “o – ö) given that you actually want to write in German do the following:&lt;/p&gt;
+&lt;p&gt;usepackage[german]{babel}&lt;br&gt;
+usepackage[ansinew]{inputenc}&lt;/p&gt;
+&lt;p&gt;Two useful links:&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1) Wikipedia book on LaTeX&lt;/span&gt;&lt;span&gt;&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt; &lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt;http://en.wikibooks.org/wiki/LaTeX&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;2) A &lt;a href=&#34;http://www.uni-salzburg.at/portal/page?_pageid=138,456842&amp;_dad=portal&amp;_schema=PORTAL&#34;&gt;page&lt;/a&gt; at the University of Salzburg’s Psychology department (German!)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href=&#34;http://www.users.sbg.ac.at/~gdkleiter/&#34;&gt;Gernot Kleiter&lt;/a&gt; was the person who introduced me to LaTeX, decision making, good experimenting … actually, there should be a whole post about him …&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>XAMPP activating mysql</title>
+      <link>/post/2009-06-17-xampp-activating-mysql/</link>
+      <pubDate>Wed, 17 Jun 2009 12:50:56 -0700</pubDate>
+      <guid>/post/2009-06-17-xampp-activating-mysql/</guid>
+      <description>&lt;p&gt;Here is the problem: I want to have a server (Apache, MySQL) on my local machine (for the current purpose it was a Windows machine) to do some developing, testing or a demo. Getting 
+&lt;a href=&#34;http://www.apachefriends.org/en/xampp.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XAMPP&lt;/a&gt; at 
+&lt;a href=&#34;http://sourceforge.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sourceforge&lt;/a&gt; is straight forward, installing it works like a charm.&lt;/p&gt;
+&lt;p&gt;BUT&lt;/p&gt;
+&lt;p&gt;A problem coming back from time to time is the following: the MySQL daemon does not start.&lt;br&gt;
+Hmmmm&lt;/p&gt;
+&lt;p&gt;Here are some steps that helped me:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;make sure to deactivate any services related to MySQL and Apache&lt;/li&gt;
+&lt;li&gt;shutdown XAMPP&lt;/li&gt;
+&lt;li&gt;to be sure I restart the machine&lt;/li&gt;
+&lt;li&gt;do not start XAMPP with the .bat file but use the MySQL and Apache batch scripts – these open a command window which you should not close as long as you use XAMPP&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Through these steps everything worked fine …&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
