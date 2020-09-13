@@ -29,6 +29,7 @@ interests:
 - Mouse-Tracking
 - Open Science
 - Replication
+- Framing
 
 education:
   courses:
@@ -53,7 +54,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:michael@schulte-mecklenbeck.com".
+  link: '#contact'  # For a direct email link, use "mailto:michael@schulte-mecklenbeck.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MSchulte
@@ -80,7 +81,8 @@ user_groups:
 - Visitors
 ---
 
-I am working at the Department of Consumer Behavior at the University of Bern, Switzerland. Before that I held positions at the Max-Planck-Institute for Human Development in Berlin, at various other academic institutions and in the food industry (look at your breakfast table – the company I worked for is very likely present).
-My main research interests are decision making, process tracing and food choice behavior. Within these lines of research I am developing my own  tools to study decision processes (WebDiP, Flashlight, The pyeTribe) and answer questions like: What  information  do consumers use when making food choices? or How do search processes in simple gamble decisions unfold?
+I study how people make decisions, what (cognitive) processes underly those decisions and how we can measure all of that. Within these lines of research I developed my own tools to study decision processes ([WebDiP](https://github.com/michaelschulte/webdip), [Flashlight](https://github.com/michaelschulte/flashlight), [The pyeTribe](https://github.com/michaelschulte/ThePyeTribe)) and answer questions like: 'What information do people/consumers use when making food choices?' or 'How do search processes in simple gamble decisions unfold?'
 
-Furthermore I am interested in online research and teaching methodology in class and via the Internet.
+All this  is done at the the University of Bern (Consumer Behavior), Switzerland and the Max-Planck-Institute for Human Development (Adaptive Rationality) in Berlin. I held positions at various other academic institutions and in the food industry (look at your breakfast table – the company I worked for is very likely present).
+
+Furthermore I am interested in open science, replication, open methods and teaching methodology in class.

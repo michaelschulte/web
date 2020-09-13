@@ -61,6 +61,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -86,8 +89,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -198,9 +199,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -241,6 +242,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65987-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-65987-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -270,13 +309,16 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@SchulteMi">
+  <meta property="twitter:creator" content="@SchulteMi">
+  
   <meta property="og:site_name" content="Academic">
   <meta property="og:url" content="/post/">
   <meta property="og:title" content="Posts | Academic">
   <meta property="og:description" content="Associate Professor"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2018-12-10T06:05:56-07:00">
+    <meta property="og:updated_time" content="2020-01-19T00:00:00&#43;00:00">
   
 
   
@@ -302,8 +344,6 @@
 
   
   
-  
-    <script>window.staDarkLightChooser = true;</script>
   
   
     <script>const isSiteThemeDark = false;</script>
@@ -585,23 +625,6 @@
       
 
       
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
 
       
 
@@ -647,6 +670,455 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2016-01-28-sublime-autocompletion/" >Sublime autocompletion</a>
+    </h3>
+
+    
+    <a href="/post/2016-01-28-sublime-autocompletion/" class="summary-link">
+      <div class="article-style">
+        They say about Sublime: “The text editor you will fall in love with”
+hmm – kind of did that.
+One reason being that when coding LaTeX in Sublime there is an awesome autocompletion feature:
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 28, 2016
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/latex/">LaTeX</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2016-01-10-three-weeks-without-email/" >Three weeks without email</a>
+    </h3>
+
+    
+    <a href="/post/2016-01-10-three-weeks-without-email/" class="summary-link">
+      <div class="article-style">
+        I spend a lot of time writing and answering email. Email is, according to timing, the third longest activity on my computer (although I am using three computers and can check this only on one of them – #timing please let us link computers for an overall analysis) … anyway – back to no email – as a holiday treat I decided to shut down all my email accounts 5 days before Dec.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 10, 2016
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/lifehacks/">Lifehacks</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/" >New Paper on pychodiagnosis and eye-tracking</a>
+    </h3>
+
+    
+    <a href="/post/2015-11-10-new-paper-on-pychodiagnosis-and-eye-tracking/" class="summary-link">
+      <div class="article-style">
+        Cilia Witteman and Nanon Spaanjaars (my dutch connection) worked together on a piece on whether psychodiagnosticians improve over time (they don’t) in their ability to classify symptoms to DSM categories. This turned out to be a pretty cool paper combining eye-tracking data with a practical, and hopefully, relevant question.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 10, 2015
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a>, <a href="/category/eye-tracking/">Eye tracking</a>, <a href="/category/methods/">Methods</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2015-07-13-the-way-i-am-seen-by-people-who-know-and-like-me/" >the way I am seen, by people who know (and like) me</a>
+    </h3>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 13, 2015
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    0 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2015-03-11-about-illusions/" >about illusions</a>
+    </h3>
+
+    
+    <a href="/post/2015-03-11-about-illusions/" class="summary-link">
+      <div class="article-style">
+        Andrew Gelman talked about a really old paper I did together with Anton Kühberger ages ago. It was actually the first paper / ‘real’ scientific project I was involved in.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 11, 2015
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
   
     
       
@@ -1108,465 +1580,6 @@ fast, consistent and easy to read … check out a set of instructional pages, pr
 
     
   
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2014-05-07-when-something-old/" >When something old &amp;#8230;</a>
-    </h3>
-
-    
-    <a href="/post/2014-05-07-when-something-old/" class="summary-link">
-      <div class="article-style">
-        Schulte-Mecklenbeck, M., & Kühberger, A. (2014). Out of sight – out of mind? Information acquisition patterns in risky choice framing. Polish Psychological Bulletin, 45, 21–28. I teamed up with Anton Kühberger to write about one of our old, favorite topics: framing and process tracing &#8230; Here is the abstract:
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    May 7, 2014
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2013-08-16-new-paper-on-food-choice-and-simple-heuristics/" >New paper on food choice and simple heuristics</a>
-    </h3>
-
-    
-    <a href="/post/2013-08-16-new-paper-on-food-choice-and-simple-heuristics/" class="summary-link">
-      <div class="article-style">
-        We got a new paper out on how people (consumers) use simple rules to make food choices. This is work in collaboration with the Nestlé Research Center in Lausanne.
-Here is the reference:
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Aug 16, 2013
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a>, <a href="/category/food-choice/">Food Choice</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2013-06-03-limesurvey-randomizing/" >Limesurvey randomizing</a>
-    </h3>
-
-    
-    <a href="/post/2013-06-03-limesurvey-randomizing/" class="summary-link">
-      <div class="article-style">
-        It is kind of an odd problem.
-For the following pretty straight forward question: How do I randomise questions within a group in Limesurvey? It seems to be really hard to find an answer.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jun 3, 2013
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/limesurvey/">Limesurvey</a>, <a href="/category/open-source/">Open Source</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2012-10-13-apply-in-all-its-variations/" >*apply in all its variations &amp;#8230;</a>
-    </h3>
-
-    
-    <a href="/post/2012-10-13-apply-in-all-its-variations/" class="summary-link">
-      <div class="article-style">
-        Here is an excellent stackoverflow post on how *apply in all its variations can be used.
-One of the followups points at plyr (from demi-R-god Hadley Wickham) which provides a consistent naming convention for all the *apply variations.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Oct 13, 2012
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2012-09-21-r-style-guide/" >R Style Guide</a>
-    </h3>
-
-    
-    <a href="/post/2012-09-21-r-style-guide/" class="summary-link">
-      <div class="article-style">
-        This is mainly a note to self:
-There are several style guides for R out there. I particularly like the one from Google and the somewhat lighter version of Hadley (ggplot god).
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Sep 21, 2012
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/google/">Google</a>, <a href="/category/r/">R</a>, <a href="/category/statistics/">Statistics</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
 
   
 <nav>
@@ -1609,7 +1622,10 @@ There are several style guides for R out there. I particularly like the one from
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
     
 
     

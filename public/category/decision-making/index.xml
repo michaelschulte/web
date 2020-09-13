@@ -5,7 +5,7 @@
     <link>/category/decision-making/</link>
       <atom:link href="/category/decision-making/index.xml" rel="self" type="application/rss+xml" />
     <description>Decision Making</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Nov 2017 14:23:40 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Decision Making</title>
@@ -13,7 +13,43 @@
     </image>
     
     <item>
-      <title>Professor priming &amp;#8211; or not</title>
+      <title>Handbook of Process Tracing Methods</title>
+      <link>/post/hoptm/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/hoptm/</guid>
+      <description>&lt;p&gt;WOOP WOOP - here it is - the second edition of our beloved &amp;ldquo;Handbook of Process Tracing Methods&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;If you can&amp;rsquo;t wait - buy it here: &lt;a href=&#34;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&#34;&gt;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is bigger and better than the first edition, comes with the classics (Figner on skin conductance, Willemsen on Mouselab and many more) and many new awesome chapters - here is a list:&lt;/p&gt;
+&lt;p&gt;1 Eye Fixations as a Process Trace - J. Edward Russo&lt;/p&gt;
+&lt;p&gt;2 Pervasive Eye-Tracking for Real-World Consumer Behavior Analysis - Andreas Bulling and Michel Wedel&lt;/p&gt;
+&lt;p&gt;3 Investigating Pupil Dilation in Decision Research - Joseph Tao-yi Wang and Wei James Chen&lt;/p&gt;
+&lt;p&gt;4 A Primer on Eye-Tracking Methodology for Behavioral Science - Jacob L. Orquin and Kenneth Holmqvist&lt;/p&gt;
+&lt;p&gt;5 Increasing Reproducibility of Eye-Tracking Studies: The EyeGuidelines - Susann Fiedler, Michael Schulte-Mecklenbeck, Frank Renkewitz, and Jacob L. Orquin&lt;/p&gt;
+&lt;p&gt;6 (Re)Visiting the Decision Factory: Observing Cognition with MouselabWEB - Martijn C. Willemsen and Eric J. Johnson&lt;/p&gt;
+&lt;p&gt;7 Comparing Process Tracing Paradigms: Tracking Attention via Mouse and Eye Movements - Ana M. Franco-Watkins, Hayden K. Hickey, and Joseph G. Johnson&lt;/p&gt;
+&lt;p&gt;8 Mouse-Tracking: A Practical Guide to Implementation and Analysis - Pascal J. Kieslich, Felix Henninger, Dirk U. Wulff, Jonas M. B. Haslbeck, and Michael Schulte-Mecklenbeck&lt;/p&gt;
+&lt;p&gt;9 Mouse-Tracking: Detecting Types in Movement Trajectories - Dirk U. Wulff, Jonas M. B. Haslbeck, Pascal J. Kieslich, Felix Henninger, and Michael Schulte-Mecklenbeck&lt;/p&gt;
+&lt;p&gt;10 Mouse-Tracking to Understand Real-Time Dynamics of Social Cognition - Benjamin S. Stillerman and Jonathan B. Freeman&lt;/p&gt;
+&lt;p&gt;11 Measuring Electrodermal Activity and Its Applications in Judgment and Decision-Making Research - Bernd Figner, Ryan O. Murphy, and Paul Siegel&lt;/p&gt;
+&lt;p&gt;12 Response Times as Identification Tools for Cognitive Processes Underlying Decisions - Mario Fifić, Joseph W. Houpt, and Jörg Rieskamp&lt;/p&gt;
+&lt;p&gt;13 A Practical Guide for Automated Facial Emotion Classification - Sabrina Stöckli, Michael Schulte-Mecklenbeck, Stefan Borer, and Andrea C. Samson&lt;/p&gt;
+&lt;p&gt;14 EEG and ERPs as Neural Process Tracing Methodologies in Decision-Making Research - Mary E. Frame&lt;/p&gt;
+&lt;p&gt;15 Decision Neuroscience: fMRI Insights into Choice Processes - Vinod Venkatraman and Crystal Reeck&lt;/p&gt;
+&lt;p&gt;16 Probing the Decisional Brain with Noninvasive Brain Stimulation - Nadège Bault, Elena Rusconi, and Giorgio Coricelli&lt;/p&gt;
+&lt;p&gt;17 Verbal Reports and Decision Process Analysis - Rob Ranyard and Ola Svenson&lt;/p&gt;
+&lt;p&gt;18 Thinking Aloud during Superior Performance on Tasks Involving Decision Making - K.Anders Ericsson and Jerad H. Moxley&lt;/p&gt;
+&lt;p&gt;19 Tracking Free Information Access: The Method of Active Information Search - Oswald Huber, Anton Kühberger, and Michael Schulte-Mecklenbeck&lt;/p&gt;
+&lt;p&gt;20 Uncovering the Anatomy of Search Without Technology - Dirk U. Wulff and Ralph Hertwig&lt;/p&gt;
+&lt;p&gt;21 Process Tracing, Sampling, and Drift Rate Construction - Neil Stewart and Timothy L. Mullett&lt;/p&gt;
+&lt;p&gt;22 Using Multiple Methods to Elicit Choices and to Identify Strategies - Ulrich Hoffrage and Nils Reisen&lt;/p&gt;
+&lt;p&gt;23 Testing Cognitive Models by a Joint Analysis of Multiple Dependent Measures Including Process Data - Andreas Glöckner and Marc Jekel&lt;/p&gt;
+&lt;p&gt;24 Using Process Tracing Data to Define and Test Process Models - Joseph G. Johnson and Mary E. Frame&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019-06-20-handbook-of-process-tracing-methods_files/0_Cover.tif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professor priming - or not</title>
       <link>/post/2017-11-13-professor-priming-or-not/</link>
       <pubDate>Mon, 13 Nov 2017 14:23:40 -0700</pubDate>
       <guid>/post/2017-11-13-professor-priming-or-not/</guid>
@@ -37,19 +73,11 @@
     &amp;lt;/p&amp;gt;
     
     &amp;lt;p&amp;gt;
-      Here is the abstract of the whole paper and here the &amp;lt;a href=&amp;quot;https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf&amp;quot;&amp;gt;Commentary by Ap Dijksterhuis&amp;lt;/a&amp;gt; naturally, he sees things a bit different &amp;amp;#8230;
+      Here is the abstract of the whole paper and here the &amp;lt;a href=&amp;quot;https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf&amp;quot;&amp;gt;Commentary by Ap Dijksterhuis&amp;lt;/a&amp;gt; naturally, he sees things a bit different:           Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
     &amp;lt;/p&amp;gt;
   &amp;lt;/div&amp;gt;
-  
-  &amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
-    &amp;lt;p&amp;gt;
-      Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
-    &amp;lt;/p&amp;gt;
-  &amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</description>
+</description>
     </item>
     
     <item>

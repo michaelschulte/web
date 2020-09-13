@@ -61,6 +61,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -86,8 +89,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -198,9 +199,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -241,6 +242,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65987-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-65987-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -268,9 +307,12 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@SchulteMi">
+  <meta property="twitter:creator" content="@SchulteMi">
+  
   <meta property="og:site_name" content="Academic">
   <meta property="og:url" content="/post/2017-11-13-professor-priming-or-not/">
-  <meta property="og:title" content="Professor priming &amp;#8211; or not | Academic">
+  <meta property="og:title" content="Professor priming - or not | Academic">
   <meta property="og:description" content="This was my first contribution to a Registered Replication Report (RRR). Being one of 40 participating labs was an interesting exercise &#8211; it might seem straightforward to run the same study in different labs, but we learned that such small things as ü, ä and ö can generate a huge amount of problems and work (read this if you are into these kind of things)."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
@@ -303,7 +345,7 @@
     "@type": "WebPage",
     "@id": "/post/2017-11-13-professor-priming-or-not/"
   },
-  "headline": "Professor priming \u0026#8211; or not",
+  "headline": "Professor priming - or not",
   
   "datePublished": "2017-11-13T14:23:40-07:00",
   "dateModified": "2017-11-13T14:23:40-07:00",
@@ -339,7 +381,7 @@
 
 
 
-  <title>Professor priming &amp;#8211; or not | Academic</title>
+  <title>Professor priming - or not | Academic</title>
 
 </head>
 
@@ -348,8 +390,6 @@
 
   
   
-  
-    <script>window.staDarkLightChooser = true;</script>
   
   
     <script>const isSiteThemeDark = false;</script>
@@ -631,23 +671,6 @@
       
 
       
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
 
       
 
@@ -679,7 +702,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Professor priming &amp;#8211; or not</h1>
+  <h1>Professor priming - or not</h1>
 
   
 
@@ -767,19 +790,11 @@
     &lt;/p&gt;
     
     &lt;p&gt;
-      Here is the abstract of the whole paper and here the &lt;a href=&quot;https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf&quot;&gt;Commentary by Ap Dijksterhuis&lt;/a&gt; naturally, he sees things a bit different &amp;#8230;
+      Here is the abstract of the whole paper and here the &lt;a href=&quot;https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf&quot;&gt;Commentary by Ap Dijksterhuis&lt;/a&gt; naturally, he sees things a bit different:           Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
     &lt;/p&gt;
   &lt;/div&gt;
-  
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;p&gt;
-      Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
-    &lt;/p&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
 </code></pre>
-  </div>
-</div>
+
     </div>
 
     
@@ -802,7 +817,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/post/2017-11-13-professor-priming-or-not/&amp;text=Professor%20priming%20&amp;amp;#8211;%20or%20not" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/post/2017-11-13-professor-priming-or-not/&amp;text=Professor%20priming%20-%20or%20not" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -815,7 +830,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/post/2017-11-13-professor-priming-or-not/&amp;t=Professor%20priming%20&amp;amp;#8211;%20or%20not" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/post/2017-11-13-professor-priming-or-not/&amp;t=Professor%20priming%20-%20or%20not" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -828,7 +843,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Professor%20priming%20&amp;amp;#8211;%20or%20not&amp;body=/post/2017-11-13-professor-priming-or-not/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Professor%20priming%20-%20or%20not&amp;body=/post/2017-11-13-professor-priming-or-not/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -841,7 +856,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/post/2017-11-13-professor-priming-or-not/&amp;title=Professor%20priming%20&amp;amp;#8211;%20or%20not" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/post/2017-11-13-professor-priming-or-not/&amp;title=Professor%20priming%20-%20or%20not" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -854,7 +869,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Professor%20priming%20&amp;amp;#8211;%20or%20not%20/post/2017-11-13-professor-priming-or-not/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Professor%20priming%20-%20or%20not%20/post/2017-11-13-professor-priming-or-not/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -867,7 +882,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/post/2017-11-13-professor-priming-or-not/&amp;title=Professor%20priming%20&amp;amp;#8211;%20or%20not" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/post/2017-11-13-professor-priming-or-not/&amp;title=Professor%20priming%20-%20or%20not" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1019,6 +1034,8 @@
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/post/hoptm/">Handbook of Process Tracing Methods</a></li>
+      
       <li><a href="/post/2018-07-30-a-letter-to-the-black-goat/">A letter to the black goat</a></li>
       
       <li><a href="/post/2017-11-13-the-root-of-the-problem/">The root of the problem</a></li>
@@ -1026,8 +1043,6 @@
       <li><a href="/post/2017-10-31-a-short-history-of-process-tracing/">A short history of process tracing</a></li>
       
       <li><a href="/post/2017-04-12-growing-up-to-be-old/">Growing up to be old</a></li>
-      
-      <li><a href="/post/2017-04-12-something-about-reverse-inference/">Something about reverse inference</a></li>
       
     </ul>
   </div>
@@ -1065,7 +1080,10 @@
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
     
 
     

@@ -61,6 +61,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -86,8 +89,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -198,9 +199,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -241,6 +242,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65987-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-65987-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -270,13 +309,16 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@SchulteMi">
+  <meta property="twitter:creator" content="@SchulteMi">
+  
   <meta property="og:site_name" content="Academic">
   <meta property="og:url" content="/post/">
   <meta property="og:title" content="Posts | Academic">
   <meta property="og:description" content="Associate Professor"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2018-12-10T06:05:56-07:00">
+    <meta property="og:updated_time" content="2020-01-19T00:00:00&#43;00:00">
   
 
   
@@ -302,8 +344,6 @@
 
   
   
-  
-    <script>window.staDarkLightChooser = true;</script>
   
   
     <script>const isSiteThemeDark = false;</script>
@@ -585,23 +625,6 @@
       
 
       
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
 
       
 
@@ -647,6 +670,465 @@
   
 
   
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2011-04-14-resinstalling-packages-in-r-after-update/" >resinstalling packages in R after update</a>
+    </h3>
+
+    
+    <a href="/post/2011-04-14-resinstalling-packages-in-r-after-update/" class="summary-link">
+      <div class="article-style">
+        This is old - by should still work :) - comment on how to do this in 2019 below &hellip;
+The new version 2.13.0 of R has just been released and with the update comes the pain of re-installing all the packages from the old installation on the new one.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 14, 2011
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2011-04-10-sustainable-research/" >Sustainable research</a>
+    </h3>
+
+    
+    <a href="/post/2011-04-10-sustainable-research/" class="summary-link">
+      <div class="article-style">
+        A sister blog with interesting contributions on what open source software researcher can use to work sustainable …
+  http://www.surefoss.org/   
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 10, 2011
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/open-source/">Open Source</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2011-03-15-psychology-as-a-reproducible-science/" >Psychology as a reproducible Science</a>
+    </h3>
+
+    
+    <a href="/post/2011-03-15-psychology-as-a-reproducible-science/" class="summary-link">
+      <div class="article-style">
+        Is Psychology ready for reproducible research?
+Today the typical research process in psychology looks generally like this: we collect data; analyze them in many ways; write a draft article based on some of the results; submit the draft to a journal; maybe produce a revision following the suggestions of the reviewers and editors; and hopefully live long enough to actually see it published.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 15, 2011
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/latex/">LaTeX</a>, <a href="/category/methods/">Methods</a>, <a href="/category/r/">R</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2011-03-01-blog-attack/" >Blog-attack</a>
+    </h3>
+
+    
+    <a href="/post/2011-03-01-blog-attack/" class="summary-link">
+      <div class="article-style">
+        Here is what Andrew Gelman writes about an interview Colin Camerer gave on Spousomonics … Looking forward to Camerer’s reply …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Mar 1, 2011
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2010-08-18-where-you-end-up-having-a-phd/" >Where you end up, having a PhD</a>
+    </h3>
+
+    
+    <a href="/post/2010-08-18-where-you-end-up-having-a-phd/" class="summary-link">
+      <div class="article-style">
+        The illustrated guide from Kindergarten to PhD …
+http://matt.might.net/articles/phd-school-in-pictures/
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Aug 18, 2010
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/science/">Science</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
   
     
       
@@ -1107,468 +1589,6 @@ In the meantime: Happy Holidays!
 
     
   
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/" >How WEIRD subjects can be overcome &amp;#8230; a comment on Henrich et al.</a>
-    </h3>
-
-    
-    <a href="/post/2009-12-12-how-weird-subjects-can-be-overcome-a-comment-on-henrich-et-al/" class="summary-link">
-      <div class="article-style">
-        Joe Henrich published a target article in BBS talking about how economics and psychology base their research on WEIRD (Western, Educated, Industrialized, Rich and Democratic) subjects.
-Here is the whole abstract:
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Dec 12, 2009
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    6 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a>, <a href="/category/methods/">Methods</a>, <a href="/category/science/">Science</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2009-10-24-lattice-versus-ggplot2/" >Lattice versus ggplot2</a>
-    </h3>
-
-    
-    <a href="/post/2009-10-24-lattice-versus-ggplot2/" class="summary-link">
-      <div class="article-style">
-        I really liked Lattice for generating graphs in R until I saw what ggplot2 can do …
-One of the big differences between the two is the theory on which ggplot2 is based upon.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Oct 24, 2009
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a>, <a href="/category/statistics/">Statistics</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2009-09-06-r-flashmob/" >R flashmob</a>
-    </h3>
-
-    
-    <a href="/post/2009-09-06-r-flashmob/" class="summary-link">
-      <div class="article-style">
-        From: The R Flashmob Project
-Subject: R Flashmob #2
-You are invited to take part in R Flashmob, the project that makes the
-world a better place by posting helpful questions and answers about the
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Sep 6, 2009
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a>, <a href="/category/statistics/">Statistics</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2009-07-13-flashlight-paper-draft/" >Flashlight paper draft</a>
-    </h3>
-
-    
-    <a href="/post/2009-07-13-flashlight-paper-draft/" class="summary-link">
-      <div class="article-style">
-        We submitted our Flashlight paper today. Find a draft at the address below:
-Schulte-Mecklenbeck, Michael , Murphy, Ryan O. and Hutzler, Florian,Flashlight – an Online Eye-Tracking Tool(July 13, 2009). Available at SSRN: http://ssrn.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jul 13, 2009
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/papers/">Papers</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2009-06-25-latex-tips/" >LaTeX tips</a>
-    </h3>
-
-    
-    <a href="/post/2009-06-25-latex-tips/" class="summary-link">
-      <div class="article-style">
-        Two things are often bothering when one starts to work with LaTeX: in text referencing of literature and Umlaute (for our German speaking friends) ****
-Referencing: Here is a list of 5 types of in text referencing.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jun 25, 2009
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/latex/">LaTeX</a>, <a href="/category/tech/">Tech</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
 
   
 <nav>
@@ -1611,7 +1631,10 @@ Referencing: Here is a list of 5 types of in text referencing.
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
     
 
     

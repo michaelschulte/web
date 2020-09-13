@@ -61,6 +61,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -86,8 +89,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -198,9 +199,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -241,6 +242,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65987-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-65987-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -272,13 +311,16 @@
   
   <meta property="twitter:card" content="summary">
   
+  <meta property="twitter:site" content="@SchulteMi">
+  <meta property="twitter:creator" content="@SchulteMi">
+  
   <meta property="og:site_name" content="Academic">
   <meta property="og:url" content="/">
   <meta property="og:title" content="Academic">
   <meta property="og:description" content="Associate Professor"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2019-01-01T00:00:00&#43;01:00">
+    <meta property="og:updated_time" content="2020-01-19T00:00:00&#43;00:00">
   
 
   
@@ -318,8 +360,6 @@
 
   
   
-  
-    <script>window.staDarkLightChooser = true;</script>
   
   
     <script>const isSiteThemeDark = false;</script>
@@ -601,23 +641,6 @@
       
 
       
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
-      
 
       
 
@@ -831,9 +854,12 @@
     
     <h1>Biography</h1>
 
-    <p>I am working at the Department of Consumer Behavior at the University of Bern, Switzerland. Before that I held positions at the Max-Planck-Institute for Human Development in Berlin, at various other academic institutions and in the food industry (look at your breakfast table – the company I worked for is very likely present).
-My main research interests are decision making, process tracing and food choice behavior. Within these lines of research I am developing my own  tools to study decision processes (WebDiP, Flashlight, The pyeTribe) and answer questions like: What  information  do consumers use when making food choices? or How do search processes in simple gamble decisions unfold?</p>
-<p>Furthermore I am interested in online research and teaching methodology in class and via the Internet.</p>
+    <p>I study how people make decisions, what (cognitive) processes underly those decisions and how we can measure all of that. Within these lines of research I developed my own tools to study decision processes (
+<a href="https://github.com/michaelschulte/webdip" target="_blank" rel="noopener">WebDiP</a>, 
+<a href="https://github.com/michaelschulte/flashlight" target="_blank" rel="noopener">Flashlight</a>, 
+<a href="https://github.com/michaelschulte/ThePyeTribe" target="_blank" rel="noopener">The pyeTribe</a>) and answer questions like: &lsquo;What information do people/consumers use when making food choices?&rsquo; or &lsquo;How do search processes in simple gamble decisions unfold?&rsquo;</p>
+<p>All this  is done at the the University of Bern (Consumer Behavior), Switzerland and the Max-Planck-Institute for Human Development (Adaptive Rationality) in Berlin. I held positions at various other academic institutions and in the food industry (look at your breakfast table – the company I worked for is very likely present).</p>
+<p>Furthermore I am interested in open science, replication, open methods and teaching methodology in class.</p>
 
 
     <div class="row">
@@ -854,6 +880,8 @@ My main research interests are decision making, process tracing and food choice 
           <li>Open Science</li>
           
           <li>Replication</li>
+          
+          <li>Framing</li>
           
         </ul>
       </div>
@@ -1570,11 +1598,380 @@ My main research interests are decision making, process tracing and food choice 
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2018-12-10-bernr-meetup/" >BernR Meetup</a>
+      <a href="/post/open-science-lecture-series/" >Open Science Lecture Series</a>
     </h3>
 
     
-    <a href="/post/2018-12-10-bernr-meetup/" class="summary-link">
+    <a href="/post/open-science-lecture-series/" class="summary-link">
+      <div class="article-style">
+        This will be fun - Lecture series on Open Science, Replication, Reproducability, Open Data and many more.
+Truly interdisciplinary series with speakers from business, psychology, life science, medicine, library sciences and informatics.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 19, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/open-science/">Open science</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/what-hoptm-looks-like-from-the-inside/" >What HoPTM looks like from the inside</a>
+    </h3>
+
+    
+    <a href="/post/what-hoptm-looks-like-from-the-inside/" class="summary-link">
+      <div class="article-style">
+        As mentioned some days ago our Handbook of Process Tracing Methods is out in the wild &hellip;
+Here is a bit of an overview of what is going on inside :)
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 25, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/process-tracing/">process tracing</a>, <a href="/category/r/">R</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/hoptm/" >Handbook of Process Tracing Methods</a>
+    </h3>
+
+    
+    <a href="/post/hoptm/" class="summary-link">
+      <div class="article-style">
+        WOOP WOOP - here it is - the second edition of our beloved &ldquo;Handbook of Process Tracing Methods&rdquo;
+If you can&rsquo;t wait - buy it here: https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218
+It is bigger and better than the first edition, comes with the classics (Figner on skin conductance, Willemsen on Mouselab and many more) and many new awesome chapters - here is a list:
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 20, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/process-tracing/">process tracing</a>, <a href="/category/decision-making/">Decision Making</a>, <a href="/category/eye-tracking/">Eye tracking</a>, <a href="/category/flashlight/">Flashlight</a>, <a href="/category/mousetracking/">mousetracking</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/pictures/" >Pictures</a>
+    </h3>
+
+    
+    <a href="/post/pictures/" class="summary-link">
+      <div class="article-style">
+        So, here we go - new blogdown site &hellip; thanks to Dan (https://twitter.com/dsquintana) to kicked me over the edge actually doing this &hellip;
+Things are fine, the site is up - pictures are still linked back to my old wordpress site &hellip; will figure this out eventually &hellip; but this is live now - for your reading pleasure :)
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 20, 2019
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/r/">R</a></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/2019-06-04-hoptm2ndedition/" >BernR Meetup</a>
+    </h3>
+
+    
+    <a href="/post/2019-06-04-hoptm2ndedition/" class="summary-link">
       <div class="article-style">
         Today (Dec 10th 2018) we will meet for the first BernR Meetup (https://www.meetup.com/Bern-R/) – hope to learn new things and get to know cool R people. More to follow soon .
       </div>
@@ -1600,7 +1997,7 @@ My main research interests are decision making, process tracing and food choice 
     
       
     
-    Dec 10, 2018
+    Jun 4, 2019
   </span>
   
 
@@ -1621,372 +2018,7 @@ My main research interests are decision making, process tracing and food choice 
   
   <span class="middot-divider"></span>
   <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/meetup/">Meetup</a>, <a href="/category/r/">R</a>, <a href="/category/statistics/">Statistics</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2018-07-30-a-letter-to-the-black-goat/" >A letter to the black goat</a>
-    </h3>
-
-    
-    <a href="/post/2018-07-30-a-letter-to-the-black-goat/" class="summary-link">
-      <div class="article-style">
-        I wrote this letter to the black goat podcast … will update here if I hear back from them …
- Dear goaters (is this a good way to address the three of you?
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jul 30, 2018
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    3 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/open-science/">Open science</a>, <a href="/category/replication/">Replication</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2018-01-09-blind-haste-aka-im-blindflug/" >Blind Haste (aka im Blindflug)</a>
-    </h3>
-
-    
-    <a href="/post/2018-01-09-blind-haste-aka-im-blindflug/" class="summary-link">
-      <div class="article-style">
-        Chance encounters sometimes lead to interesting and new projects. This is one of those cases … I got to know Emanuel de Bellis during my time at Nestle and we never stopped collaborating ever since (he actually lead my 2017 ‘skype to’ statistics with my wife as a close second …)
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jan 9, 2018
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/perception/">perception</a>, <a href="/category/traffic-psychology/">traffic psychology</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2017-11-13-professor-priming-or-not/" >Professor priming &amp;#8211; or not</a>
-    </h3>
-
-    
-    <a href="/post/2017-11-13-professor-priming-or-not/" class="summary-link">
-      <div class="article-style">
-        This was my first contribution to a Registered Replication Report (RRR). Being one of 40 participating labs was an interesting exercise &#8211; it might seem straightforward to run the same study in different labs, but we learned that such small things as ü, ä and ö can generate a huge amount of problems and work (read this if you are into these kind of things).
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Nov 13, 2017
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/decision-making/">Decision Making</a>, <a href="/category/replication/">Replication</a>, <a href="/category/rrr/">RRR</a></span>
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2017-11-13-the-root-of-the-problem/" >The root of the problem</a>
-    </h3>
-
-    
-    <a href="/post/2017-11-13-the-root-of-the-problem/" class="summary-link">
-      <div class="article-style">
-        One of the root causes of where we are (as a science) in psychology and many other disciplines in terms of reproducibility of key (and other) results could not be better summed up than by the man himself Daryl Bem (2002):
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Nov 13, 2017
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    2 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/replication/">Replication</a></span>
+    <i class="fas fa-folder mr-1"></i><a href="/category/process-tracing/">process tracing</a>, <a href="/category/handbook/">Handbook</a></span>
   
 
 </div>
@@ -2835,7 +2867,7 @@ My main research interests are decision making, process tracing and food choice 
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/test@example.org"  >
+      <form name="contact" method="POST" action="https://formspree.io/michael@schulte-mecklenbeck.com"  >
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -2860,40 +2892,20 @@ My main research interests are decision making, process tracing and food choice 
       
 
       
-      <li>
-        <i class="fa-li fas fa-phone fa-2x" aria-hidden="true"></i>
-        <span id="person-telephone"><a href="tel:888%20888%2088%2088">888 888 88 88</a></span>
-      </li>
-      
 
       
       
         
         <li>
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">450 Serra Mall, Stanford, CA 94305</span>
+          <span id="person-address">Engehaldenstr. 4, Bern, 3012</span>
         </li>
       
 
       
-      <li>
-        <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-        <span>Enter Building 1 and take the stairs to Office 200 on Floor 2</span>
-      </li>
-      
 
       
-      <li>
-        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-        <span>Monday 10:00 to 13:00<br>Wednesday 09:00 to 10:00</span>
-      </li>
-      
 
-      
-      <li>
-        <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
-        <a href="https://calendly.com" target="_blank" rel="noopener">Book an appointment</a>
-      </li>
       
 
       
@@ -2911,53 +2923,7 @@ My main research interests are decision making, process tracing and food choice 
       
       <li>
         <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-        <a href="https://twitter.com/Twitter" target="_blank" rel="noopener">DM Me</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      <li>
-        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-        <a href="skype:echo123?call" >Skype Me</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fab fa-keybase fa-2x" aria-hidden="true"></i>
-        <a href="https://keybase.io/" target="_blank" rel="noopener">Chat on Keybase</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-        
-      
-      <li>
-        <i class="fa-li fas fa-comments fa-2x" aria-hidden="true"></i>
-        <a href="https://discourse.gohugo.io" target="_blank" rel="noopener">Discuss on Forum</a>
+        <a href="https://twitter.com/SchulteMi" target="_blank" rel="noopener">DM Me</a>
       </li>
       
 
@@ -2965,10 +2931,10 @@ My main research interests are decision making, process tracing and food choice 
 
     
     <div class="d-none">
-      <input id="map-provider" value="2">
-      <input id="map-lat" value="37.4275">
-      <input id="map-lng" value="-122.1697">
-      <input id="map-dir" value="450 Serra Mall, Stanford, CA 94305">
+      <input id="map-provider" value="1">
+      <input id="map-lat" value="46.953922">
+      <input id="map-lng" value="7.440416">
+      <input id="map-dir" value="Engehaldenstr. 4, Bern, 3012">
       <input id="map-zoom" value="15">
       <input id="map-api-key" value="">
     </div>
@@ -3009,7 +2975,10 @@ My main research interests are decision making, process tracing and food choice 
 
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+      <script async defer src="https://maps.googleapis.com/maps/api/js?key="></script>
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+      
     
 
     

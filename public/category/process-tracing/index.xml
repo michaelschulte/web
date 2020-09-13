@@ -5,12 +5,80 @@
     <link>/category/process-tracing/</link>
       <atom:link href="/category/process-tracing/index.xml" rel="self" type="application/rss+xml" />
     <description>process tracing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Apr 2017 07:45:12 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>process tracing</title>
       <link>/category/process-tracing/</link>
     </image>
+    
+    <item>
+      <title>What HoPTM looks like from the inside</title>
+      <link>/post/what-hoptm-looks-like-from-the-inside/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/what-hoptm-looks-like-from-the-inside/</guid>
+      <description>&lt;p&gt;As mentioned some days ago our 
+&lt;a href=&#34;https://www.schulte-mecklenbeck.com/post/hoptm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Handbook of Process Tracing Methods&lt;/a&gt; is out in the wild &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Here is a bit of an overview of what is going on inside :)&lt;/p&gt;
+&lt;p&gt;The book has 390 pages divided into 24 chapters. There are 202014 words in there including everything (references, thanks, hello, goodbye &amp;hellip;).&lt;/p&gt;
+&lt;p&gt;Ignoring the chapters and that they have reference lists, that mess up things a bit, first an overview of frequency for highly frequent words:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/words_frequency.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;No big surprises there for a process tracing book in decision making - but still - models pop up quite high in the list and trajectories - the new kid on the block when it comes to mousetracking also gets a mention - the list is truncated and I did not bother to remove things like &amp;lsquo;et al.&amp;rsquo; or &amp;lsquo;e.g&amp;rsquo; (the second . got caught by the script, the first one not).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/words_per_chapter.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is more interesting - I calculated the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Tf%e2%80%93idf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tf-idf&lt;/a&gt; (term frequency–inverse document frequency) which tells us how important a word is but takes care of how often a word appears in general - so a better measure than just using the raw frequency of a word. I did this for each chapter (
+&lt;a href=&#34;https://www.schulte-mecklenbeck.com/post/hoptm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chapter names&lt;/a&gt; are listed in the other post). At first I wanted to remove the reference list but I realized that it provides an interesting insight - namely how often authors cite themselves in their chapters. A caveat in this graph is that the x-axis has different scaling. Apart from that it actually describes the content of some of the chapters pretty well - ah and I just saw that I should have added some stemming to avoid &amp;lsquo;clusters&amp;rsquo; and &amp;lsquo;cluster&amp;rsquo; being listed separatly &amp;hellip; but well &amp;hellip;&lt;/p&gt;
+&lt;p&gt;For the kicks - here is a network diagram of bigrams. There is clearly some more work to do here &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/network.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Shoutout to the 
+&lt;a href=&#34;https://www.tidytextmining.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidytext&lt;/a&gt; people - you got a great package there!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Handbook of Process Tracing Methods</title>
+      <link>/post/hoptm/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/hoptm/</guid>
+      <description>&lt;p&gt;WOOP WOOP - here it is - the second edition of our beloved &amp;ldquo;Handbook of Process Tracing Methods&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;If you can&amp;rsquo;t wait - buy it here: &lt;a href=&#34;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&#34;&gt;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is bigger and better than the first edition, comes with the classics (Figner on skin conductance, Willemsen on Mouselab and many more) and many new awesome chapters - here is a list:&lt;/p&gt;
+&lt;p&gt;1 Eye Fixations as a Process Trace - J. Edward Russo&lt;/p&gt;
+&lt;p&gt;2 Pervasive Eye-Tracking for Real-World Consumer Behavior Analysis - Andreas Bulling and Michel Wedel&lt;/p&gt;
+&lt;p&gt;3 Investigating Pupil Dilation in Decision Research - Joseph Tao-yi Wang and Wei James Chen&lt;/p&gt;
+&lt;p&gt;4 A Primer on Eye-Tracking Methodology for Behavioral Science - Jacob L. Orquin and Kenneth Holmqvist&lt;/p&gt;
+&lt;p&gt;5 Increasing Reproducibility of Eye-Tracking Studies: The EyeGuidelines - Susann Fiedler, Michael Schulte-Mecklenbeck, Frank Renkewitz, and Jacob L. Orquin&lt;/p&gt;
+&lt;p&gt;6 (Re)Visiting the Decision Factory: Observing Cognition with MouselabWEB - Martijn C. Willemsen and Eric J. Johnson&lt;/p&gt;
+&lt;p&gt;7 Comparing Process Tracing Paradigms: Tracking Attention via Mouse and Eye Movements - Ana M. Franco-Watkins, Hayden K. Hickey, and Joseph G. Johnson&lt;/p&gt;
+&lt;p&gt;8 Mouse-Tracking: A Practical Guide to Implementation and Analysis - Pascal J. Kieslich, Felix Henninger, Dirk U. Wulff, Jonas M. B. Haslbeck, and Michael Schulte-Mecklenbeck&lt;/p&gt;
+&lt;p&gt;9 Mouse-Tracking: Detecting Types in Movement Trajectories - Dirk U. Wulff, Jonas M. B. Haslbeck, Pascal J. Kieslich, Felix Henninger, and Michael Schulte-Mecklenbeck&lt;/p&gt;
+&lt;p&gt;10 Mouse-Tracking to Understand Real-Time Dynamics of Social Cognition - Benjamin S. Stillerman and Jonathan B. Freeman&lt;/p&gt;
+&lt;p&gt;11 Measuring Electrodermal Activity and Its Applications in Judgment and Decision-Making Research - Bernd Figner, Ryan O. Murphy, and Paul Siegel&lt;/p&gt;
+&lt;p&gt;12 Response Times as Identification Tools for Cognitive Processes Underlying Decisions - Mario Fifić, Joseph W. Houpt, and Jörg Rieskamp&lt;/p&gt;
+&lt;p&gt;13 A Practical Guide for Automated Facial Emotion Classification - Sabrina Stöckli, Michael Schulte-Mecklenbeck, Stefan Borer, and Andrea C. Samson&lt;/p&gt;
+&lt;p&gt;14 EEG and ERPs as Neural Process Tracing Methodologies in Decision-Making Research - Mary E. Frame&lt;/p&gt;
+&lt;p&gt;15 Decision Neuroscience: fMRI Insights into Choice Processes - Vinod Venkatraman and Crystal Reeck&lt;/p&gt;
+&lt;p&gt;16 Probing the Decisional Brain with Noninvasive Brain Stimulation - Nadège Bault, Elena Rusconi, and Giorgio Coricelli&lt;/p&gt;
+&lt;p&gt;17 Verbal Reports and Decision Process Analysis - Rob Ranyard and Ola Svenson&lt;/p&gt;
+&lt;p&gt;18 Thinking Aloud during Superior Performance on Tasks Involving Decision Making - K.Anders Ericsson and Jerad H. Moxley&lt;/p&gt;
+&lt;p&gt;19 Tracking Free Information Access: The Method of Active Information Search - Oswald Huber, Anton Kühberger, and Michael Schulte-Mecklenbeck&lt;/p&gt;
+&lt;p&gt;20 Uncovering the Anatomy of Search Without Technology - Dirk U. Wulff and Ralph Hertwig&lt;/p&gt;
+&lt;p&gt;21 Process Tracing, Sampling, and Drift Rate Construction - Neil Stewart and Timothy L. Mullett&lt;/p&gt;
+&lt;p&gt;22 Using Multiple Methods to Elicit Choices and to Identify Strategies - Ulrich Hoffrage and Nils Reisen&lt;/p&gt;
+&lt;p&gt;23 Testing Cognitive Models by a Joint Analysis of Multiple Dependent Measures Including Process Data - Andreas Glöckner and Marc Jekel&lt;/p&gt;
+&lt;p&gt;24 Using Process Tracing Data to Define and Test Process Models - Joseph G. Johnson and Mary E. Frame&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019-06-20-handbook-of-process-tracing-methods_files/0_Cover.tif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BernR Meetup</title>
+      <link>/post/2019-06-04-hoptm2ndedition/</link>
+      <pubDate>Tue, 04 Jun 2019 06:05:56 -0700</pubDate>
+      <guid>/post/2019-06-04-hoptm2ndedition/</guid>
+      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Growing up to be old</title>

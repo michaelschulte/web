@@ -1,6 +1,6 @@
 ---
 id: 575
-title: 'Professor priming &#8211; or not'
+title: 'Professor priming - or not'
 date: 2017-11-13T14:23:40-07:00
 author: Michael
 layout: post
@@ -32,15 +32,9 @@ categories:
         </p>
         
         <p>
-          Here is the abstract of the whole paper and here the <a href="https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf">Commentary by Ap Dijksterhuis</a> naturally, he sees things a bit different &#8230;
+          Here is the abstract of the whole paper and here the <a href="https://www.psychologicalscience.org/redesign/wp-content/uploads/2017/11/Dijksterhuis_RRRcommentary_ACPT.pdf">Commentary by Ap Dijksterhuis</a> naturally, he sees things a bit different:           Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
         </p>
       </div>
       
-      <div class="column">
-        <p>
-          Dijksterhuis and van Knippenberg (1998) reported that participants primed with an intelligent category (“professor”) subsequently performed 13.1% better on a trivia test than participants primed with an unintelligent category (“soccer hooligans”). Two unpublished replications of this study by the original authors, designed to verify the appropriate testing procedures, observed a smaller difference between conditions (2-3%) as well as a gender difference: men showed the effect (9.3% and 7.6%) but women did not (0.3% and -0.3%). The procedure used in those replications served as the basis for this multi-lab Registered Replication Report (RRR). A total of 40 laboratories collected data for this project, with 23 laboratories meeting all inclusion criteria. Here we report the meta-analytic result of those 23 direct replications (total N = 4,493) of the updated version of the original study, examining the difference between priming with professor and hooligan on a 30-item general knowledge trivia task (a supplementary analysis reports results with all 40 labs, N = 6,454). We observed no overall difference in trivia performance between participants primed with professor and those primed with hooligan (0.14%) and no moderation by gender.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
+
+

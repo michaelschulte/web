@@ -5,12 +5,45 @@
     <link>/category/r/</link>
       <atom:link href="/category/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>R</title>
       <link>/category/r/</link>
     </image>
+    
+    <item>
+      <title>What HoPTM looks like from the inside</title>
+      <link>/post/what-hoptm-looks-like-from-the-inside/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/what-hoptm-looks-like-from-the-inside/</guid>
+      <description>&lt;p&gt;As mentioned some days ago our 
+&lt;a href=&#34;https://www.schulte-mecklenbeck.com/post/hoptm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Handbook of Process Tracing Methods&lt;/a&gt; is out in the wild &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Here is a bit of an overview of what is going on inside :)&lt;/p&gt;
+&lt;p&gt;The book has 390 pages divided into 24 chapters. There are 202014 words in there including everything (references, thanks, hello, goodbye &amp;hellip;).&lt;/p&gt;
+&lt;p&gt;Ignoring the chapters and that they have reference lists, that mess up things a bit, first an overview of frequency for highly frequent words:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/words_frequency.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;No big surprises there for a process tracing book in decision making - but still - models pop up quite high in the list and trajectories - the new kid on the block when it comes to mousetracking also gets a mention - the list is truncated and I did not bother to remove things like &amp;lsquo;et al.&amp;rsquo; or &amp;lsquo;e.g&amp;rsquo; (the second . got caught by the script, the first one not).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/words_per_chapter.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is more interesting - I calculated the 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Tf%e2%80%93idf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tf-idf&lt;/a&gt; (term frequency–inverse document frequency) which tells us how important a word is but takes care of how often a word appears in general - so a better measure than just using the raw frequency of a word. I did this for each chapter (
+&lt;a href=&#34;https://www.schulte-mecklenbeck.com/post/hoptm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chapter names&lt;/a&gt; are listed in the other post). At first I wanted to remove the reference list but I realized that it provides an interesting insight - namely how often authors cite themselves in their chapters. A caveat in this graph is that the x-axis has different scaling. Apart from that it actually describes the content of some of the chapters pretty well - ah and I just saw that I should have added some stemming to avoid &amp;lsquo;clusters&amp;rsquo; and &amp;lsquo;cluster&amp;rsquo; being listed separatly &amp;hellip; but well &amp;hellip;&lt;/p&gt;
+&lt;p&gt;For the kicks - here is a network diagram of bigrams. There is clearly some more work to do here &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/network.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Shoutout to the 
+&lt;a href=&#34;https://www.tidytextmining.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidytext&lt;/a&gt; people - you got a great package there!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pictures</title>
+      <link>/post/pictures/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/pictures/</guid>
+      <description>&lt;p&gt;So, here we go - new blogdown site &amp;hellip; thanks to Dan (&lt;a href=&#34;https://twitter.com/dsquintana&#34;&gt;https://twitter.com/dsquintana&lt;/a&gt;) to kicked me over the edge actually doing this &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Things are fine, the site is up - pictures are still linked back to my old wordpress site &amp;hellip; will figure this out eventually &amp;hellip; but this is live now - for your reading pleasure :)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BernR Meetup</title>
@@ -264,15 +297,28 @@ I took the list below from the
       <link>/post/2011-04-14-resinstalling-packages-in-r-after-update/</link>
       <pubDate>Thu, 14 Apr 2011 23:15:45 -0700</pubDate>
       <guid>/post/2011-04-14-resinstalling-packages-in-r-after-update/</guid>
-      <description>&lt;p&gt;The new version 2.13.0 of 
+      <description>&lt;p&gt;This is old - by should still work :) - comment on how to do this in 2019 below &amp;hellip;&lt;/p&gt;
+&lt;p&gt;The new version 2.13.0 of 
 &lt;a href=&#34;http://www.r-project.org/&#34; title=&#34;R&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R&lt;/a&gt; has just been released and with the update comes the pain of re-installing all the packages from the old installation on the new one.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://stackoverflow.com/&#34; title=&#34;Stackoverflow&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stackoverflow&lt;/a&gt; to the rescue! This 
-&lt;a href=&#34;http://stackoverflow.com/questions/1401904/painless-way-to-install-a-new-version-of-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;posting&lt;/a&gt; provides a simple two step process of first writing a list of packages into a file on the disk in the old version, installing the new version and then comparing the exported list to the currently installed packages in the new version with setdiff. I just went through the process and have to say that it is deadeasy! Below the code …&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;#--run in the old version of R &amp;lt;br /&amp;gt; setwd(&amp;quot;C:/Temp/&amp;quot;) &amp;lt;br /&amp;gt; packages &amp;lt;- installed.packages()[,&amp;quot;Package&amp;quot;] &amp;lt;br /&amp;gt; save(packages, file=&amp;quot;Rpackages&amp;quot;) &lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;INSTALL NEW R VERSION&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;&amp;lt;code&amp;gt;#--run in the new version &amp;lt;br /&amp;gt; setwd(&amp;quot;C:/Temp/&amp;quot;) &amp;lt;br /&amp;gt; load(&amp;quot;Rpackages&amp;quot;) &amp;lt;br /&amp;gt; for (p in setdiff(packages, installed.packages()[,&amp;quot;Package&amp;quot;])) &amp;lt;br /&amp;gt; install.packages(p) &amp;lt;br /&amp;gt;&lt;/code&gt; &lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;``&lt;/p&gt;
+&lt;a href=&#34;http://stackoverflow.com/questions/1401904/painless-way-to-install-a-new-version-of-r&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;posting&lt;/a&gt; provides a simple two step process of first writing a list of packages into a file on the disk in the old version, installing the new version and then comparing the exported list to the currently installed packages in the new version with setdiff. I just went through the process and have to say that it is deadeasy! Below the code:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;run in the old version of R&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;packages &amp;lt;- installed.packages()[,&amp;quot;Package&amp;quot;] 
+save(packages, file=&amp;quot;Rpackages&amp;quot;) `
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Install new R version&lt;/li&gt;
+&lt;li&gt;run in the new version&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;load(&amp;quot;Rpackages&amp;quot;)
+for (p in setdiff(packages, installed.packages()[,&amp;quot;Package&amp;quot;]))
+install.packages(p)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;At the end of the day this is outdated - with the new RStudio version you can simply add your packages with &lt;code&gt;library()&lt;/code&gt; and then simply click on &lt;code&gt;install packages&lt;/code&gt; in the RStudio interface.&lt;/p&gt;
 </description>
     </item>
     

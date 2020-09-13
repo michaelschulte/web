@@ -76,3 +76,5 @@ Dear goaters (is this a good way to address the three of you?),
 
 <div>
 </div>
+
+UPDATE in 2019 - on my way to SIPS2019, casually started listening to some podcasts - and then this: https://www.podbean.com/ew/pb-2iqpx-b6aa1e

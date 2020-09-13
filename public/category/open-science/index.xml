@@ -5,12 +5,24 @@
     <link>/category/open-science/</link>
       <atom:link href="/category/open-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Open science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Jul 2018 21:16:40 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Open science</title>
       <link>/category/open-science/</link>
     </image>
+    
+    <item>
+      <title>Open Science Lecture Series</title>
+      <link>/post/open-science-lecture-series/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/open-science-lecture-series/</guid>
+      <description>&lt;p&gt;This will be fun - Lecture series on Open Science, Replication, Reproducability, Open Data and many more.&lt;/p&gt;
+&lt;p&gt;Truly interdisciplinary series with speakers from business, psychology, life science, medicine, library sciences and informatics.&lt;/p&gt;
+&lt;p&gt;Be there or be &amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/OpenScience2020.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A letter to the black goat</title>
@@ -64,7 +76,9 @@
 &lt;div&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;
+&lt;p&gt;UPDATE in 2019 - on my way to SIPS2019, casually started listening to some podcasts - and then this: &lt;a href=&#34;https://www.podbean.com/ew/pb-2iqpx-b6aa1e&#34;&gt;https://www.podbean.com/ew/pb-2iqpx-b6aa1e&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
