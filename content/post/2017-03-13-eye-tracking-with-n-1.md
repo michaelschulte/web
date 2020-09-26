@@ -17,7 +17,7 @@ This is one of the fastest papers I have ever written. It was a great collaborat
 
 Even cooler &#8211; you can do eye-tracking in groups, using our code.
 
-Here is the [[PDF](http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Lejarraga2016.pdf)] and abstract:
+Here is the [[PDF](/uploads//2009/05/Lejarraga2016.pdf)] and abstract:
 
 The recent introduction of inexpensive eye-trackers has opened up a wealth of opportunities for researchers to study attention in interactive tasks. No software package was previously available to help researchers exploit those opportunities. We created “the pyeTribe”, a software package that offers, among others, the following features: First, a communication platform between many eye-trackers to allow simultaneous recording of multiple participants. Second, the simultaneous calibration of multiple eye-trackers without the experimenter’s supervision. Third, data collection restricted to periods of interest, thus reducing the volume of data and easing analysis. We used a standard economic game (the public goods game) to examine data quality and demonstrate the potential of our software package. Moreover, we conducted a modeling analysis, which illustrates how combining process and behavioral data can improve models of human decision making behavior in social situations. Our software is open source and can thus be used and improved by others.
 

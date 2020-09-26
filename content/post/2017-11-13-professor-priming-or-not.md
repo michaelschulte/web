@@ -24,7 +24,7 @@ categories:
         </p>
         
         <p>
-          <img class="aligncenter size-full wp-image-579" src="http://www.schulte-mecklenbeck.com/wp-content/uploads//2017/11/Screen-Shot-2017-11-13-at-22.19.39.png" alt="" width="718" height="609" srcset="2017/11/Screen-Shot-2017-11-13-at-22.19.39.png 718w, 2017/11/Screen-Shot-2017-11-13-at-22.19.39-300x254.png 300w, 2017/11/Screen-Shot-2017-11-13-at-22.19.39-589x500.png 589w, 2017/11/Screen-Shot-2017-11-13-at-22.19.39-500x424.png 500w" sizes="(max-width: 718px) 100vw, 718px" />
+          <img class="aligncenter size-full wp-image-579" src="/uploads//2017/11/Screen-Shot-2017-11-13-at-22.19.39.png" alt="" width="718" height="609" srcset="2017/11/Screen-Shot-2017-11-13-at-22.19.39.png 718w, 2017/11/Screen-Shot-2017-11-13-at-22.19.39-300x254.png 300w, 2017/11/Screen-Shot-2017-11-13-at-22.19.39-589x500.png 589w, 2017/11/Screen-Shot-2017-11-13-at-22.19.39-500x424.png 500w" sizes="(max-width: 718px) 100vw, 718px" />
         </p>
         
         <p>

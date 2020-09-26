@@ -12,4 +12,4 @@ categories:
 ---
 Mal was Längeres zu unseren Lieblingsthemen: Essen und Entscheidungsforschung &#8230; Enjoy!
 
-[2014-08-19_DieZeitWissen-wie-sie-beim-essen-die-richtigen-entscheidungen-treffen](http://www.schulte-mecklenbeck.com/wp-content/uploads//2014/08/2014-08-19_DieZeitWissen-wie-sie-beim-essen-die-richtigen-entscheidungen-treffen.pdf)
+[2014-08-19_DieZeitWissen-wie-sie-beim-essen-die-richtigen-entscheidungen-treffen](/uploads//2014/08/2014-08-19_DieZeitWissen-wie-sie-beim-essen-die-richtigen-entscheidungen-treffen.pdf)

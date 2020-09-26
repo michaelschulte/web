@@ -13,7 +13,7 @@ categories:
 ---
 Cilia Witteman and Nanon Spaanjaars (my dutch connection) worked together on a piece on whether psychodiagnosticians improve over time (they don&#8217;t) in their ability to classify symptoms to DSM categories. This turned out to be a pretty cool paper combining eye-tracking data with a practical, and hopefully, relevant question.
 
-Schulte-Mecklenbeck, M., Spaanjaars, N.L., & Witteman, C.L.M. (in press). [The (in)visibility of psychodiagnosticians&#8217; expertise](http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Schulte-Mecklenbeck_et_al2015.pdf). _Journal of Behavioral Decision Making_. http://dx.doi.org/10.1002/bdm.1925
+Schulte-Mecklenbeck, M., Spaanjaars, N.L., & Witteman, C.L.M. (in press). [The (in)visibility of psychodiagnosticians&#8217; expertise](/uploads//2009/05/Schulte-Mecklenbeck_et_al2015.pdf). _Journal of Behavioral Decision Making_. http://dx.doi.org/10.1002/bdm.1925
 
 <div class="page" title="Page 1">
   <div class="layoutArea">

@@ -10,7 +10,7 @@ categories:
   - Decision Making
 ---
 <p class="p1">
-  Schulte-Mecklenbeck, M., & Kühberger, A. (2014). <a href="http://www.schulte-mecklenbeck.com/wp-content/uploads//2014/05/Schulte-Mecklenbeck2014.pdf">Out of sight – out of mind? Information acquisition patterns in risky choice framing</a>. <i>Polish Psychological Bulletin</i>, <i>45</i>, 21–28.
+  Schulte-Mecklenbeck, M., & Kühberger, A. (2014). <a href="/uploads//2014/05/Schulte-Mecklenbeck2014.pdf">Out of sight – out of mind? Information acquisition patterns in risky choice framing</a>. <i>Polish Psychological Bulletin</i>, <i>45</i>, 21–28.
 </p>
 
 <p class="p1">

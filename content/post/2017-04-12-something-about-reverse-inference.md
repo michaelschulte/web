@@ -24,12 +24,12 @@ categories:
       </p>
       
       <p>
-        Schulte-Mecklenbeck, M., Kühberger, A., Gagl, S., & Hutzler, F. (in press). Inducing thought processes: Bringing process measures and cognitive processes closer together. <em>Journal of Behavioral Decision Making</em>. [ <a href="http://www.schulte-mecklenbeck.com/wp-content/uploads//2009/05/Schulte-Mecklenbeck2017.pdf">PDF</a> ]
+        Schulte-Mecklenbeck, M., Kühberger, A., Gagl, S., & Hutzler, F. (in press). Inducing thought processes: Bringing process measures and cognitive processes closer together. <em>Journal of Behavioral Decision Making</em>. [ <a href="/uploads//2009/05/Schulte-Mecklenbeck2017.pdf">PDF</a> ]
       </p>
     </div>
     
     <p>
-      <img class="aligncenter size-full wp-image-499" src="http://www.schulte-mecklenbeck.com/wp-content/uploads//2017/04/fixduration.png" alt="" width="996" height="582" srcset="2017/04/fixduration.png 996w, 2017/04/fixduration-300x175.png 300w, 2017/04/fixduration-768x449.png 768w, 2017/04/fixduration-856x500.png 856w, 2017/04/fixduration-500x292.png 500w" sizes="(max-width: 996px) 100vw, 996px" />
+      <img class="aligncenter size-full wp-image-499" src="/uploads//2017/04/fixduration.png" alt="" width="996" height="582" srcset="2017/04/fixduration.png 996w, 2017/04/fixduration-300x175.png 300w, 2017/04/fixduration-768x449.png 768w, 2017/04/fixduration-856x500.png 856w, 2017/04/fixduration-500x292.png 500w" sizes="(max-width: 996px) 100vw, 996px" />
     </p>
     
     <div class="column">
