@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
+    <title>Posts | Michael Schulte-Mecklenbeck</title>
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -34,14 +34,14 @@
 &lt;p&gt;Here is a bit of an overview of what is going on inside :)&lt;/p&gt;
 &lt;p&gt;The book has 390 pages divided into 24 chapters. There are 202014 words in there including everything (references, thanks, hello, goodbye &amp;hellip;).&lt;/p&gt;
 &lt;p&gt;Ignoring the chapters and that they have reference lists, that mess up things a bit, first an overview of frequency for highly frequent words:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/words_frequency.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/words_frequency.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;No big surprises there for a process tracing book in decision making - but still - models pop up quite high in the list and trajectories - the new kid on the block when it comes to mousetracking also gets a mention - the list is truncated and I did not bother to remove things like &amp;lsquo;et al.&amp;rsquo; or &amp;lsquo;e.g&amp;rsquo; (the second . got caught by the script, the first one not).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/words_per_chapter.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/words_per_chapter.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is more interesting - I calculated the 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Tf%e2%80%93idf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tf-idf&lt;/a&gt; (term frequency–inverse document frequency) which tells us how important a word is but takes care of how often a word appears in general - so a better measure than just using the raw frequency of a word. I did this for each chapter (
 &lt;a href=&#34;https://www.schulte-mecklenbeck.com/post/hoptm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chapter names&lt;/a&gt; are listed in the other post). At first I wanted to remove the reference list but I realized that it provides an interesting insight - namely how often authors cite themselves in their chapters. A caveat in this graph is that the x-axis has different scaling. Apart from that it actually describes the content of some of the chapters pretty well - ah and I just saw that I should have added some stemming to avoid &amp;lsquo;clusters&amp;rsquo; and &amp;lsquo;cluster&amp;rsquo; being listed separatly &amp;hellip; but well &amp;hellip;&lt;/p&gt;
 &lt;p&gt;For the kicks - here is a network diagram of bigrams. There is clearly some more work to do here &amp;hellip;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/network.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/network.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Shoutout to the 
 &lt;a href=&#34;https://www.tidytextmining.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidytext&lt;/a&gt; people - you got a great package there!&lt;/p&gt;
 </description>
