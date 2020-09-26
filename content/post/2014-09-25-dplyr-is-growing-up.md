@@ -11,7 +11,7 @@ categories:
 ---
 &nbsp;
 
-[<img class="alignleft size-medium wp-image-361" src="http://www.schulte-mecklenbeck.com/wp-content/uploads//2014/09/tvs-old-new-300x170.jpg" alt="tvs-old+new" width="300" height="170" srcset="http://www.schulte-mecklenbeck.com/wp-content/uploads/2014/09/tvs-old-new-300x170.jpg 300w, http://www.schulte-mecklenbeck.com/wp-content/uploads/2014/09/tvs-old-new.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.schulte-mecklenbeck.com/wp-content/uploads//2014/09/tvs-old-new.jpg)
+[<img class="alignleft size-medium wp-image-361" src="http://www.schulte-mecklenbeck.com/wp-content/uploads//2014/09/tvs-old-new-300x170.jpg" alt="tvs-old+new" width="300" height="170" srcset="2014/09/tvs-old-new-300x170.jpg 300w, 2014/09/tvs-old-new.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.schulte-mecklenbeck.com/wp-content/uploads//2014/09/tvs-old-new.jpg)
 
 &nbsp;
 
