@@ -1,4 +1,5 @@
 +++
+
 title = "Postscript: Rejoinder to Brandstätter, Gigerenzer, and Hertwig (2008)."
 
 date = 2008-01-01
