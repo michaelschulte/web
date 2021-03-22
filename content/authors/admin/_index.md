@@ -20,7 +20,7 @@ organizations:
   url: "mpib-berlin.mpg.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study human decision making, process tracing methods, food choice and traffic behavior.
+bio: I study human decision making with a focus on the decision process.
 
 interests:
 - Decision Making
@@ -81,8 +81,8 @@ user_groups:
 - Visitors
 ---
 
-I study how people make decisions, what (cognitive) processes underly those decisions and how we can measure all of that. Within these lines of research I developed my own tools to study decision processes ([WebDiP](https://github.com/michaelschulte/webdip), [Flashlight](https://github.com/michaelschulte/flashlight), [The pyeTribe](https://github.com/michaelschulte/ThePyeTribe)) and answer questions like: 'What information do people/consumers use when making food choices?' or 'How do search processes in simple gamble decisions unfold?'
+I study how people make decisions, what (cognitive) processes underly those decisions and how we can measure all of that. Within these lines of research I developed my own tools to study decision processes ([WebDiP](https://github.com/michaelschulte/webdip), [Flashlight](https://github.com/michaelschulte/flashlight), [The pyeTribe](https://github.com/michaelschulte/ThePyeTribe)) and answer questions like: 'What information do people use when making food choices?' or 'How do search processes in simple gamble decisions unfold?'
 
-All this  is done at the the University of Bern (Consumer Behavior), Switzerland and the Max-Planck-Institute for Human Development (Adaptive Rationality) in Berlin. I held positions at various other academic institutions and in the food industry (look at your breakfast table – the company I worked for is very likely present).
+All this is done at the the University of Bern (Consumer Behavior), Switzerland and the Max-Planck-Institute for Human Development (Adaptive Rationality) in Berlin. I held positions at various other academic institutions and in the food industry (look at your breakfast table – the company I worked for is very likely present).
 
-Furthermore I am interested in open science, replication, open methods and teaching methodology in class.
+Furthermore I am interested in open science, replication and open methods.
