@@ -5,9 +5,9 @@
     <link>/category/meetup/</link>
       <atom:link href="/category/meetup/index.xml" rel="self" type="application/rss+xml" />
     <description>Meetup</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Meetup</title>
       <link>/category/meetup/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>/post/2018-12-10-bernr-meetup/</link>
       <pubDate>Mon, 10 Dec 2018 06:05:56 -0700</pubDate>
       <guid>/post/2018-12-10-bernr-meetup/</guid>
-      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
+      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (
+&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
 </description>
     </item>
     

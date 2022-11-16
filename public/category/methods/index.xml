@@ -5,9 +5,9 @@
     <link>/category/methods/</link>
       <atom:link href="/category/methods/index.xml" rel="self" type="application/rss+xml" />
     <description>Methods</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 13 Mar 2017 12:20:52 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Mon, 13 Mar 2017 12:20:52 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Methods</title>
       <link>/category/methods/</link>
     </image>
@@ -87,9 +87,12 @@ Ideally, research papers would have code for analyses which are commented in det
 &lt;p&gt;What do we need to achieve this? From a policy perspective, journals would have to add the requirement for data and code submission together with the draft of each empirical paper. Some journals already provide the option to do that (e.g., Behavior Research Methods) in the supplemental material section on a voluntary base, some require the submission of all necessary material to replicate the reported results (e.g., Econometrica), however most do not offer such a possibility (it is of course possible to provide such materials through private or university web sites, but this is a haphazard and decentralized arrangement).&lt;/p&gt;
 &lt;p&gt;Tools are a second important part of facilitating this openness. Three open source (free of cost) components could provide the bases for reproducible research:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (&lt;a href=&#34;http://www.R-project.org&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, &lt;a href=&#34;http://www.latex-project.org/)&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (
+&lt;a href=&#34;http://www.R-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, 
+&lt;a href=&#34;http://www.latex-project.org/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (
+&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The power of these different tools comes from the combination of their being open source, their widespread adoption (across a wide range of fields in sciences), and the fully transparent means by which data analysis is conducted and reported.  It levels the playing field and means that anybody with an Internet connection and a computer can take part in evolving scientific progress.&lt;/p&gt;
 &lt;p&gt;John Godfrey Saxe famously said that: “Laws, like sausages, cease to inspire respect in proportion as we know how they are made.” We should strive that this is not true for psychology as a science.&lt;/p&gt;

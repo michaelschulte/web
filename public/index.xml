@@ -5,12 +5,30 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Schulte-Mecklenbeck</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 22 Oct 2021 11:29:10 +0200</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Michael Schulte-Mecklenbeck</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Same data, different conclusions: Radical dispersion in empirical results when independent analysts operationalize and test the same hypothesis</title>
+      <link>/publication/schweinsberg2021/</link>
+      <pubDate>Fri, 22 Oct 2021 11:29:10 +0200</pubDate>
+      <guid>/publication/schweinsberg2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReproducibiliTea comes to UniBe</title>
+      <link>/post/2021-03-22-reproducibilitea-comes-to-unibe/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-03-22-reproducibilitea-comes-to-unibe/</guid>
+      <description>&lt;p&gt;Talking about reproducibility while drinking tea, well, there you go - ReproducibiliTea, fresh and new @UniBe: 
+&lt;a href=&#34;https://unibe-reptea.netlify.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://unibe-reptea.netlify.app&lt;/a&gt; &amp;hellip; every second month, one paper, researchers from UniBe - sounds awesome!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Open Science Lecture Series</title>
@@ -25,6 +43,14 @@
     </item>
     
     <item>
+      <title>The dynamics of self-control: within-participant modeling of binary food choices and underlying decision processes as a function of restrained eating</title>
+      <link>/publication/georgii-2019-dynamics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/georgii-2019-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>What HoPTM looks like from the inside</title>
       <link>/post/what-hoptm-looks-like-from-the-inside/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
@@ -35,7 +61,7 @@
 &lt;p&gt;The book has 390 pages divided into 24 chapters. There are 202014 words in there including everything (references, thanks, hello, goodbye &amp;hellip;).&lt;/p&gt;
 &lt;p&gt;Ignoring the chapters and that they have reference lists, that mess up things a bit, first an overview of frequency for highly frequent words:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/images/words_frequency.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;No big surprises there for a process tracing book in decision making - but still - models pop up quite high in the list and trajectories - the new kid on the block when it comes to mousetracking also gets a mention - the list is truncated and I did not bother to remove things like &amp;lsquo;et al.&amp;rsquo; or &amp;lsquo;e.g&amp;rsquo; (the second . got caught by the script, the first one not).&lt;/p&gt;
+&lt;p&gt;No big surprises there for a process tracing book in decision making - but still - models pop up quite high in the list and trajectories - the new kid on the block when it comes to mousetracking also gets a mention - the list is truncated and I did not bother to remove things like &amp;rsquo;et al.&amp;rsquo; or &amp;rsquo;e.g&amp;rsquo; (the second . got caught by the script, the first one not).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/images/words_per_chapter.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is more interesting - I calculated the 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Tf%e2%80%93idf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tf-idf&lt;/a&gt; (term frequency–inverse document frequency) which tells us how important a word is but takes care of how often a word appears in general - so a better measure than just using the raw frequency of a word. I did this for each chapter (
@@ -53,7 +79,8 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/post/hoptm/</guid>
       <description>&lt;p&gt;WOOP WOOP - here it is - the second edition of our beloved &amp;ldquo;Handbook of Process Tracing Methods&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;If you can&amp;rsquo;t wait - buy it here: &lt;a href=&#34;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&#34;&gt;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you can&amp;rsquo;t wait - buy it here: 
+&lt;a href=&#34;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It is bigger and better than the first edition, comes with the classics (Figner on skin conductance, Willemsen on Mouselab and many more) and many new awesome chapters - here is a list:&lt;/p&gt;
 &lt;p&gt;1 Eye Fixations as a Process Trace - J. Edward Russo&lt;/p&gt;
 &lt;p&gt;2 Pervasive Eye-Tracking for Real-World Consumer Behavior Analysis - Andreas Bulling and Michel Wedel&lt;/p&gt;
@@ -88,7 +115,8 @@
       <link>/post/pictures/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/post/pictures/</guid>
-      <description>&lt;p&gt;So, here we go - new blogdown site &amp;hellip; thanks to Dan (&lt;a href=&#34;https://twitter.com/dsquintana&#34;&gt;https://twitter.com/dsquintana&lt;/a&gt;) to kicked me over the edge actually doing this &amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;So, here we go - new blogdown site &amp;hellip; thanks to Dan (
+&lt;a href=&#34;https://twitter.com/dsquintana&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/dsquintana&lt;/a&gt;) to kicked me over the edge actually doing this &amp;hellip;&lt;/p&gt;
 &lt;p&gt;Things are fine, the site is up - pictures are still linked back to my old wordpress site &amp;hellip; will figure this out eventually &amp;hellip; but this is live now - for your reading pleasure :)&lt;/p&gt;
 </description>
     </item>
@@ -98,14 +126,15 @@
       <link>/post/2019-06-04-hoptm2ndedition/</link>
       <pubDate>Tue, 04 Jun 2019 06:05:56 -0700</pubDate>
       <guid>/post/2019-06-04-hoptm2ndedition/</guid>
-      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
+      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (
+&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Forward inference in risky choice: Mapping gaze and decision processes</title>
       <link>/publication/schoemann-2019-forward/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/schoemann-2019-forward/</guid>
       <description></description>
     </item>
@@ -113,7 +142,7 @@
     <item>
       <title>Foundations for Open Scholarship Strategy Development</title>
       <link>/publication/tennant-2019-foundations/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/tennant-2019-foundations/</guid>
       <description></description>
     </item>
@@ -121,16 +150,16 @@
     <item>
       <title>Mouse-tracking: A practical guide to implementation and analysis</title>
       <link>/publication/kieslich-2019-mouse/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/kieslich-2019-mouse/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The dynamics of self-control: within-participant modeling of binary food choices and underlying decision processes as a function of restrained eating</title>
-      <link>/publication/georgii-2019-dynamics/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      <guid>/publication/georgii-2019-dynamics/</guid>
+      <title>The attention–aversion gap: how allocation of attention relates to loss aversion</title>
+      <link>/publication/lejarraga-2019-loss/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lejarraga-2019-loss/</guid>
       <description></description>
     </item>
     
@@ -139,7 +168,8 @@
       <link>/post/2018-12-10-bernr-meetup/</link>
       <pubDate>Mon, 10 Dec 2018 06:05:56 -0700</pubDate>
       <guid>/post/2018-12-10-bernr-meetup/</guid>
-      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
+      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (
+&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
 </description>
     </item>
     
@@ -196,25 +226,8 @@
 &lt;/div&gt;
 &lt;div&gt;
 &lt;/div&gt;
-&lt;p&gt;UPDATE in 2019 - on my way to SIPS2019, casually started listening to some podcasts - and then this: &lt;a href=&#34;https://www.podbean.com/ew/pb-2iqpx-b6aa1e&#34;&gt;https://www.podbean.com/ew/pb-2iqpx-b6aa1e&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+&lt;p&gt;UPDATE in 2019 - on my way to SIPS2019, casually started listening to some podcasts - and then this: 
+&lt;a href=&#34;https://www.podbean.com/ew/pb-2iqpx-b6aa1e&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.podbean.com/ew/pb-2iqpx-b6aa1e&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -226,7 +239,7 @@
       <description>&lt;p&gt;Chance encounters sometimes lead to interesting and new projects. This is one of those cases … I got to know 
 &lt;a href=&#34;https://www.alexandria.unisg.ch/persons/4948&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emanuel de Bellis&lt;/a&gt; during my time at Nestle and we never stopped collaborating ever since (he actually lead my 2017 ‘skype to’ statistics with my wife as a close second …)&lt;/p&gt;
 &lt;p&gt;We got our hands on a rich dataset of speed measures the police in Zürich (Switzerland) does unbeknownst to the drivers during they year for planning purposes. The radar is put into a small black box hardly anybody realises driving by:&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;aligncenter wp-image-604&#34; src=&#34;/uploads//2018/01/IMG_2465.jpg&#34; alt=&#34;&#34; width=&#34;74&#34; height=&#34;252&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;aligncenter wp-image-604&#34; src=&#34;/uploads//2018/01/IMG_2465.jpg&#34; alt=&#34;&#34; width=&#34;74&#34; height=&#34;252&#34; /&gt; 
 &lt;p&gt;(it’s the black box above the bin – not the bin!)&lt;/p&gt;
 &lt;p&gt;So – we got these data from over a million cars and got to work with them trying to find an answer to a question in perception research: Do people perceive their environment differently when light conditions deteriorate? and (even more important) Do drivers change their driving speed accordingly.&lt;/p&gt;
 &lt;p&gt;Well – they don’t … and here is correlational proof 🙂&lt;/p&gt;
@@ -238,9 +251,9 @@
     </item>
     
     <item>
-      <title>8 Easy Steps to Open Science: An Annotated Reading List</title>
+      <title>7 Easy Steps to Open Science: An Annotated Reading List</title>
       <link>/publication/cruwell-88/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/cruwell-88/</guid>
       <description></description>
     </item>
@@ -248,7 +261,7 @@
     <item>
       <title>Accelerated CREP-RRR: Turri, Buckwalter, &amp; Blouw (2015)</title>
       <link>/publication/hall-2018-accelerated/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/hall-2018-accelerated/</guid>
       <description></description>
     </item>
@@ -256,7 +269,7 @@
     <item>
       <title>Blind haste: As light decreases, speeding increases</title>
       <link>/publication/debellis2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/debellis2018/</guid>
       <description></description>
     </item>
@@ -264,7 +277,7 @@
     <item>
       <title>Facial expression analysis with AFFDEX and FACET: A validation study</title>
       <link>/publication/stockli-2018-facial/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/stockli-2018-facial/</guid>
       <description></description>
     </item>
@@ -272,7 +285,7 @@
     <item>
       <title>Registered replication report: Dijksterhuis and van Knippenberg (1998)</title>
       <link>/publication/o-2018-registered/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/o-2018-registered/</guid>
       <description></description>
     </item>
@@ -280,7 +293,7 @@
     <item>
       <title>Selecting target papers for replication</title>
       <link>/publication/kuehberger-2018-selecting/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/kuehberger-2018-selecting/</guid>
       <description></description>
     </item>
@@ -399,8 +412,8 @@
       <pubDate>Wed, 12 Apr 2017 07:45:12 -0700</pubDate>
       <guid>/post/2017-04-12-growing-up-to-be-old/</guid>
       <description>&lt;p&gt;Some papers have somewhat weird starting points – this one had an awesome starting point – Lake Louise (Canada):&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;aligncenter size-large wp-image-505&#34; src=&#34;/uploads//2017/04/canada-1024x347.jpg&#34; alt=&#34;&#34; width=&#34;584&#34; height=&#34;198&#34; srcset=&#34;2017/04/canada-1024x347.jpg 1024w, 2017/04/canada-300x102.jpg 300w, 2017/04/canada-768x260.jpg 768w, 2017/04/canada-1477x500.jpg 1477w, 2017/04/canada-500x169.jpg 500w&#34; sizes=&#34;(max-width: 584px) 100vw, 584px&#34; /&gt;&lt;br&gt;
-&lt;img class=&#34;aligncenter size-full wp-image-507&#34; src=&#34;/uploads//2017/04/wprkshop.jpg&#34; alt=&#34;&#34; width=&#34;423&#34; height=&#34;372&#34; srcset=&#34;2017/04/wprkshop.jpg 423w, 2017/04/wprkshop-300x264.jpg 300w&#34; sizes=&#34;(max-width: 423px) 100vw, 423px&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;aligncenter size-large wp-image-505&#34; src=&#34;/uploads//2017/04/canada-1024x347.jpg&#34; alt=&#34;&#34; width=&#34;584&#34; height=&#34;198&#34; srcset=&#34;2017/04/canada-1024x347.jpg 1024w, 2017/04/canada-300x102.jpg 300w, 2017/04/canada-768x260.jpg 768w, 2017/04/canada-1477x500.jpg 1477w, 2017/04/canada-500x169.jpg 500w&#34; sizes=&#34;(max-width: 584px) 100vw, 584px&#34; /&gt;  
+&lt;img class=&#34;aligncenter size-full wp-image-507&#34; src=&#34;/uploads//2017/04/wprkshop.jpg&#34; alt=&#34;&#34; width=&#34;423&#34; height=&#34;372&#34; srcset=&#34;2017/04/wprkshop.jpg 423w, 2017/04/wprkshop-300x264.jpg 300w&#34; sizes=&#34;(max-width: 423px) 100vw, 423px&#34; /&gt; 
 &lt;p&gt;In a little suite we (
 &lt;a href=&#34;https://miamioh.edu/cas/academics/departments/psychology/about/current-faculty-staff/johnson-joseph/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joe Johnson&lt;/a&gt;, 
 &lt;a href=&#34;http://www.kellogg.northwestern.edu/faculty/directory/bockenholt_ulf.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ulf Böckenholt&lt;/a&gt;, 
@@ -473,7 +486,7 @@
     <item>
       <title>Inducing Thought Processes: Bringing Process Measures and Cognitive Processes Closer Together</title>
       <link>/publication/schulte-2017-inducing/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2017-inducing/</guid>
       <description></description>
     </item>
@@ -481,7 +494,7 @@
     <item>
       <title>Process tracing methods in decision making: on growing up in the 70ties</title>
       <link>/publication/schulte-2017-process/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2017-process/</guid>
       <description></description>
     </item>
@@ -489,7 +502,7 @@
     <item>
       <title>Prospect Theory Reflects Selective Allocation of Attention</title>
       <link>/publication/pachur-2017-author/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/pachur-2017-author/</guid>
       <description></description>
     </item>
@@ -497,7 +510,7 @@
     <item>
       <title>The (in) visibility of psychodiagnosticians&#39; expertise</title>
       <link>/publication/schulte-2015-visibility/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2015-visibility/</guid>
       <description></description>
     </item>
@@ -583,7 +596,7 @@
 &lt;li&gt;random order of the answers for each question&lt;/li&gt;
 &lt;li&gt;exam with the correct answers&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-444&#34; src=&#34;/uploads//2016/06/Screen-Shot-2016-06-11-at-11.00.22-203x300.png&#34; alt=&#34;Screen Shot 2016-06-11 at 11.00.22&#34; width=&#34;203&#34; height=&#34;300&#34; srcset=&#34;2016/06/Screen-Shot-2016-06-11-at-11.00.22-203x300.png 203w, 2016/06/Screen-Shot-2016-06-11-at-11.00.22-338x500.png 338w, 2016/06/Screen-Shot-2016-06-11-at-11.00.22.png 386w&#34; sizes=&#34;(max-width: 203px) 100vw, 203px&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;alignleft size-medium wp-image-444&#34; src=&#34;/uploads//2016/06/Screen-Shot-2016-06-11-at-11.00.22-203x300.png&#34; alt=&#34;Screen Shot 2016-06-11 at 11.00.22&#34; width=&#34;203&#34; height=&#34;300&#34; srcset=&#34;2016/06/Screen-Shot-2016-06-11-at-11.00.22-203x300.png 203w, 2016/06/Screen-Shot-2016-06-11-at-11.00.22-338x500.png 338w, 2016/06/Screen-Shot-2016-06-11-at-11.00.22.png 386w&#34; sizes=&#34;(max-width: 203px) 100vw, 203px&#34; /&gt; 
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -625,12 +638,12 @@ dir = odir,
 &lt;p&gt;hmm – kind of did that.&lt;/p&gt;
 &lt;p&gt;One reason being that when coding LaTeX in Sublime there is an awesome autocompletion feature:&lt;/p&gt;
 &lt;p&gt;Type ‘enum’ and you get:&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-431&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.37&#34; width=&#34;300&#34; height=&#34;104&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37-500x173.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37.png 730w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;alignleft size-medium wp-image-431&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.37&#34; width=&#34;300&#34; height=&#34;104&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37-500x173.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37.png 730w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; 
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Shift + Enter within an itemize adds a new \item&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-432&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.46&#34; width=&#34;300&#34; height=&#34;99&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46-500x165.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46.png 716w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;alignleft size-medium wp-image-432&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.46&#34; width=&#34;300&#34; height=&#34;99&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46-500x165.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46.png 716w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; 
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -656,7 +669,7 @@ dir = odir,
     <item>
       <title>Deliberative versus intuitive diagnostic decision</title>
       <link>/publication/skvortsova-2016-deliberative/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/skvortsova-2016-deliberative/</guid>
       <description></description>
     </item>
@@ -664,7 +677,7 @@ dir = odir,
     <item>
       <title>The pyeTribe: Simultaneous eyetracking for economic games</title>
       <link>/publication/lejarraga-2016-pyetribe/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/publication/lejarraga-2016-pyetribe/</guid>
       <description></description>
     </item>
@@ -819,7 +832,7 @@ RStudio and Shiny&lt;/p&gt;
     <item>
       <title>Out of sight--out of mind? Information acquisition patterns in risky choice framing</title>
       <link>/publication/schulte-2014-out/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2014-out/</guid>
       <description></description>
     </item>
@@ -857,7 +870,7 @@ For the following pretty straight forward question: How do I randomise questions
     <item>
       <title>A Lack of Appetite for Information and Computation: Simple Heuristics in Food Choice</title>
       <link>/publication/schulte-2013-lack/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2013-lack/</guid>
       <description></description>
     </item>
@@ -905,7 +918,9 @@ sapply           l       a       laply
 &lt;li&gt;do.R # do the work&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I kind of started doing something along these lines, with splitting files into load/clean (still together, could go separate …), cleaning, graphing (which does not make a lot of sense in an extra file) and large junks of analysis … got to redo some directories now …&lt;/p&gt;
-&lt;p&gt;Other cool links from today’s follow-this-link trip: &lt;a href=&#34;http://www.getskeleton.com/&#34;&gt;http://www.getskeleton.com/&lt;/a&gt; and &lt;a href=&#34;http://subtlepatterns.com/&#34;&gt;http://subtlepatterns.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Other cool links from today’s follow-this-link trip: 
+&lt;a href=&#34;http://www.getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.getskeleton.com/&lt;/a&gt; and 
+&lt;a href=&#34;http://subtlepatterns.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://subtlepatterns.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -939,7 +954,7 @@ sapply           l       a       laply
     <item>
       <title>Flashlight as a process tracing method</title>
       <link>/publication/schulte-2012-flashlight/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2012-flashlight/</guid>
       <description></description>
     </item>
@@ -987,7 +1002,8 @@ I took the list below from the
       <link>/post/2011-07-15-awesome-visualization-tool-for-r/</link>
       <pubDate>Fri, 15 Jul 2011 04:07:04 -0700</pubDate>
       <guid>/post/2011-07-15-awesome-visualization-tool-for-r/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/googleVis/&#34;&gt;http://cran.r-project.org/web/packages/googleVis/&lt;/a&gt; enables chart generation similar to the ones instroduced by 
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://cran.r-project.org/web/packages/googleVis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cran.r-project.org/web/packages/googleVis/&lt;/a&gt; enables chart generation similar to the ones instroduced by 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Hans_Rosling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans Roesling&lt;/a&gt; in his 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Hans_Rosling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED talk&lt;/a&gt; on poverty – extremly cool 🙂&lt;/p&gt;
 </description>
@@ -1051,9 +1067,12 @@ Ideally, research papers would have code for analyses which are commented in det
 &lt;p&gt;What do we need to achieve this? From a policy perspective, journals would have to add the requirement for data and code submission together with the draft of each empirical paper. Some journals already provide the option to do that (e.g., Behavior Research Methods) in the supplemental material section on a voluntary base, some require the submission of all necessary material to replicate the reported results (e.g., Econometrica), however most do not offer such a possibility (it is of course possible to provide such materials through private or university web sites, but this is a haphazard and decentralized arrangement).&lt;/p&gt;
 &lt;p&gt;Tools are a second important part of facilitating this openness. Three open source (free of cost) components could provide the bases for reproducible research:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (&lt;a href=&#34;http://www.R-project.org&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, &lt;a href=&#34;http://www.latex-project.org/)&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (
+&lt;a href=&#34;http://www.R-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, 
+&lt;a href=&#34;http://www.latex-project.org/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (
+&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The power of these different tools comes from the combination of their being open source, their widespread adoption (across a wide range of fields in sciences), and the fully transparent means by which data analysis is conducted and reported.  It levels the playing field and means that anybody with an Internet connection and a computer can take part in evolving scientific progress.&lt;/p&gt;
 &lt;p&gt;John Godfrey Saxe famously said that: “Laws, like sausages, cease to inspire respect in proportion as we know how they are made.” We should strive that this is not true for psychology as a science.&lt;/p&gt;
@@ -1078,7 +1097,7 @@ Ideally, research papers would have code for analyses which are commented in det
     <item>
       <title>A Handbook of Process Tracing Methods for Decision Research: A Critical Review and User&#39;s Guide</title>
       <link>/publication/kuhberger-2011-handbook/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/kuhberger-2011-handbook/</guid>
       <description></description>
     </item>
@@ -1086,7 +1105,7 @@ Ideally, research papers would have code for analyses which are commented in det
     <item>
       <title>A handbook of process tracing methods for decision research: A critical review and user’s guide</title>
       <link>/publication/schulte-2011-handbook/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2011-handbook/</guid>
       <description></description>
     </item>
@@ -1094,7 +1113,7 @@ Ideally, research papers would have code for analyses which are commented in det
     <item>
       <title>Determining the information participants need: methods of active information search</title>
       <link>/publication/huber-2011-determining/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/huber-2011-determining/</guid>
       <description></description>
     </item>
@@ -1102,7 +1121,7 @@ Ideally, research papers would have code for analyses which are commented in det
     <item>
       <title>Flashlight--Recording information acquisition online</title>
       <link>/publication/schulte-2011-flashlight/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2011-flashlight/</guid>
       <description></description>
     </item>
@@ -1110,7 +1129,7 @@ Ideally, research papers would have code for analyses which are commented in det
     <item>
       <title>The role of process data in the development and testing of process models of judgment and decision making.</title>
       <link>/publication/schulte-2011-role/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2011-role/</guid>
       <description></description>
     </item>
@@ -1121,7 +1140,8 @@ Ideally, research papers would have code for analyses which are commented in det
       <pubDate>Wed, 18 Aug 2010 06:20:29 -0700</pubDate>
       <guid>/post/2010-08-18-where-you-end-up-having-a-phd/</guid>
       <description>&lt;p&gt;The illustrated guide from Kindergarten to PhD …&lt;br&gt;
-&lt;a href=&#34;http://matt.might.net/articles/phd-school-in-pictures/&#34;&gt;http://matt.might.net/articles/phd-school-in-pictures/&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;http://matt.might.net/articles/phd-school-in-pictures/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://matt.might.net/articles/phd-school-in-pictures/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1130,10 +1150,9 @@ Ideally, research papers would have code for analyses which are commented in det
       <link>/post/2010-07-15-two-good-things-come-together/</link>
       <pubDate>Thu, 15 Jul 2010 01:49:54 -0700</pubDate>
       <guid>/post/2010-07-15-two-good-things-come-together/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://docs.latexlab.org/docs&#34;&gt;http://docs.latexlab.org/docs&lt;/a&gt;&lt;br&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://docs.latexlab.org/docs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.latexlab.org/docs&lt;/a&gt;&lt;br&gt;
 LaTeX and Google Docs together in one nice (free)application – this is a brilliant idea, which gives you the power of LaTeX combined with the excellent collaboration possiblities of Google Docs – if I would have a button it would say “I like” …&lt;/p&gt;
-&lt;p&gt;Here is a screenshot from the project page – with LaTeX code on one side and the final output on the other …&lt;br&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://reactor.bloo.us/images/ll-screen-2.png&#34; title=&#34;Screenshot LaTeX and Google Docs&#34; class=&#34;alignnone&#34; width=&#34;300&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1146,7 +1165,7 @@ LaTeX and Google Docs together in one nice (free)application – this is a brill
 &lt;a href=&#34;http://blog.revolutionanalytics.com/2010/07/charting-the-world-cup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revolution blog&lt;/a&gt; a nice example of using R with data from the cloud (see another post on this topic 
 &lt;a href=&#34;http://www.schulte-mecklenbeck.com/?p=105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) shows us the distribution of fouls during the just finished World Cup in a nice barchart. Even more interesting than the fact that Holland rules this category is the way the data are collected from a Google spreadsheet page.&lt;/p&gt;
 &lt;p&gt;With the following simple code line:&lt;br&gt;
-&lt;code&gt;teams &amp;lt;- read.csv(&amp;quot;http://spreadsheets.google.com/pub?key=tOM2qREmPUbv76waumrEEYg&amp;amp;#038;single=true&amp;amp;#038;gid=0&amp;amp;#038;range=A1%3AAG15&amp;amp;#038;output=csv&amp;quot;)&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;teams &amp;lt;- read.csv(&amp;quot;http://spreadsheets.google.com/pub?key=tOM2qREmPUbv76waumrEEYg&amp;amp;#038;single=true&amp;amp;#038;gid=0&amp;amp;#038;range=A1%3AAG15&amp;amp;#038;output=csv&amp;quot;) &lt;/code&gt;&lt;br&gt;
 We can read a specific part from a spreadsheet hosted on Google into our local R environment. Some deatils: &amp;ldquo;&amp;amp;gid=&amp;rdquo; (sheet number) and &amp;ldquo;%range=&amp;rdquo; (cell ranges: A1%3A ) and &amp;ldquo;&amp;amp;output=csv&amp;rdquo; to download in CSV format.&lt;/p&gt;
 &lt;p&gt;With some more lines, using the awsome 
 &lt;a href=&#34;http://had.co.nz/ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt;&lt;br&gt;
@@ -1190,7 +1209,7 @@ I think this is a great step forward for R and cloud computing!&lt;/p&gt;
     <item>
       <title>A handbook of process tracing methods for decision research: A critical review and user’s guide</title>
       <link>/publication/figner-2010-handbook/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>/publication/figner-2010-handbook/</guid>
       <description></description>
     </item>
@@ -1198,7 +1217,7 @@ I think this is a great step forward for R and cloud computing!&lt;/p&gt;
     <item>
       <title>Windows for understanding the mind: Introduction to a handbook of process tracing methods for decision research</title>
       <link>/publication/kuhberger-2010-windows/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>/publication/kuhberger-2010-windows/</guid>
       <description></description>
     </item>
@@ -1296,13 +1315,16 @@ Start Time:&lt;br&gt;
 5:04 AM (Weds) – New Zealand (birthplace of R)&lt;br&gt;
 Duration: 50 minutes&lt;/p&gt;
 &lt;p&gt;(1) At some point during the day on September 8th, synchronize your watch to&lt;br&gt;
-&lt;a href=&#34;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&#34;&gt;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;(2) The mob should form at precisely 4 minutes past the hour and not beforehand.&lt;/p&gt;
 &lt;p&gt;(3) At 4 minutes past the hour, you should arrive at stackoverflow.com, log in,&lt;br&gt;
 and post 3 R questions. Be sure to tag the questions “R”. See the posting&lt;br&gt;
-guidelines at &lt;a href=&#34;http://stackoverflow.com/faq&#34;&gt;http://stackoverflow.com/faq&lt;/a&gt; to understand what makes a good&lt;br&gt;
+guidelines at 
+&lt;a href=&#34;http://stackoverflow.com/faq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/faq&lt;/a&gt; to understand what makes a good&lt;br&gt;
 question.&lt;/p&gt;
-&lt;p&gt;(4) Follow R Flashmob updates at &lt;a href=&#34;http://twitter.com/rstatsmob&#34;&gt;http://twitter.com/rstatsmob&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(4) Follow R Flashmob updates at 
+&lt;a href=&#34;http://twitter.com/rstatsmob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://twitter.com/rstatsmob&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;(5) Post twitter messages tagged #rstats and #rstatsmob during the mob,&lt;br&gt;
 providing links to your questions.&lt;/p&gt;
 &lt;p&gt;(6) During the R MOB, you can chat with other participants on the #R channel&lt;br&gt;
@@ -1312,7 +1334,8 @@ bottom of the screen. Then chat.&lt;/p&gt;
 &lt;p&gt;(7) If you finish posting your three questions within the 50 minutes, stick&lt;br&gt;
 around to answer questions and give “up votes” to good questions and answers.&lt;/p&gt;
 &lt;p&gt;(8) IMPORTANT: After posting, sign the R Flashmob guestbook at&lt;br&gt;
-&lt;a href=&#34;http://bit.ly/6F8B2&#34;&gt;http://bit.ly/6F8B2&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;http://bit.ly/6F8B2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://bit.ly/6F8B2&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;(9) Return to what you would otherwise have been doing. Await&lt;br&gt;
 instructions for R MOB #3.&lt;/p&gt;
 </description>
@@ -1353,7 +1376,8 @@ citeauthor{Spiel2001} – Spiel citeyearNP{Bortz1993} – 1993&lt;/p&gt;
 &lt;p&gt;usepackage[german]{babel}&lt;br&gt;
 usepackage[ansinew]{inputenc}&lt;/p&gt;
 &lt;p&gt;Two useful links:&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;1) Wikipedia book on LaTeX&lt;/span&gt;&lt;span&gt;&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt; &lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt;http://en.wikibooks.org/wiki/LaTeX&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1) Wikipedia book on LaTeX&lt;/span&gt;&lt;span&gt;&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt; 
+&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://en.wikibooks.org/wiki/LaTeX&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;2) A &lt;a href=&#34;http://www.uni-salzburg.at/portal/page?_pageid=138,456842&amp;_dad=portal&amp;_schema=PORTAL&#34;&gt;page&lt;/a&gt; at the University of Salzburg’s Psychology department (German!)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;a href=&#34;http://www.users.sbg.ac.at/~gdkleiter/&#34;&gt;Gernot Kleiter&lt;/a&gt; was the person who introduced me to LaTeX, decision making, good experimenting … actually, there should be a whole post about him …&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
 </description>
@@ -1425,25 +1449,15 @@ In a more detailed way you can find this approach explained
     <item>
       <title>Take a quick click at that! Mouselab and eye-tracking as tools to measure intuition</title>
       <link>/publication/norman-2009-take/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>/publication/norman-2009-take/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Priority Heuristic comment</title>
-      <link>/post/2008-03-17-priority-heuristic-comment/</link>
-      <pubDate>Mon, 17 Mar 2008 12:55:58 -0700</pubDate>
-      <guid>/post/2008-03-17-priority-heuristic-comment/</guid>
-      <description>&lt;p&gt;We (Johnson, Schulte-Mecklenbeck, &amp;amp; Willemsen, 2008) have got a new paper out that comments on the Priority Heuristic as described in Brandstaetter, Gigerenzer and Hertwig, 2006.&lt;/p&gt;
-&lt;p&gt;Resolution of debates in cognition usually comes from the introduction of constraints in the form of new data about either the process or representation. Decision research, in contrast, has relied predominantly on testing models by examining their fit to choices. The authors examine a recently proposed choice strategy, the priority heuristic, which provides a novel account of how people make risky choices. The authors identify a number of properties that the priority heuristic should have as a process model and illustrate how they may be tested. The results, along with prior research, suggest that although the priority heuristic captures some variability in the attention paid to outcomes, it fails to account for major characteristics of the data, particularly the frequent transitions between outcomes and their probabilities. The article concludes with a discussion of the properties that should be captured by process models of risky choice and the role of process data in theory development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Postscript: Rejoinder to Brandstätter, Gigerenzer, and Hertwig (2008).</title>
       <link>/publication/johnson-2008-postscript/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>/publication/johnson-2008-postscript/</guid>
       <description></description>
     </item>
@@ -1451,7 +1465,7 @@ In a more detailed way you can find this approach explained
     <item>
       <title>Process models deserve process data: Comment on Brandstätter, Gigerenzer, and Hertwig (2006).</title>
       <link>/publication/johnson-2008-process/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>/publication/johnson-2008-process/</guid>
       <description></description>
     </item>
@@ -1459,7 +1473,7 @@ In a more detailed way you can find this approach explained
     <item>
       <title>Brave New World... Wide Web: Blending Old Teaching</title>
       <link>/publication/schulte-2005-brave/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2005-brave/</guid>
       <description></description>
     </item>
@@ -1467,7 +1481,7 @@ In a more detailed way you can find this approach explained
     <item>
       <title>WebDiP: A tool for information search experiments on the World-Wide Web</title>
       <link>/publication/schulte-2005-webdip/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2005-webdip/</guid>
       <description></description>
     </item>
@@ -1475,7 +1489,7 @@ In a more detailed way you can find this approach explained
     <item>
       <title>Information search in the laboratory and on the Web: With or without an experimenter</title>
       <link>/publication/schulte-2003-information/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2003-information/</guid>
       <description></description>
     </item>
@@ -1483,7 +1497,7 @@ In a more detailed way you can find this approach explained
     <item>
       <title>Framing decisions: Hypothetical and real</title>
       <link>/publication/kuhberger-2002-framing/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>/publication/kuhberger-2002-framing/</guid>
       <description></description>
     </item>
@@ -1491,7 +1505,7 @@ In a more detailed way you can find this approach explained
     <item>
       <title>The effects of framing, reflection, probability, and payoff on risk preference in choice tasks</title>
       <link>/publication/kuhberger-1999-effects/</link>
-      <pubDate>Fri, 01 Jan 1999 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       <guid>/publication/kuhberger-1999-effects/</guid>
       <description></description>
     </item>
@@ -1499,7 +1513,7 @@ In a more detailed way you can find this approach explained
     <item>
       <title>Choice or no choice: is the langer effect evidence against simulation?</title>
       <link>/publication/kuhberger-1995-choice/</link>
-      <pubDate>Sun, 01 Jan 1995 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
       <guid>/publication/kuhberger-1995-choice/</guid>
       <description></description>
     </item>

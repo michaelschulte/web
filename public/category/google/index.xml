@@ -5,9 +5,9 @@
     <link>/category/google/</link>
       <atom:link href="/category/google/index.xml" rel="self" type="application/rss+xml" />
     <description>Google</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 21 Sep 2012 22:59:18 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Fri, 21 Sep 2012 22:59:18 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Google</title>
       <link>/category/google/</link>
     </image>
@@ -29,7 +29,9 @@
 &lt;li&gt;do.R # do the work&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I kind of started doing something along these lines, with splitting files into load/clean (still together, could go separate …), cleaning, graphing (which does not make a lot of sense in an extra file) and large junks of analysis … got to redo some directories now …&lt;/p&gt;
-&lt;p&gt;Other cool links from today’s follow-this-link trip: &lt;a href=&#34;http://www.getskeleton.com/&#34;&gt;http://www.getskeleton.com/&lt;/a&gt; and &lt;a href=&#34;http://subtlepatterns.com/&#34;&gt;http://subtlepatterns.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Other cool links from today’s follow-this-link trip: 
+&lt;a href=&#34;http://www.getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.getskeleton.com/&lt;/a&gt; and 
+&lt;a href=&#34;http://subtlepatterns.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://subtlepatterns.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -49,7 +51,8 @@
       <link>/post/2011-07-15-awesome-visualization-tool-for-r/</link>
       <pubDate>Fri, 15 Jul 2011 04:07:04 -0700</pubDate>
       <guid>/post/2011-07-15-awesome-visualization-tool-for-r/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/googleVis/&#34;&gt;http://cran.r-project.org/web/packages/googleVis/&lt;/a&gt; enables chart generation similar to the ones instroduced by 
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://cran.r-project.org/web/packages/googleVis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cran.r-project.org/web/packages/googleVis/&lt;/a&gt; enables chart generation similar to the ones instroduced by 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Hans_Rosling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hans Roesling&lt;/a&gt; in his 
 &lt;a href=&#34;http://en.wikipedia.org/wiki/Hans_Rosling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TED talk&lt;/a&gt; on poverty – extremly cool 🙂&lt;/p&gt;
 </description>

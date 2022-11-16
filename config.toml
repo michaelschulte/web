@@ -11,3 +11,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+

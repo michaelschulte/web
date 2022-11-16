@@ -5,17 +5,25 @@
     <link>/author/ralph-hertwig/</link>
       <atom:link href="/author/ralph-hertwig/index.xml" rel="self" type="application/rss+xml" />
     <description>Ralph Hertwig</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ralph Hertwig</title>
       <link>/author/ralph-hertwig/</link>
     </image>
     
     <item>
+      <title>The attention–aversion gap: how allocation of attention relates to loss aversion</title>
+      <link>/publication/lejarraga-2019-loss/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lejarraga-2019-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Blind haste: As light decreases, speeding increases</title>
       <link>/publication/debellis2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/publication/debellis2018/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>Prospect Theory Reflects Selective Allocation of Attention</title>
       <link>/publication/pachur-2017-author/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/publication/pachur-2017-author/</guid>
       <description></description>
     </item>
@@ -31,7 +39,7 @@
     <item>
       <title>A Lack of Appetite for Information and Computation: Simple Heuristics in Food Choice</title>
       <link>/publication/schulte-2013-lack/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>/publication/schulte-2013-lack/</guid>
       <description></description>
     </item>

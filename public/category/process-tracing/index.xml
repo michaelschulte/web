@@ -5,9 +5,9 @@
     <link>/category/process-tracing/</link>
       <atom:link href="/category/process-tracing/index.xml" rel="self" type="application/rss+xml" />
     <description>process tracing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>process tracing</title>
       <link>/category/process-tracing/</link>
     </image>
@@ -23,7 +23,7 @@
 &lt;p&gt;The book has 390 pages divided into 24 chapters. There are 202014 words in there including everything (references, thanks, hello, goodbye &amp;hellip;).&lt;/p&gt;
 &lt;p&gt;Ignoring the chapters and that they have reference lists, that mess up things a bit, first an overview of frequency for highly frequent words:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/images/words_frequency.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;No big surprises there for a process tracing book in decision making - but still - models pop up quite high in the list and trajectories - the new kid on the block when it comes to mousetracking also gets a mention - the list is truncated and I did not bother to remove things like &amp;lsquo;et al.&amp;rsquo; or &amp;lsquo;e.g&amp;rsquo; (the second . got caught by the script, the first one not).&lt;/p&gt;
+&lt;p&gt;No big surprises there for a process tracing book in decision making - but still - models pop up quite high in the list and trajectories - the new kid on the block when it comes to mousetracking also gets a mention - the list is truncated and I did not bother to remove things like &amp;rsquo;et al.&amp;rsquo; or &amp;rsquo;e.g&amp;rsquo; (the second . got caught by the script, the first one not).&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;/images/words_per_chapter.pdf&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is more interesting - I calculated the 
 &lt;a href=&#34;https://en.wikipedia.org/wiki/Tf%e2%80%93idf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tf-idf&lt;/a&gt; (term frequency–inverse document frequency) which tells us how important a word is but takes care of how often a word appears in general - so a better measure than just using the raw frequency of a word. I did this for each chapter (
@@ -41,7 +41,8 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/post/hoptm/</guid>
       <description>&lt;p&gt;WOOP WOOP - here it is - the second edition of our beloved &amp;ldquo;Handbook of Process Tracing Methods&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;If you can&amp;rsquo;t wait - buy it here: &lt;a href=&#34;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&#34;&gt;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you can&amp;rsquo;t wait - buy it here: 
+&lt;a href=&#34;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.crcpress.com/A-Handbook-of-Process-Tracing-Methods-2nd-Edition/Schulte-Mecklenbeck-Kuehberger-Johnson/p/book/9781138064218&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It is bigger and better than the first edition, comes with the classics (Figner on skin conductance, Willemsen on Mouselab and many more) and many new awesome chapters - here is a list:&lt;/p&gt;
 &lt;p&gt;1 Eye Fixations as a Process Trace - J. Edward Russo&lt;/p&gt;
 &lt;p&gt;2 Pervasive Eye-Tracking for Real-World Consumer Behavior Analysis - Andreas Bulling and Michel Wedel&lt;/p&gt;
@@ -76,7 +77,8 @@
       <link>/post/2019-06-04-hoptm2ndedition/</link>
       <pubDate>Tue, 04 Jun 2019 06:05:56 -0700</pubDate>
       <guid>/post/2019-06-04-hoptm2ndedition/</guid>
-      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
+      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (
+&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
 </description>
     </item>
     
@@ -86,8 +88,8 @@
       <pubDate>Wed, 12 Apr 2017 07:45:12 -0700</pubDate>
       <guid>/post/2017-04-12-growing-up-to-be-old/</guid>
       <description>&lt;p&gt;Some papers have somewhat weird starting points – this one had an awesome starting point – Lake Louise (Canada):&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;aligncenter size-large wp-image-505&#34; src=&#34;/uploads//2017/04/canada-1024x347.jpg&#34; alt=&#34;&#34; width=&#34;584&#34; height=&#34;198&#34; srcset=&#34;2017/04/canada-1024x347.jpg 1024w, 2017/04/canada-300x102.jpg 300w, 2017/04/canada-768x260.jpg 768w, 2017/04/canada-1477x500.jpg 1477w, 2017/04/canada-500x169.jpg 500w&#34; sizes=&#34;(max-width: 584px) 100vw, 584px&#34; /&gt;&lt;br&gt;
-&lt;img class=&#34;aligncenter size-full wp-image-507&#34; src=&#34;/uploads//2017/04/wprkshop.jpg&#34; alt=&#34;&#34; width=&#34;423&#34; height=&#34;372&#34; srcset=&#34;2017/04/wprkshop.jpg 423w, 2017/04/wprkshop-300x264.jpg 300w&#34; sizes=&#34;(max-width: 423px) 100vw, 423px&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;aligncenter size-large wp-image-505&#34; src=&#34;/uploads//2017/04/canada-1024x347.jpg&#34; alt=&#34;&#34; width=&#34;584&#34; height=&#34;198&#34; srcset=&#34;2017/04/canada-1024x347.jpg 1024w, 2017/04/canada-300x102.jpg 300w, 2017/04/canada-768x260.jpg 768w, 2017/04/canada-1477x500.jpg 1477w, 2017/04/canada-500x169.jpg 500w&#34; sizes=&#34;(max-width: 584px) 100vw, 584px&#34; /&gt;  
+&lt;img class=&#34;aligncenter size-full wp-image-507&#34; src=&#34;/uploads//2017/04/wprkshop.jpg&#34; alt=&#34;&#34; width=&#34;423&#34; height=&#34;372&#34; srcset=&#34;2017/04/wprkshop.jpg 423w, 2017/04/wprkshop-300x264.jpg 300w&#34; sizes=&#34;(max-width: 423px) 100vw, 423px&#34; /&gt; 
 &lt;p&gt;In a little suite we (
 &lt;a href=&#34;https://miamioh.edu/cas/academics/departments/psychology/about/current-faculty-staff/johnson-joseph/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joe Johnson&lt;/a&gt;, 
 &lt;a href=&#34;http://www.kellogg.northwestern.edu/faculty/directory/bockenholt_ulf.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ulf Böckenholt&lt;/a&gt;, 

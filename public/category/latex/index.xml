@@ -5,9 +5,9 @@
     <link>/category/latex/</link>
       <atom:link href="/category/latex/index.xml" rel="self" type="application/rss+xml" />
     <description>LaTeX</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 30 Apr 2017 23:16:22 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Sun, 30 Apr 2017 23:16:22 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>LaTeX</title>
       <link>/category/latex/</link>
     </image>
@@ -35,12 +35,12 @@
 &lt;p&gt;hmm – kind of did that.&lt;/p&gt;
 &lt;p&gt;One reason being that when coding LaTeX in Sublime there is an awesome autocompletion feature:&lt;/p&gt;
 &lt;p&gt;Type ‘enum’ and you get:&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-431&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.37&#34; width=&#34;300&#34; height=&#34;104&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37-500x173.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37.png 730w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;alignleft size-medium wp-image-431&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.37&#34; width=&#34;300&#34; height=&#34;104&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.37-300x104.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37-500x173.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.37.png 730w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; 
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Shift + Enter within an itemize adds a new \item&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;alignleft size-medium wp-image-432&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.46&#34; width=&#34;300&#34; height=&#34;99&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46-500x165.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46.png 716w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/p&gt;
+&lt;img class=&#34;alignleft size-medium wp-image-432&#34; src=&#34;/uploads//2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png&#34; alt=&#34;Screen Shot 2016-01-28 at 16.45.46&#34; width=&#34;300&#34; height=&#34;99&#34; srcset=&#34;2016/01/Screen-Shot-2016-01-28-at-16.45.46-300x99.png 300w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46-500x165.png 500w, 2016/01/Screen-Shot-2016-01-28-at-16.45.46.png 716w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt; 
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
@@ -63,9 +63,12 @@ Ideally, research papers would have code for analyses which are commented in det
 &lt;p&gt;What do we need to achieve this? From a policy perspective, journals would have to add the requirement for data and code submission together with the draft of each empirical paper. Some journals already provide the option to do that (e.g., Behavior Research Methods) in the supplemental material section on a voluntary base, some require the submission of all necessary material to replicate the reported results (e.g., Econometrica), however most do not offer such a possibility (it is of course possible to provide such materials through private or university web sites, but this is a haphazard and decentralized arrangement).&lt;/p&gt;
 &lt;p&gt;Tools are a second important part of facilitating this openness. Three open source (free of cost) components could provide the bases for reproducible research:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (&lt;a href=&#34;http://www.R-project.org&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, &lt;a href=&#34;http://www.latex-project.org/)&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;R (R Development Core Team, 2010) is widely recognized (cite) as the “language of statistics” and builds on writing code instead of a “click and forget” type of analysis that other software packages encourage. R is open source, comes with a large number of extensions for advanced statistical analysis and can be run on any computer platform, including as a Web based application (
+&lt;a href=&#34;http://www.R-project.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.R-project.org&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;LaTeX was invented to provide a tool for anybody to produce high quality publications independent of the computer system used (i.e. one could expect the same results everywhere, 
+&lt;a href=&#34;http://www.latex-project.org/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.latex-project.org/)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Sweave (Leisch, 2002) connects R and LaTeX providing the opportunity to write a research paper and do the data analysis in parallel, in a well documented and reproducible way (
+&lt;a href=&#34;http://www.stat.uni-muenchen.de/~leisch/Sweave/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.stat.uni-muenchen.de/~leisch/Sweave/)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The power of these different tools comes from the combination of their being open source, their widespread adoption (across a wide range of fields in sciences), and the fully transparent means by which data analysis is conducted and reported.  It levels the playing field and means that anybody with an Internet connection and a computer can take part in evolving scientific progress.&lt;/p&gt;
 &lt;p&gt;John Godfrey Saxe famously said that: “Laws, like sausages, cease to inspire respect in proportion as we know how they are made.” We should strive that this is not true for psychology as a science.&lt;/p&gt;
@@ -78,10 +81,9 @@ Ideally, research papers would have code for analyses which are commented in det
       <link>/post/2010-07-15-two-good-things-come-together/</link>
       <pubDate>Thu, 15 Jul 2010 01:49:54 -0700</pubDate>
       <guid>/post/2010-07-15-two-good-things-come-together/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://docs.latexlab.org/docs&#34;&gt;http://docs.latexlab.org/docs&lt;/a&gt;&lt;br&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://docs.latexlab.org/docs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.latexlab.org/docs&lt;/a&gt;&lt;br&gt;
 LaTeX and Google Docs together in one nice (free)application – this is a brilliant idea, which gives you the power of LaTeX combined with the excellent collaboration possiblities of Google Docs – if I would have a button it would say “I like” …&lt;/p&gt;
-&lt;p&gt;Here is a screenshot from the project page – with LaTeX code on one side and the final output on the other …&lt;br&gt;
-&lt;img alt=&#34;&#34; src=&#34;http://reactor.bloo.us/images/ll-screen-2.png&#34; title=&#34;Screenshot LaTeX and Google Docs&#34; class=&#34;alignnone&#34; width=&#34;300&#34; height=&#34;150&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -117,7 +119,8 @@ citeauthor{Spiel2001} – Spiel citeyearNP{Bortz1993} – 1993&lt;/p&gt;
 &lt;p&gt;usepackage[german]{babel}&lt;br&gt;
 usepackage[ansinew]{inputenc}&lt;/p&gt;
 &lt;p&gt;Two useful links:&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;1) Wikipedia book on LaTeX&lt;/span&gt;&lt;span&gt;&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt; &lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt;http://en.wikibooks.org/wiki/LaTeX&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;1) Wikipedia book on LaTeX&lt;/span&gt;&lt;span&gt;&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34;&gt; 
+&lt;a href=&#34;http://en.wikibooks.org/wiki/LaTeX&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://en.wikibooks.org/wiki/LaTeX&lt;/a&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;2) A &lt;a href=&#34;http://www.uni-salzburg.at/portal/page?_pageid=138,456842&amp;_dad=portal&amp;_schema=PORTAL&#34;&gt;page&lt;/a&gt; at the University of Salzburg’s Psychology department (German!)&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;a href=&#34;http://www.users.sbg.ac.at/~gdkleiter/&#34;&gt;Gernot Kleiter&lt;/a&gt; was the person who introduced me to LaTeX, decision making, good experimenting … actually, there should be a whole post about him …&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;
 </description>

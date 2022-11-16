@@ -5,9 +5,9 @@
     <link>/category/statistics/</link>
       <atom:link href="/category/statistics/index.xml" rel="self" type="application/rss+xml" />
     <description>Statistics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022</copyright><lastBuildDate>Mon, 10 Dec 2018 06:05:56 -0700</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Statistics</title>
       <link>/category/statistics/</link>
     </image>
@@ -17,7 +17,8 @@
       <link>/post/2018-12-10-bernr-meetup/</link>
       <pubDate>Mon, 10 Dec 2018 06:05:56 -0700</pubDate>
       <guid>/post/2018-12-10-bernr-meetup/</guid>
-      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
+      <description>&lt;p&gt;Today (Dec 10th 2018) we will meet for the first BernR Meetup (
+&lt;a href=&#34;https://www.meetup.com/Bern-R/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.meetup.com/Bern-R/&lt;/a&gt;) – hope to learn new things and get to know cool R people. More to follow soon ..&lt;/p&gt;
 </description>
     </item>
     
@@ -85,7 +86,9 @@ RStudio and Shiny&lt;/p&gt;
 &lt;li&gt;do.R # do the work&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I kind of started doing something along these lines, with splitting files into load/clean (still together, could go separate …), cleaning, graphing (which does not make a lot of sense in an extra file) and large junks of analysis … got to redo some directories now …&lt;/p&gt;
-&lt;p&gt;Other cool links from today’s follow-this-link trip: &lt;a href=&#34;http://www.getskeleton.com/&#34;&gt;http://www.getskeleton.com/&lt;/a&gt; and &lt;a href=&#34;http://subtlepatterns.com/&#34;&gt;http://subtlepatterns.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Other cool links from today’s follow-this-link trip: 
+&lt;a href=&#34;http://www.getskeleton.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.getskeleton.com/&lt;/a&gt; and 
+&lt;a href=&#34;http://subtlepatterns.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://subtlepatterns.com/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -122,7 +125,7 @@ I took the list below from the
 &lt;a href=&#34;http://blog.revolutionanalytics.com/2010/07/charting-the-world-cup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revolution blog&lt;/a&gt; a nice example of using R with data from the cloud (see another post on this topic 
 &lt;a href=&#34;http://www.schulte-mecklenbeck.com/?p=105&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;) shows us the distribution of fouls during the just finished World Cup in a nice barchart. Even more interesting than the fact that Holland rules this category is the way the data are collected from a Google spreadsheet page.&lt;/p&gt;
 &lt;p&gt;With the following simple code line:&lt;br&gt;
-&lt;code&gt;teams &amp;lt;- read.csv(&amp;quot;http://spreadsheets.google.com/pub?key=tOM2qREmPUbv76waumrEEYg&amp;amp;#038;single=true&amp;amp;#038;gid=0&amp;amp;#038;range=A1%3AAG15&amp;amp;#038;output=csv&amp;quot;)&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;teams &amp;lt;- read.csv(&amp;quot;http://spreadsheets.google.com/pub?key=tOM2qREmPUbv76waumrEEYg&amp;amp;#038;single=true&amp;amp;#038;gid=0&amp;amp;#038;range=A1%3AAG15&amp;amp;#038;output=csv&amp;quot;) &lt;/code&gt;&lt;br&gt;
 We can read a specific part from a spreadsheet hosted on Google into our local R environment. Some deatils: &amp;ldquo;&amp;amp;gid=&amp;rdquo; (sheet number) and &amp;ldquo;%range=&amp;rdquo; (cell ranges: A1%3A ) and &amp;ldquo;&amp;amp;output=csv&amp;rdquo; to download in CSV format.&lt;/p&gt;
 &lt;p&gt;With some more lines, using the awsome 
 &lt;a href=&#34;http://had.co.nz/ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot2&lt;/a&gt;&lt;br&gt;
@@ -207,13 +210,16 @@ Start Time:&lt;br&gt;
 5:04 AM (Weds) – New Zealand (birthplace of R)&lt;br&gt;
 Duration: 50 minutes&lt;/p&gt;
 &lt;p&gt;(1) At some point during the day on September 8th, synchronize your watch to&lt;br&gt;
-&lt;a href=&#34;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&#34;&gt;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://timeanddate.com/worldclock/personal.html?cities=137,75,64,179,136,37,22&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;(2) The mob should form at precisely 4 minutes past the hour and not beforehand.&lt;/p&gt;
 &lt;p&gt;(3) At 4 minutes past the hour, you should arrive at stackoverflow.com, log in,&lt;br&gt;
 and post 3 R questions. Be sure to tag the questions “R”. See the posting&lt;br&gt;
-guidelines at &lt;a href=&#34;http://stackoverflow.com/faq&#34;&gt;http://stackoverflow.com/faq&lt;/a&gt; to understand what makes a good&lt;br&gt;
+guidelines at 
+&lt;a href=&#34;http://stackoverflow.com/faq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://stackoverflow.com/faq&lt;/a&gt; to understand what makes a good&lt;br&gt;
 question.&lt;/p&gt;
-&lt;p&gt;(4) Follow R Flashmob updates at &lt;a href=&#34;http://twitter.com/rstatsmob&#34;&gt;http://twitter.com/rstatsmob&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(4) Follow R Flashmob updates at 
+&lt;a href=&#34;http://twitter.com/rstatsmob&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://twitter.com/rstatsmob&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;(5) Post twitter messages tagged #rstats and #rstatsmob during the mob,&lt;br&gt;
 providing links to your questions.&lt;/p&gt;
 &lt;p&gt;(6) During the R MOB, you can chat with other participants on the #R channel&lt;br&gt;
@@ -223,7 +229,8 @@ bottom of the screen. Then chat.&lt;/p&gt;
 &lt;p&gt;(7) If you finish posting your three questions within the 50 minutes, stick&lt;br&gt;
 around to answer questions and give “up votes” to good questions and answers.&lt;/p&gt;
 &lt;p&gt;(8) IMPORTANT: After posting, sign the R Flashmob guestbook at&lt;br&gt;
-&lt;a href=&#34;http://bit.ly/6F8B2&#34;&gt;http://bit.ly/6F8B2&lt;/a&gt;&lt;/p&gt;
+
+&lt;a href=&#34;http://bit.ly/6F8B2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://bit.ly/6F8B2&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;(9) Return to what you would otherwise have been doing. Await&lt;br&gt;
 instructions for R MOB #3.&lt;/p&gt;
 </description>
